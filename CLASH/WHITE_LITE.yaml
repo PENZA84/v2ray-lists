@@ -2,154 +2,46 @@
 # Profile: V2Ray Lists - WHITE LITE
 # Support: https://t.me/flat447
 # Update interval: 1 hour
-# Valid proxies: 246
+# Valid proxies: 245
 
 proxies:
-- name: WHITE LITE [12]
+- name: WHITE LITE [1]
   type: vless
-  server: 51.250.66.16
+  server: 185.71.67.223
   port: 443
-  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: WHITE LITE [13]
-  type: vless
-  server: 185.22.235.63
-  port: 443
-  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: sso.passport.yandex.ru
-- name: WHITE LITE [14]
-  type: vless
-  server: 195.209.86.193
-  port: 443
-  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
-  encryption: none
-  tls: true
-  client-fingerprint: qq
-  servername: s90782.cdn.ngenix.net
-  network: ws
-  ws-opts:
-    path: /v1/data/sync/
-    headers:
-      Host: s90782.cdn.ngenix.net
-- name: WHITE LITE [16]
-  type: vless
-  server: 87.228.101.57
-  port: 8443
-  uuid: db3a365a-0193-41db-8b09-077771fe4ad3
-  encryption: none
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: razU6QTL659hzCH6GUbA8icGt7J4MtOF19Wz5IrumGg
-    short-id: e3a6a0ee012466b3
-  servername: api-maps.yandex.ru
-- name: WHITE LITE [19]
-  type: vless
-  server: 89.208.231.191
-  port: 8443
-  uuid: c6e6bea4-9410-1f40-a5e0-61a70d8f240d
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
-    short-id: d8c6b58bcbb0c323
-  servername: max.ru
-- name: WHITE LITE [20]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: 7fef12b4-e638-4436-902e-46e5a5d4e50f
+  uuid: 7cec3808-65d4-4dbd-941f-e9b640977071
   encryption: none
   tls: true
   client-fingerprint: edge
-  servername: cdnyan4.floatingcars.net
-- name: WHITE LITE [21]
+  servername: cdn.stroimvmeste.icu
+- name: WHITE LITE [2]
   type: vless
-  server: 51.250.66.16
+  server: 185.71.67.223
   port: 443
-  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: ads.x5.ru
-- name: WHITE LITE [23]
-  type: vless
-  server: 185.22.235.63
-  port: 443
-  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: web.max.ru
-- name: WHITE LITE [30]
-  type: vless
-  server: 84.201.164.23
-  port: 443
-  uuid: 5f244b01-177b-4cf9-bda5-6c12711d33d8
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: vyzsQLMRAuySJxAg0sNHXzgJuT8PGRakCay3rzUbT3k
-    short-id: 27e53bbcab7593d7
-  servername: smartcaptcha.yandexcloud.net
-- name: WHITE LITE [36]
-  type: vless
-  server: 62.152.58.114
-  port: 443
-  uuid: c3b20f05-64e7-4cce-8ac9-c1993ec0097f
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: jAJoyWJ4nMGai3H9BOa6QMUr2Vvpgqs8VipbaO5mCVU
-    short-id: 3130197867c23edb
-  servername: wl-13-1.nodes.ac
-- name: WHITE LITE [37]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: 5524d9b2-afb0-47dc-ac32-4c04920e5574
+  uuid: 7cec3808-65d4-4dbd-941f-e9b640977071
   encryption: none
   tls: true
   client-fingerprint: edge
-  servername: apple.dbintro.space
-- name: WHITE LITE [38]
+  servername: cdn.stroimvmeste.icu
+- name: WHITE LITE [3]
   type: vless
-  server: 188.72.103.3
+  server: 185.71.67.223
   port: 443
-  uuid: f4f28606-ec5a-42bf-bbb3-aeaec350e612
+  uuid: 7cec3808-65d4-4dbd-941f-e9b640977071
   encryption: none
   tls: true
   client-fingerprint: edge
-  servername: apple.dbintro.space
-- name: WHITE LITE [39]
+  servername: cdn.stroimvmeste.icu
+- name: WHITE LITE [4]
+  type: vless
+  server: 185.71.67.223
+  port: 443
+  uuid: 7cec3808-65d4-4dbd-941f-e9b640977071
+  encryption: none
+  tls: true
+  client-fingerprint: edge
+  servername: cdn.stroimvmeste.icu
+- name: WHITE LITE [5]
   type: vless
   server: 185.71.67.223
   port: 443
@@ -158,472 +50,62 @@ proxies:
   tls: true
   client-fingerprint: firefox
   servername: cdn.stroimvmeste.icu
-- name: WHITE LITE [40]
+- name: WHITE LITE [6]
   type: vless
-  server: 89.208.231.191
-  port: 8443
-  uuid: c6e6bea4-9410-03e8-a5e0-61a70d8f240d
+  server: 185.71.67.223
+  port: 443
+  uuid: 7cec3808-65d4-4dbd-941f-e9b640977071
+  encryption: none
+  tls: true
+  client-fingerprint: edge
+  servername: cdn.stroimvmeste.icu
+- name: WHITE LITE [7]
+  type: vless
+  server: 185.71.67.223
+  port: 443
+  uuid: 7cec3808-65d4-4dbd-941f-e9b640977071
+  encryption: none
+  tls: true
+  client-fingerprint: edge
+  servername: cdn.stroimvmeste.icu
+- name: WHITE LITE [8]
+  type: vless
+  server: 185.86.145.231
+  port: 5443
+  uuid: 57c77d07-bec3-4bf7-9b72-70ece40450f6
   encryption: none
   flow: xtls-rprx-vision
   tls: true
   client-fingerprint: qq
   reality-opts:
-    public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
-    short-id: d8c6b58bcbb0c323
+    public-key: LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ
   servername: max.ru
-- name: WHITE LITE [44]
-  type: vless
-  server: 37.9.4.128
-  port: 443
-  uuid: bb784a46-782a-45a3-86aa-e5aed4b19d3c
-  encryption: none
-  tls: true
-  client-fingerprint: qq
-  servername: api1.madapp.cc
-- name: WHITE LITE [48]
-  type: vless
-  server: 79.174.90.31
-  port: 443
-  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: ads.x5.ru
-- name: WHITE LITE [49]
-  type: vless
-  server: 158.160.59.225
-  port: 443
-  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: smartcaptcha.yandexcloud.net
-- name: WHITE LITE [50]
-  type: vless
-  server: 84.201.174.157
-  port: 443
-  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: WHITE LITE [59]
-  type: vless
-  server: 84.201.156.242
-  port: 443
-  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: sso.passport.yandex.ru
-- name: WHITE LITE [60]
-  type: vless
-  server: 84.201.174.157
-  port: 443
-  uuid: 5d6cdca8-654c-41d6-b352-1d47b9cf84bd
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: web.max.ru
-- name: WHITE LITE [61]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: c5dbf08e-61c6-400f-8c6e-a8169764320c
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  servername: shops.sale-stars.com
-- name: WHITE LITE [62]
-  type: vless
-  server: 62.152.56.73
-  port: 443
-  uuid: c3b20f05-64e7-4cce-8ac9-c1993ec0097f
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg
-    short-id: cf43c0c197cd464a
-  servername: wl-12.nodes.ac
-- name: WHITE LITE [63]
-  type: vless
-  server: 62.152.56.73
-  port: 443
-  uuid: c3b20f05-64e7-4cce-8ac9-c1993ec0097f
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg
-    short-id: cf43c0c197cd464a
-  servername: wl-12.nodes.ac
-- name: WHITE LITE [64]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: 7fef12b4-e638-4436-902e-46e5a5d4e50f
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  servername: cdnyan6.floatingcars.net
-- name: WHITE LITE [65]
+- name: WHITE LITE [11]
   type: vless
   server: 217.28.48.29
   port: 25752
   uuid: 27f2ae85-3e15-4a9a-9c71-49ee032e7b26
   encryption: none
-  client-fingerprint: edge
-- name: WHITE LITE [66]
-  type: vless
-  server: 31.129.42.37
-  port: 443
-  uuid: bb784a46-782a-45a3-86aa-e5aed4b19d3c
-  encryption: none
-  tls: true
-  client-fingerprint: qq
-  servername: api.datapull.cc
-- name: WHITE LITE [69]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: 7fef12b4-e638-4436-902e-46e5a5d4e50f
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  servername: cdnyan.floatingcars.net
-- name: WHITE LITE [70]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: 7fef12b4-e638-4436-902e-46e5a5d4e50f
-  encryption: none
-  tls: true
-  client-fingerprint: qq
-  servername: cdnyan2.floatingcars.net
-- name: WHITE LITE [73]
-  type: vless
-  server: 84.201.174.157
-  port: 443
-  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: web.max.ru
-- name: WHITE LITE [74]
-  type: vless
-  server: 84.201.172.95
-  port: 443
-  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
   client-fingerprint: firefox
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: smartcaptcha.yandexcloud.net
-- name: WHITE LITE [75]
+- name: WHITE LITE [12]
   type: vless
-  server: 185.229.9.204
+  server: 78.41.111.87
   port: 443
-  uuid: 3aa7bb59-edf0-4756-b8ee-70fa1baf9271
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 0k11W7Kb0ncWPcknoD0xJikoESlU5ApDYySG7X7OZCU
-    short-id: 27e53bbcab7593d7
-  servername: ads.x5.ru
-- name: WHITE LITE [78]
-  type: vless
-  server: 185.71.67.223
-  port: 443
-  uuid: 7cec3808-65d4-4dbd-941f-e9b640977071
+  uuid: dba50bb9-2456-4128-8632-f7ba1e6a7ab5
   encryption: none
   tls: true
   client-fingerprint: qq
-  servername: cdn.stroimvmeste.icu
-- name: WHITE LITE [81]
-  type: vless
-  server: 185.229.9.32
-  port: 443
-  uuid: 5f244b01-177b-4cf9-bda5-6c12711d33d8
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: r6LKP3g2W5ruKICTDfH8rwM1PbMjdcgHU7cG6jppxTs
-    short-id: 27e53bbcab7593d7
-  servername: yandex.ru
-- name: WHITE LITE [82]
-  type: vless
-  server: 185.229.9.222
-  port: 443
-  uuid: 5f244b01-177b-4cf9-bda5-6c12711d33d8
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: r6LKP3g2W5ruKICTDfH8rwM1PbMjdcgHU7cG6jppxTs
-    short-id: 27e53bbcab7593d7
-  servername: yandex.ru
-- name: WHITE LITE [86]
-  type: vless
-  server: 185.22.235.222
-  port: 443
-  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: ads.x5.ru
-- name: WHITE LITE [90]
-  type: vless
-  server: 195.209.86.152
-  port: 443
-  uuid: 0abb3a4c-aab4-41d7-8ca4-b1b7aa7da417
-  encryption: none
-  tls: true
-  client-fingerprint: qq
-  servername: s43362.cdn.ngenix.net
+  servername: s10211.cdn.ngenix.net
   network: ws
   ws-opts:
-    path: /v1/data/sync/
+    path: /api/user
     headers:
-      Host: s43362.cdn.ngenix.net
-- name: WHITE LITE [98]
-  type: vless
-  server: 185.22.235.63
-  port: 443
-  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: smartcaptcha.yandexcloud.net
-- name: WHITE LITE [99]
-  type: vless
-  server: 185.22.235.63
-  port: 443
-  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: WHITE LITE [106]
-  type: vless
-  server: 84.201.178.175
-  port: 443
-  uuid: 3aa7bb59-edf0-4756-b8ee-70fa1baf9271
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI
-    short-id: 27e53bbcab7593d7
-  servername: yandex.ru
-- name: WHITE LITE [114]
-  type: vless
-  server: 158.160.59.97
-  port: 443
-  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: web.max.ru
-- name: WHITE LITE [116]
-  type: vless
-  server: 46.8.209.215
-  port: 443
-  uuid: b35e2dce-f413-416e-b7e1-6385eaa8dd61
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8
-    short-id: ae03e6ef452252e0
-  servername: www.vk.com
-- name: WHITE LITE [119]
-  type: vless
-  server: 84.201.178.175
-  port: 443
-  uuid: ef5069f9-f010-4fd8-898e-7d8499f06c7f
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI
-    short-id: 27e53bbcab7593d7
-  servername: yandex.ru
-- name: WHITE LITE [124]
-  type: vless
-  server: 178.154.214.111
-  port: 443
-  uuid: db3a365a-0193-41db-8b09-077771fe4ad3
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8
-    short-id: 22730c666bd10642
-  servername: api-maps.yandex.ru
-- name: WHITE LITE [125]
-  type: vless
-  server: 87.228.101.57
-  port: 8443
-  uuid: db3a365a-0193-41db-8b09-077771fe4ad3
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 4rOkMPLt9aMOXiDmXkPX6RQP6jd6qBLBvGJx45JFWFk
-    short-id: ee82aca370f4428b
-  servername: m.vk.com
-- name: WHITE LITE [128]
-  type: vless
-  server: 87.228.101.57
-  port: 8443
-  uuid: db3a365a-0193-41db-8b09-077771fe4ad3
-  encryption: none
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 4rOkMPLt9aMOXiDmXkPX6RQP6jd6qBLBvGJx45JFWFk
-    short-id: ee82aca370f4428b
-  servername: rutube.ru
-- name: WHITE LITE [132]
-  type: vless
-  server: 188.68.218.110
-  port: 443
-  uuid: bb784a46-782a-45a3-86aa-e5aed4b19d3c
-  encryption: none
-  tls: true
-  client-fingerprint: qq
-  servername: api.madapp.cc
-- name: WHITE LITE [134]
-  type: vless
-  server: 87.228.101.57
-  port: 8443
-  uuid: db3a365a-0193-41db-8b09-077771fe4ad3
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 4rOkMPLt9aMOXiDmXkPX6RQP6jd6qBLBvGJx45JFWFk
-    short-id: ee82aca370f4428b
-  servername: api.yandex.ru
-- name: WHITE LITE [136]
-  type: vless
-  server: 84.201.180.178
-  port: 443
-  uuid: db3a365a-0193-41db-8b09-077771fe4ad3
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8
-    short-id: 22730c666bd10642
-  servername: api-maps.yandex.ru
-- name: WHITE LITE [137]
-  type: vless
-  server: 158.160.208.250
-  port: 443
-  uuid: db3a365a-0193-41db-8b09-077771fe4ad3
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8
-    short-id: 22730c666bd10642
-  servername: api-maps.yandex.ru
-- name: WHITE LITE [139]
-  type: vless
-  server: 87.228.101.211
-  port: 8443
-  uuid: db3a365a-0193-41db-8b09-077771fe4ad3
-  encryption: none
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 4rOkMPLt9aMOXiDmXkPX6RQP6jd6qBLBvGJx45JFWFk
-    short-id: ee82aca370f4428b
-  servername: api.yandex.ru
-- name: WHITE LITE [140]
-  type: vless
-  server: 87.228.101.211
-  port: 8443
-  uuid: db3a365a-0193-41db-8b09-077771fe4ad3
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 4rOkMPLt9aMOXiDmXkPX6RQP6jd6qBLBvGJx45JFWFk
-    short-id: ee82aca370f4428b
-  servername: m.vk.com
-- name: WHITE LITE [142]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: c5dbf08e-61c6-400f-8c6e-a8169764320c
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  servername: shops.sale-stars.com
-- name: WHITE LITE [143]
+      Host: s10211.cdn.ngenix.net
+- name: WHITE LITE [15]
   type: vless
   server: 89.208.231.191
   port: 8443
-  uuid: c6e6bea4-9410-07d0-a5e0-61a70d8f240d
+  uuid: 8e243140-f91c-07d0-a22a-62492a5269c4
   encryption: none
   flow: xtls-rprx-vision
   tls: true
@@ -632,160 +114,88 @@ proxies:
     public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
     short-id: d8c6b58bcbb0c323
   servername: max.ru
-- name: WHITE LITE [144]
+- name: WHITE LITE [16]
   type: vless
   server: 185.249.199.100
   port: 8585
   uuid: c9f992e1-e838-4130-a2cd-81997b62f65e
   encryption: none
-  client-fingerprint: edge
+  client-fingerprint: qq
   network: ws
   ws-opts:
     path: /spammers
     headers:
-      Host: Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP
-- name: WHITE LITE [147]
+      Host: 185.249.199.100
+- name: WHITE LITE [17]
+  type: vless
+  server: 194.76.18.214
+  port: 8880
+  uuid: b6412118-883e-405a-ab0f-5b93e41c93d9
+  encryption: none
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳+@WangCai2
+    headers:
+      Host: feijige.rujiao.icu
+- name: WHITE LITE [18]
+  type: vless
+  server: 194.76.18.214
+  port: 8880
+  uuid: b6412118-883e-405a-ab0f-5b93e41c93d9
+  encryption: none
+  client-fingerprint: firefox
+  network: ws
+  ws-opts:
+    path: Telegram @WangCai2
+    headers:
+      Host: feijige.rujiao.icu
+- name: WHITE LITE [19]
   type: vless
   server: 185.71.67.223
   port: 443
   uuid: 7cec3808-65d4-4dbd-941f-e9b640977071
   encryption: none
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: edge
   servername: cdn.stroimvmeste.icu
-- name: WHITE LITE [148]
+- name: WHITE LITE [20]
   type: vless
   server: 185.71.67.223
   port: 443
   uuid: 7cec3808-65d4-4dbd-941f-e9b640977071
   encryption: none
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: edge
   servername: cdn.stroimvmeste.icu
-- name: WHITE LITE [149]
+- name: WHITE LITE [21]
+  type: vless
+  server: 78.41.111.87
+  port: 443
+  uuid: dba50bb9-2456-4128-8632-f7ba1e6a7ab5
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  servername: s10211.cdn.ngenix.net
+  network: ws
+  ws-opts:
+    path: /api/user
+    headers:
+      Host: s10211.cdn.ngenix.net
+- name: WHITE LITE [22]
   type: vless
   server: 89.208.231.191
   port: 8443
-  uuid: 78fada7a-fc2d-07d0-a35e-140aa93212bf
+  uuid: b61e6cdf-176e-07d0-a146-eb9a8dbf7a0d
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: edge
   reality-opts:
     public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
     short-id: d8c6b58bcbb0c323
   servername: max.ru
-- name: WHITE LITE [151]
-  type: vless
-  server: 5.188.115.226
-  port: 13443
-  uuid: 1ddf33c9-917f-4d3a-8a3e-a8f499a22d69
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: N6RiU4XHQl31HeKmBNOFDypgfDqqshGa7zxfqe72hjk
-    short-id: e42075de64c24511
-  servername: cdn.byteark.com
-- name: WHITE LITE [152]
-  type: vless
-  server: 78.41.111.87
-  port: 443
-  uuid: dba50bb9-2456-4128-8632-f7ba1e6a7ab5
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  servername: s10211.cdn.ngenix.net
-  network: ws
-  ws-opts:
-    path: /api/user
-    headers:
-      Host: s10211.cdn.ngenix.net
-- name: WHITE LITE [153]
-  type: vless
-  server: 78.41.111.87
-  port: 443
-  uuid: dba50bb9-2456-4128-8632-f7ba1e6a7ab5
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  servername: s10211.cdn.ngenix.net
-  network: ws
-  ws-opts:
-    path: /api/user
-    headers:
-      Host: s10211.cdn.ngenix.net
-- name: WHITE LITE [154]
-  type: vless
-  server: 78.41.111.87
-  port: 443
-  uuid: dba50bb9-2456-4128-8632-f7ba1e6a7ab5
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  servername: s10211.cdn.ngenix.net
-  network: ws
-  ws-opts:
-    path: /api/user
-    headers:
-      Host: s10211.cdn.ngenix.net
-- name: WHITE LITE [155]
-  type: vless
-  server: 5.188.115.226
-  port: 13443
-  uuid: 1ddf33c9-917f-4d3a-8a3e-a8f499a22d69
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: N6RiU4XHQl31HeKmBNOFDypgfDqqshGa7zxfqe72hjk
-    short-id: e42075de64c24511
-  servername: cdn.byteark.com
-- name: WHITE LITE [156]
-  type: vless
-  server: 78.41.111.87
-  port: 443
-  uuid: dba50bb9-2456-4128-8632-f7ba1e6a7ab5
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  servername: s10211.cdn.ngenix.net
-  network: ws
-  ws-opts:
-    path: /api/user
-    headers:
-      Host: s10211.cdn.ngenix.net
-- name: WHITE LITE [157]
-  type: vless
-  server: 78.41.111.87
-  port: 443
-  uuid: dba50bb9-2456-4128-8632-f7ba1e6a7ab5
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  servername: s10211.cdn.ngenix.net
-  network: ws
-  ws-opts:
-    path: /api/user
-    headers:
-      Host: s10211.cdn.ngenix.net
-- name: WHITE LITE [158]
-  type: vless
-  server: 78.41.111.87
-  port: 443
-  uuid: dba50bb9-2456-4128-8632-f7ba1e6a7ab5
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  servername: s10211.cdn.ngenix.net
-  network: ws
-  ws-opts:
-    path: /api/user
-    headers:
-      Host: s10211.cdn.ngenix.net
-- name: WHITE LITE [159]
+- name: WHITE LITE [24]
   type: vless
   server: 78.41.111.87
   port: 443
@@ -799,25 +209,7 @@ proxies:
     path: /api/user
     headers:
       Host: s10211.cdn.ngenix.net
-- name: WHITE LITE [160]
-  type: vless
-  server: 185.71.67.223
-  port: 443
-  uuid: 7cec3808-65d4-4dbd-941f-e9b640977071
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  servername: cdn.stroimvmeste.icu
-- name: WHITE LITE [161]
-  type: vless
-  server: 185.71.67.223
-  port: 443
-  uuid: 7cec3808-65d4-4dbd-941f-e9b640977071
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  servername: cdn.stroimvmeste.icu
-- name: WHITE LITE [162]
+- name: WHITE LITE [25]
   type: vless
   server: 78.41.111.87
   port: 443
@@ -831,7 +223,67 @@ proxies:
     path: /api/user
     headers:
       Host: s10211.cdn.ngenix.net
-- name: WHITE LITE [163]
+- name: WHITE LITE [26]
+  type: vless
+  server: 78.41.111.87
+  port: 443
+  uuid: dba50bb9-2456-4128-8632-f7ba1e6a7ab5
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  servername: s10211.cdn.ngenix.net
+  network: ws
+  ws-opts:
+    path: /api/user
+    headers:
+      Host: s10211.cdn.ngenix.net
+- name: WHITE LITE [27]
+  type: vless
+  server: 78.41.111.87
+  port: 443
+  uuid: dba50bb9-2456-4128-8632-f7ba1e6a7ab5
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  servername: s10211.cdn.ngenix.net
+  network: ws
+  ws-opts:
+    path: /api/user
+    headers:
+      Host: s10211.cdn.ngenix.net
+- name: WHITE LITE [28]
+  type: vless
+  server: 78.41.111.87
+  port: 443
+  uuid: dba50bb9-2456-4128-8632-f7ba1e6a7ab5
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
+  servername: s10211.cdn.ngenix.net
+  network: ws
+  ws-opts:
+    path: /api/user
+    headers:
+      Host: s10211.cdn.ngenix.net
+- name: WHITE LITE [29]
+  type: vless
+  server: 188.72.103.3
+  port: 443
+  uuid: 0df99149-80bd-4d92-be3d-4e039c991218
+  encryption: none
+  tls: true
+  client-fingerprint: edge
+  servername: apple.dbintro.space
+- name: WHITE LITE [30]
+  type: vless
+  server: 188.72.103.3
+  port: 443
+  uuid: e6e8f3f8-01e1-4ed4-a586-63377a8dba62
+  encryption: none
+  tls: true
+  client-fingerprint: edge
+  servername: apple.dbintro.space
+- name: WHITE LITE [31]
   type: vless
   server: 188.72.103.3
   port: 443
@@ -840,7 +292,7 @@ proxies:
   tls: true
   client-fingerprint: firefox
   servername: apple.dbintro.space
-- name: WHITE LITE [164]
+- name: WHITE LITE [32]
   type: vless
   server: 188.72.103.3
   port: 443
@@ -849,459 +301,279 @@ proxies:
   tls: true
   client-fingerprint: edge
   servername: apple.dbintro.space
-- name: WHITE LITE [165]
+- name: WHITE LITE [33]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: f6f1a320-1417-441b-bf65-f2f6b3244198
   encryption: none
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: qq
   servername: apple.dbintro.space
-- name: WHITE LITE [166]
+- name: WHITE LITE [34]
   type: vless
-  server: 188.72.103.3
+  server: 78.41.111.87
   port: 443
-  uuid: 0df99149-80bd-4d92-be3d-4e039c991218
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  servername: apple.dbintro.space
-- name: WHITE LITE [167]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: f24ea64a-c84c-40cd-9c99-f0e2439f6852
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  servername: apple.dbintro.space
-- name: WHITE LITE [168]
-  type: vless
-  server: 185.71.67.223
-  port: 443
-  uuid: 7cec3808-65d4-4dbd-941f-e9b640977071
+  uuid: dba50bb9-2456-4128-8632-f7ba1e6a7ab5
   encryption: none
   tls: true
   client-fingerprint: qq
-  servername: cdn.stroimvmeste.icu
-- name: WHITE LITE [169]
-  type: vless
-  server: 185.71.67.223
-  port: 443
-  uuid: 7cec3808-65d4-4dbd-941f-e9b640977071
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  servername: cdn.stroimvmeste.icu
-- name: WHITE LITE [174]
+  servername: s10211.cdn.ngenix.net
+  network: ws
+  ws-opts:
+    path: /api/user
+    headers:
+      Host: s10211.cdn.ngenix.net
+- name: WHITE LITE [35]
   type: vless
   server: 89.208.231.191
   port: 8443
-  uuid: 78fada7a-fc2d-03e8-a35e-140aa93212bf
+  uuid: b61e6cdf-176e-03e8-a146-eb9a8dbf7a0d
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: edge
+  client-fingerprint: qq
   reality-opts:
     public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
     short-id: d8c6b58bcbb0c323
   servername: max.ru
-- name: WHITE LITE [176]
+- name: WHITE LITE [47]
   type: vless
   server: 84.201.178.175
   port: 443
-  uuid: 5475182c-110d-428e-bd95-c02472d9d173
+  uuid: 9619cb66-b64b-495d-8878-264b9ad41b42
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: edge
   reality-opts:
     public-key: Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI
     short-id: 27e53bbcab7593d7
   servername: yandex.ru
-- name: WHITE LITE [187]
+- name: WHITE LITE [50]
   type: vless
-  server: 185.229.9.222
+  server: 185.229.9.32
   port: 443
-  uuid: 667ab0c0-a1bb-4ec1-b1b5-e166f59a1128
+  uuid: e86f6cfc-a904-4ff3-b2b6-1b876524ff3e
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: edge
   reality-opts:
     public-key: r6LKP3g2W5ruKICTDfH8rwM1PbMjdcgHU7cG6jppxTs
     short-id: 27e53bbcab7593d7
   servername: yandex.ru
-- name: WHITE LITE [192]
+- name: WHITE LITE [53]
   type: vless
-  server: 84.201.164.23
+  server: 185.229.9.222
   port: 443
-  uuid: 667ab0c0-a1bb-4ec1-b1b5-e166f59a1128
+  uuid: e86f6cfc-a904-4ff3-b2b6-1b876524ff3e
   encryption: none
   flow: xtls-rprx-vision
   tls: true
   client-fingerprint: firefox
+  reality-opts:
+    public-key: r6LKP3g2W5ruKICTDfH8rwM1PbMjdcgHU7cG6jppxTs
+    short-id: 27e53bbcab7593d7
+  servername: yandex.ru
+- name: WHITE LITE [56]
+  type: vless
+  server: 84.201.164.23
+  port: 443
+  uuid: e86f6cfc-a904-4ff3-b2b6-1b876524ff3e
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
   reality-opts:
     public-key: vyzsQLMRAuySJxAg0sNHXzgJuT8PGRakCay3rzUbT3k
     short-id: 27e53bbcab7593d7
   servername: smartcaptcha.yandexcloud.net
-- name: WHITE LITE [195]
+- name: WHITE LITE [58]
   type: vless
-  server: 185.229.9.32
+  server: 93.93.88.78
   port: 443
-  uuid: 667ab0c0-a1bb-4ec1-b1b5-e166f59a1128
+  uuid: e86f6cfc-a904-4ff3-b2b6-1b876524ff3e
+  encryption: none
+  tls: true
+  client-fingerprint: edge
+  servername: s92415.cdn.ngenix.net
+  network: ws
+  ws-opts:
+    path: /v1/data/sync/
+    headers:
+      Host: s92415.cdn.ngenix.net
+- name: WHITE LITE [63]
+  type: vless
+  server: 62.152.58.114
+  port: 443
+  uuid: ae6378d2-f52c-4269-855c-e3d626d12767
   encryption: none
   flow: xtls-rprx-vision
   tls: true
   client-fingerprint: edge
-  reality-opts:
-    public-key: r6LKP3g2W5ruKICTDfH8rwM1PbMjdcgHU7cG6jppxTs
-    short-id: 27e53bbcab7593d7
-  servername: yandex.ru
-- name: WHITE LITE [201]
-  type: vless
-  server: 62.152.58.114
-  port: 443
-  uuid: 02821967-763a-4f06-9c3f-537da955f883
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
   reality-opts:
     public-key: jAJoyWJ4nMGai3H9BOa6QMUr2Vvpgqs8VipbaO5mCVU
     short-id: 3130197867c23edb
   servername: wl-13-1.nodes.ac
-- name: WHITE LITE [203]
+- name: WHITE LITE [66]
   type: vless
-  server: 31.129.42.37
+  server: 188.72.103.3
   port: 443
-  uuid: 8b7653af-c85a-4779-a384-5be518186748
+  uuid: 95d91872-14a1-4cb5-b43a-e50dc68cce63
   encryption: none
   tls: true
   client-fingerprint: firefox
-  servername: api.datapull.cc
-- name: WHITE LITE [204]
-  type: vless
-  server: 188.68.218.110
-  port: 443
-  uuid: 8b7653af-c85a-4779-a384-5be518186748
-  encryption: none
-  tls: true
-  client-fingerprint: qq
-  servername: api.madapp.cc
-- name: WHITE LITE [207]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: 76edecca-db51-4b12-a950-e3e75db0b7ab
-  encryption: none
-  tls: true
-  client-fingerprint: qq
   servername: cdnyan4.floatingcars.net
-- name: WHITE LITE [211]
+- name: WHITE LITE [69]
   type: vless
   server: 188.72.103.3
   port: 443
-  uuid: 76edecca-db51-4b12-a950-e3e75db0b7ab
-  encryption: none
-  tls: true
-  client-fingerprint: qq
-  servername: cdnyan2.floatingcars.net
-- name: WHITE LITE [212]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: 76edecca-db51-4b12-a950-e3e75db0b7ab
+  uuid: 95d91872-14a1-4cb5-b43a-e50dc68cce63
   encryption: none
   tls: true
   client-fingerprint: firefox
   servername: cdnyan3.floatingcars.net
-- name: WHITE LITE [214]
+- name: WHITE LITE [70]
   type: vless
   server: 188.72.103.3
   port: 443
-  uuid: 76edecca-db51-4b12-a950-e3e75db0b7ab
+  uuid: 95d91872-14a1-4cb5-b43a-e50dc68cce63
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
+  servername: cdnyan2.floatingcars.net
+- name: WHITE LITE [73]
+  type: vless
+  server: 188.72.103.3
+  port: 443
+  uuid: 95d91872-14a1-4cb5-b43a-e50dc68cce63
   encryption: none
   tls: true
   client-fingerprint: qq
   servername: cdnyan.floatingcars.net
-- name: WHITE LITE [216]
+- name: WHITE LITE [74]
   type: vless
-  server: 37.220.162.248
+  server: 212.193.155.88
   port: 443
-  uuid: 473f92b6-6bf1-4558-9286-38f081fcb815
+  uuid: 094e3ea7-55e1-47c3-be52-859b072b45ec
   encryption: none
   tls: true
-  client-fingerprint: edge
+  client-fingerprint: firefox
   servername: s96705.cdn.ngenix.net
   network: ws
   ws-opts:
     path: /v1/data/sync/
     headers:
       Host: s96705.cdn.ngenix.net
-- name: WHITE LITE [217]
+- name: WHITE LITE [81]
   type: vless
-  server: 84.201.178.175
+  server: 185.229.9.204
   port: 443
-  uuid: b5bbd012-3669-4e4b-ab36-48fde8fc6205
+  uuid: 4fb414b3-6364-43d2-be88-9fa61ef98f85
   encryption: none
   flow: xtls-rprx-vision
   tls: true
   client-fingerprint: firefox
   reality-opts:
-    public-key: Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI
-    short-id: 27e53bbcab7593d7
-  servername: yandex.ru
-- name: WHITE LITE [228]
-  type: vless
-  server: 185.229.9.204
-  port: 443
-  uuid: b5bbd012-3669-4e4b-ab36-48fde8fc6205
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
     public-key: 0k11W7Kb0ncWPcknoD0xJikoESlU5ApDYySG7X7OZCU
     short-id: 27e53bbcab7593d7
   servername: ads.x5.ru
-- name: WHITE LITE [232]
+- name: WHITE LITE [87]
   type: vless
-  server: 195.209.86.193
+  server: 84.201.178.175
   port: 443
-  uuid: 02821967-763a-4f06-9c3f-537da955f883
+  uuid: 4fb414b3-6364-43d2-be88-9fa61ef98f85
   encryption: none
+  flow: xtls-rprx-vision
   tls: true
   client-fingerprint: qq
+  reality-opts:
+    public-key: Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI
+    short-id: 27e53bbcab7593d7
+  servername: yandex.ru
+- name: WHITE LITE [88]
+  type: vless
+  server: 93.93.88.78
+  port: 443
+  uuid: ae6378d2-f52c-4269-855c-e3d626d12767
+  encryption: none
+  tls: true
+  client-fingerprint: edge
   servername: s81381.cdn.ngenix.net
   network: ws
   ws-opts:
     path: /v1/data/sync/
     headers:
       Host: s81381.cdn.ngenix.net
-- name: WHITE LITE [233]
+- name: WHITE LITE [90]
   type: vless
   server: 188.72.103.3
   port: 443
-  uuid: 26ef8c18-1fbc-4c9c-a52c-93d652ebd4d0
+  uuid: 673fa3f4-b6bc-4d10-9199-97dfc5f52230
   encryption: none
   tls: true
   client-fingerprint: firefox
   servername: cdn-ru1.stream-concept.buzz
-- name: WHITE LITE [234]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: 0cff99c7-acd7-46b5-a3f2-57956a15a94a
-  encryption: none
-  tls: true
-  client-fingerprint: qq
-  servername: cdn-ru1.stream-concept.buzz
-- name: WHITE LITE [235]
+- name: WHITE LITE [91]
   type: vless
   server: 89.208.231.191
   port: 8443
-  uuid: 78fada7a-fc2d-0bb8-a35e-140aa93212bf
+  uuid: b61e6cdf-176e-0bb8-a146-eb9a8dbf7a0d
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: firefox
   reality-opts:
     public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
     short-id: d8c6b58bcbb0c323
   servername: max.ru
-- name: WHITE LITE [236]
+- name: WHITE LITE [92]
   type: vless
-  server: 188.68.218.160
+  server: 195.209.86.193
   port: 443
-  uuid: 8b7653af-c85a-4779-a384-5be518186748
+  uuid: 63f98703-9910-4f9a-b355-35148faa76fb
   encryption: none
   tls: true
-  client-fingerprint: edge
-  servername: api.pushbyte.cc
-- name: WHITE LITE [237]
-  type: vless
-  server: 37.9.4.128
-  port: 443
-  uuid: 8b7653af-c85a-4779-a384-5be518186748
-  encryption: none
-  tls: true
-  client-fingerprint: qq
-  servername: api1.madapp.cc
-- name: WHITE LITE [238]
-  type: vless
-  server: 84.201.177.246
-  port: 3000
-  uuid: 8b7653af-c85a-4779-a384-5be518186748
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI
-    short-id: 83ae6b6bb4899039
-  servername: eda.yandex.ru
-- name: WHITE LITE [239]
-  type: vless
-  server: 84.201.177.246
-  port: 3001
-  uuid: 8b7653af-c85a-4779-a384-5be518186748
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI
-    short-id: 83ae6b6bb4899039
-  servername: cdnv-img.perekrestok.ru
-- name: WHITE LITE [240]
-  type: vless
-  server: 84.201.177.246
-  port: 3002
-  uuid: 8b7653af-c85a-4779-a384-5be518186748
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI
-    short-id: 83ae6b6bb4899039
-  servername: cloud.mail.ru
-- name: WHITE LITE [241]
-  type: vless
-  server: 195.209.87.198
-  port: 443
-  uuid: af4ddec3-b5c3-4674-90e1-044e5eab7c21
-  encryption: none
-  tls: true
-  client-fingerprint: edge
+  client-fingerprint: firefox
   servername: s28797.cdn.ngenix.net
   network: ws
   ws-opts:
     path: /v1/data/sync/
     headers:
       Host: s28797.cdn.ngenix.net
-- name: WHITE LITE [242]
+- name: WHITE LITE [93]
   type: vless
   server: 89.208.231.191
   port: 8443
-  uuid: 78fada7a-fc2d-2328-a35e-140aa93212bf
+  uuid: b61e6cdf-176e-2328-a146-eb9a8dbf7a0d
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: edge
+  client-fingerprint: firefox
   reality-opts:
     public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
     short-id: d8c6b58bcbb0c323
   servername: max.ru
-- name: WHITE LITE [243]
+- name: WHITE LITE [94]
   type: vless
   server: 185.178.208.176
   port: 443
-  uuid: 9f296ee1-f335-4582-9691-614c88d49d7d
+  uuid: 20d0ded5-1bea-4d15-a398-dd94fe004065
   encryption: none
   tls: true
-  client-fingerprint: edge
+  client-fingerprint: qq
   servername: founders-blog.online
   network: ws
   ws-opts:
     path: /stream/615428/socket
     headers:
       Host: founders-blog.online
-- name: WHITE LITE [244]
-  type: vless
-  server: 84.201.172.95
-  port: 443
-  uuid: c9d5ca91-fc50-47c9-b6e5-8dbdbae08b01
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: WHITE LITE [245]
-  type: vless
-  server: 185.22.235.60
-  port: 443
-  uuid: c9d5ca91-fc50-47c9-b6e5-8dbdbae08b01
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: smartcaptcha.yandexcloud.net
-- name: WHITE LITE [246]
-  type: vless
-  server: 84.201.172.95
-  port: 443
-  uuid: c9d5ca91-fc50-47c9-b6e5-8dbdbae08b01
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: smartcaptcha.yandexcloud.net
-- name: WHITE LITE [247]
-  type: vless
-  server: 158.160.59.225
-  port: 443
-  uuid: c9d5ca91-fc50-47c9-b6e5-8dbdbae08b01
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: WHITE LITE [248]
-  type: vless
-  server: 185.22.235.219
-  port: 443
-  uuid: c9d5ca91-fc50-47c9-b6e5-8dbdbae08b01
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: WHITE LITE [249]
-  type: vless
-  server: 84.201.128.39
-  port: 443
-  uuid: c9d5ca91-fc50-47c9-b6e5-8dbdbae08b01
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: sso.passport.yandex.ru
-- name: WHITE LITE [250]
+- name: WHITE LITE [95]
   type: vless
   server: 158.160.59.97
   port: 443
-  uuid: c9d5ca91-fc50-47c9-b6e5-8dbdbae08b01
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: ads.x5.ru
-- name: WHITE LITE [251]
-  type: vless
-  server: 84.201.174.157
-  port: 443
-  uuid: c9d5ca91-fc50-47c9-b6e5-8dbdbae08b01
+  uuid: 801c1a3b-4994-49a2-8307-9c8fb5cf9654
   encryption: none
   flow: xtls-rprx-vision
   tls: true
@@ -1309,25 +581,12 @@ proxies:
   reality-opts:
     public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
     short-id: 428ef87fd47a3a32
-  servername: web.max.ru
-- name: WHITE LITE [252]
+  servername: smartcaptcha.yandexcloud.net
+- name: WHITE LITE [96]
   type: vless
   server: 84.201.156.242
   port: 443
-  uuid: c9d5ca91-fc50-47c9-b6e5-8dbdbae08b01
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: ads.x5.ru
-- name: WHITE LITE [253]
-  type: vless
-  server: 158.160.59.225
-  port: 443
-  uuid: c9d5ca91-fc50-47c9-b6e5-8dbdbae08b01
+  uuid: 801c1a3b-4994-49a2-8307-9c8fb5cf9654
   encryption: none
   flow: xtls-rprx-vision
   tls: true
@@ -1335,12 +594,51 @@ proxies:
   reality-opts:
     public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
     short-id: 428ef87fd47a3a32
-  servername: web.max.ru
-- name: WHITE LITE [254]
+  servername: ads.x5.ru
+- name: WHITE LITE [97]
   type: vless
-  server: 185.22.235.219
+  server: 84.201.172.95
   port: 443
-  uuid: c9d5ca91-fc50-47c9-b6e5-8dbdbae08b01
+  uuid: 801c1a3b-4994-49a2-8307-9c8fb5cf9654
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: smartcaptcha.yandexcloud.net
+- name: WHITE LITE [98]
+  type: vless
+  server: 185.22.235.63
+  port: 443
+  uuid: 801c1a3b-4994-49a2-8307-9c8fb5cf9654
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: sso.passport.yandex.ru
+- name: WHITE LITE [99]
+  type: vless
+  server: 185.22.235.63
+  port: 443
+  uuid: 801c1a3b-4994-49a2-8307-9c8fb5cf9654
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: smartcaptcha.yandexcloud.net
+- name: WHITE LITE [100]
+  type: vless
+  server: 84.201.172.95
+  port: 443
+  uuid: 801c1a3b-4994-49a2-8307-9c8fb5cf9654
   encryption: none
   flow: xtls-rprx-vision
   tls: true
@@ -1349,25 +647,156 @@ proxies:
     public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
     short-id: 428ef87fd47a3a32
   servername: sso.passport.yandex.ru
-- name: WHITE LITE [255]
+- name: WHITE LITE [101]
   type: vless
-  server: 195.209.82.151
+  server: 158.160.59.225
   port: 443
-  uuid: c9d5ca91-fc50-47c9-b6e5-8dbdbae08b01
+  uuid: 801c1a3b-4994-49a2-8307-9c8fb5cf9654
   encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: sso.passport.yandex.ru
+- name: WHITE LITE [102]
+  type: vless
+  server: 185.22.235.222
+  port: 443
+  uuid: 801c1a3b-4994-49a2-8307-9c8fb5cf9654
+  encryption: none
+  flow: xtls-rprx-vision
   tls: true
   client-fingerprint: qq
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: WHITE LITE [103]
+  type: vless
+  server: 79.174.90.102
+  port: 443
+  uuid: 801c1a3b-4994-49a2-8307-9c8fb5cf9654
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: ads.x5.ru
+- name: WHITE LITE [104]
+  type: vless
+  server: 51.250.66.16
+  port: 443
+  uuid: 801c1a3b-4994-49a2-8307-9c8fb5cf9654
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: ads.x5.ru
+- name: WHITE LITE [105]
+  type: vless
+  server: 185.22.235.219
+  port: 443
+  uuid: 801c1a3b-4994-49a2-8307-9c8fb5cf9654
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: web.max.ru
+- name: WHITE LITE [106]
+  type: vless
+  server: 185.22.235.219
+  port: 443
+  uuid: 801c1a3b-4994-49a2-8307-9c8fb5cf9654
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: ads.x5.ru
+- name: WHITE LITE [107]
+  type: vless
+  server: 158.160.59.225
+  port: 443
+  uuid: 801c1a3b-4994-49a2-8307-9c8fb5cf9654
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: web.max.ru
+- name: WHITE LITE [108]
+  type: vless
+  server: 84.201.172.95
+  port: 443
+  uuid: 801c1a3b-4994-49a2-8307-9c8fb5cf9654
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: web.max.ru
+- name: WHITE LITE [109]
+  type: vless
+  server: 78.41.111.242
+  port: 443
+  uuid: 801c1a3b-4994-49a2-8307-9c8fb5cf9654
+  encryption: none
+  tls: true
+  client-fingerprint: edge
   servername: s90782.cdn.ngenix.net
   network: ws
   ws-opts:
     path: /v1/data/sync/
     headers:
       Host: s90782.cdn.ngenix.net
-- name: WHITE LITE [264]
+- name: WHITE LITE [110]
+  type: vless
+  server: 84.201.156.242
+  port: 443
+  uuid: 801c1a3b-4994-49a2-8307-9c8fb5cf9654
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: WHITE LITE [114]
+  type: vless
+  server: 195.208.65.195
+  port: 443
+  uuid: b310a4a9-1d76-4b87-9ff7-532bf219e661
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  servername: s58794.cdn.ngenix.net
+  network: ws
+  ws-opts:
+    path: /v1/data/sync/
+    headers:
+      Host: s58794.cdn.ngenix.net
+- name: WHITE LITE [124]
   type: vless
   server: 46.8.209.224
   port: 443
-  uuid: 473f92b6-6bf1-4558-9286-38f081fcb815
+  uuid: 094e3ea7-55e1-47c3-be52-859b072b45ec
   encryption: none
   flow: xtls-rprx-vision
   tls: true
@@ -1376,11 +805,11 @@ proxies:
     public-key: ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8
     short-id: ae03e6ef452252e0
   servername: www.vk.com
-- name: WHITE LITE [278]
+- name: WHITE LITE [139]
   type: vless
   server: 46.8.209.215
   port: 443
-  uuid: 473f92b6-6bf1-4558-9286-38f081fcb815
+  uuid: 094e3ea7-55e1-47c3-be52-859b072b45ec
   encryption: none
   flow: xtls-rprx-vision
   tls: true
@@ -1389,11 +818,11 @@ proxies:
     public-key: ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8
     short-id: ae03e6ef452252e0
   servername: www.vk.com
-- name: WHITE LITE [285]
+- name: WHITE LITE [140]
   type: vless
   server: 195.209.86.152
   port: 443
-  uuid: af4ddec3-b5c3-4674-90e1-044e5eab7c21
+  uuid: 63f98703-9910-4f9a-b355-35148faa76fb
   encryption: none
   tls: true
   client-fingerprint: edge
@@ -1403,48 +832,108 @@ proxies:
     path: /v1/data/sync/
     headers:
       Host: s43362.cdn.ngenix.net
-- name: WHITE LITE [286]
+- name: WHITE LITE [141]
   type: vless
-  server: 195.208.65.195
+  server: 188.72.103.3
   port: 443
-  uuid: ac9d793c-5d3a-4d75-90e6-f5a32d4ce4ed
+  uuid: 154d33cc-7c76-4112-89de-59423c2f03d8
   encryption: none
   tls: true
   client-fingerprint: qq
+  servername: cdnn.bestcats-video.online
+- name: WHITE LITE [142]
+  type: vless
+  server: 195.208.65.195
+  port: 443
+  uuid: 96d1aeda-0697-4350-9284-3c6c8ddee468
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
   servername: cdn-discover.truesight.store
   network: ws
   ws-opts:
     path: /v1/data/sync/
     headers:
       Host: cdn-discover.truesight.store
-- name: WHITE LITE [287]
+- name: WHITE LITE [143]
+  type: vless
+  server: 195.208.65.195
+  port: 443
+  uuid: 797e4ab4-1a7b-47db-8e17-f2980e38a430
+  encryption: none
+  tls: true
+  client-fingerprint: edge
+  servername: cdn-discover.truesight.store
+  network: ws
+  ws-opts:
+    path: /v1/data/sync/
+    headers:
+      Host: cdn-discover.truesight.store
+- name: WHITE LITE [144]
+  type: vless
+  server: 195.208.65.195
+  port: 443
+  uuid: 95abe5d7-4aa5-40d3-a05d-14f10da4d03e
+  encryption: none
+  tls: true
+  client-fingerprint: edge
+  servername: cdn-discover.truesight.store
+  network: ws
+  ws-opts:
+    path: /v1/data/sync/
+    headers:
+      Host: cdn-discover.truesight.store
+- name: WHITE LITE [145]
+  type: vless
+  server: 195.208.65.195
+  port: 443
+  uuid: 5524d9b2-afb0-47dc-ac32-4c04920e5574
+  encryption: none
+  tls: true
+  client-fingerprint: edge
+  servername: cdn-discover.truesight.store
+  network: ws
+  ws-opts:
+    path: /v1/data/sync/
+    headers:
+      Host: cdn-discover.truesight.store
+- name: WHITE LITE [146]
   type: vless
   server: 188.72.103.3
   port: 443
-  uuid: 2f435962-a542-4195-843e-0e2f822f0549
+  uuid: f24ea64a-c84c-40cd-9c99-f0e2439f6852
   encryption: none
   tls: true
   client-fingerprint: firefox
-  servername: shops.sale-stars.com
-- name: WHITE LITE [288]
+  servername: grape.hotwigga.space
+- name: WHITE LITE [147]
+  type: vless
+  server: 188.72.103.3
+  port: 443
+  uuid: ae6c568b-e28a-4b87-b35d-73aae073b036
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
+  servername: grape.hotwigga.space
+- name: WHITE LITE [148]
+  type: vless
+  server: 188.72.103.3
+  port: 443
+  uuid: c0ab5813-9131-4654-a9af-a9fe9a0f6a03
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  servername: grape.hotwigga.space
+- name: WHITE LITE [149]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 7f2aa779-25a5-4290-a2af-b573c9d3585b
   encryption: none
   tls: true
-  client-fingerprint: firefox
-  servername: cherry.benzogangmoney.space
-- name: WHITE LITE [289]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: 96d1aeda-0697-4350-9284-3c6c8ddee468
-  encryption: none
-  tls: true
   client-fingerprint: edge
   servername: cherry.benzogangmoney.space
-- name: WHITE LITE [290]
+- name: WHITE LITE [150]
   type: vless
   server: 188.72.103.3
   port: 443
@@ -1453,16 +942,7 @@ proxies:
   tls: true
   client-fingerprint: firefox
   servername: cherry.benzogangmoney.space
-- name: WHITE LITE [291]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: 154d33cc-7c76-4112-89de-59423c2f03d8
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  servername: cdnn.bestcats-video.online
-- name: WHITE LITE [292]
+- name: WHITE LITE [151]
   type: vless
   server: 188.72.103.3
   port: 443
@@ -1471,52 +951,25 @@ proxies:
   tls: true
   client-fingerprint: edge
   servername: grape.hotwigga.space
-- name: WHITE LITE [293]
+- name: WHITE LITE [152]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 049b5375-9947-4cf3-8efb-198bcd15fd1d
   encryption: none
   tls: true
-  client-fingerprint: qq
-  servername: grape.hotwigga.space
-- name: WHITE LITE [294]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: f4f28606-ec5a-42bf-bbb3-aeaec350e612
-  encryption: none
-  tls: true
-  client-fingerprint: qq
-  servername: grape.hotwigga.space
-- name: WHITE LITE [295]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: 96d1aeda-0697-4350-9284-3c6c8ddee468
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  servername: grape.hotwigga.space
-- name: WHITE LITE [296]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: eb64896d-ba50-42fb-b83b-753b6175da53
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  servername: grape.hotwigga.space
-- name: WHITE LITE [297]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: f4f28606-ec5a-42bf-bbb3-aeaec350e612
-  encryption: none
-  tls: true
   client-fingerprint: firefox
+  servername: grape.hotwigga.space
+- name: WHITE LITE [153]
+  type: vless
+  server: 188.72.103.3
+  port: 443
+  uuid: f4f28606-ec5a-42bf-bbb3-aeaec350e612
+  encryption: none
+  tls: true
+  client-fingerprint: edge
   servername: cherry.benzogangmoney.space
-- name: WHITE LITE [298]
+- name: WHITE LITE [154]
   type: vless
   server: 188.72.103.3
   port: 443
@@ -1525,29 +978,20 @@ proxies:
   tls: true
   client-fingerprint: qq
   servername: cherry.benzogangmoney.space
-- name: WHITE LITE [299]
+- name: WHITE LITE [155]
   type: vless
   server: 188.72.103.3
   port: 443
-  uuid: 2f435962-a542-4195-843e-0e2f822f0549
+  uuid: 8aca53c1-8356-44e5-9a10-8e1909e83093
   encryption: none
   tls: true
   client-fingerprint: edge
-  servername: shops.sale-stars.com
-- name: WHITE LITE [300]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: 2f435962-a542-4195-843e-0e2f822f0549
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  servername: shops.sale-stars.com
-- name: WHITE LITE [301]
+  servername: cherry.benzogangmoney.space
+- name: WHITE LITE [156]
   type: vless
   server: 89.208.231.191
   port: 8443
-  uuid: 78fada7a-fc2d-1f40-a35e-140aa93212bf
+  uuid: b61e6cdf-176e-1f40-a146-eb9a8dbf7a0d
   encryption: none
   flow: xtls-rprx-vision
   tls: true
@@ -1556,82 +1000,67 @@ proxies:
     public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
     short-id: d8c6b58bcbb0c323
   servername: max.ru
-- name: WHITE LITE [306]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: 3425eec6-9ed9-480c-88e8-1c39905a2ff2
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  servername: shops.sale-stars.com
-- name: WHITE LITE [307]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: 3425eec6-9ed9-480c-88e8-1c39905a2ff2
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  servername: shops.sale-stars.com
-- name: WHITE LITE [308]
-  type: vless
-  server: 188.72.103.3
-  port: 443
-  uuid: 3425eec6-9ed9-480c-88e8-1c39905a2ff2
-  encryption: none
-  tls: true
-  client-fingerprint: qq
-  servername: shops.sale-stars.com
-- name: WHITE LITE [309]
+- name: WHITE LITE [161]
   type: vless
   server: 62.152.56.73
   port: 443
-  uuid: 02821967-763a-4f06-9c3f-537da955f883
+  uuid: ae6378d2-f52c-4269-855c-e3d626d12767
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: edge
   reality-opts:
     public-key: lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg
     short-id: cf43c0c197cd464a
   servername: wl-12.nodes.ac
-- name: WHITE LITE [310]
+- name: WHITE LITE [162]
   type: vless
   server: 62.152.56.73
   port: 443
-  uuid: 02821967-763a-4f06-9c3f-537da955f883
+  uuid: ae6378d2-f52c-4269-855c-e3d626d12767
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: edge
   reality-opts:
     public-key: lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg
     short-id: cf43c0c197cd464a
   servername: wl-12.nodes.ac
-- name: WHITE LITE [311]
+- name: WHITE LITE [163]
   type: vless
   server: 188.72.103.3
   port: 443
-  uuid: 76edecca-db51-4b12-a950-e3e75db0b7ab
+  uuid: 95d91872-14a1-4cb5-b43a-e50dc68cce63
   encryption: none
   tls: true
   client-fingerprint: firefox
   servername: cdnyan5.floatingcars.net
-- name: WHITE LITE [312]
+- name: WHITE LITE [164]
   type: vless
   server: 188.72.103.3
   port: 443
-  uuid: 76edecca-db51-4b12-a950-e3e75db0b7ab
+  uuid: 95d91872-14a1-4cb5-b43a-e50dc68cce63
   encryption: none
   tls: true
   client-fingerprint: firefox
   servername: cdnyan6.floatingcars.net
-- name: WHITE LITE [317]
+- name: WHITE LITE [170]
   type: vless
   server: 87.228.101.211
   port: 8443
-  uuid: b2fd15ea-50f3-4a19-92f6-d83ca3f481cf
+  uuid: bfdaf9b1-716d-4d23-97d8-465f291f9390
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: 4rOkMPLt9aMOXiDmXkPX6RQP6jd6qBLBvGJx45JFWFk
+    short-id: ee82aca370f4428b
+  servername: m.vk.com
+- name: WHITE LITE [173]
+  type: vless
+  server: 87.228.101.57
+  port: 8443
+  uuid: bfdaf9b1-716d-4d23-97d8-465f291f9390
   encryption: none
   tls: true
   client-fingerprint: firefox
@@ -1639,73 +1068,24 @@ proxies:
     public-key: 4rOkMPLt9aMOXiDmXkPX6RQP6jd6qBLBvGJx45JFWFk
     short-id: ee82aca370f4428b
   servername: api.yandex.ru
-- name: WHITE LITE [320]
-  type: vless
-  server: 87.228.101.57
-  port: 8443
-  uuid: b2fd15ea-50f3-4a19-92f6-d83ca3f481cf
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 4rOkMPLt9aMOXiDmXkPX6RQP6jd6qBLBvGJx45JFWFk
-    short-id: ee82aca370f4428b
-  servername: rutube.ru
-- name: WHITE LITE [322]
+- name: WHITE LITE [174]
   type: vless
   server: 84.201.180.178
   port: 443
-  uuid: b2fd15ea-50f3-4a19-92f6-d83ca3f481cf
+  uuid: bfdaf9b1-716d-4d23-97d8-465f291f9390
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: edge
+  client-fingerprint: qq
   reality-opts:
     public-key: yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8
     short-id: 22730c666bd10642
   servername: api-maps.yandex.ru
-- name: WHITE LITE [323]
+- name: WHITE LITE [175]
   type: vless
   server: 87.228.101.211
   port: 8443
-  uuid: b2fd15ea-50f3-4a19-92f6-d83ca3f481cf
-  encryption: none
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 4rOkMPLt9aMOXiDmXkPX6RQP6jd6qBLBvGJx45JFWFk
-    short-id: ee82aca370f4428b
-  servername: rutube.ru
-- name: WHITE LITE [325]
-  type: vless
-  server: 158.160.208.250
-  port: 443
-  uuid: b2fd15ea-50f3-4a19-92f6-d83ca3f481cf
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8
-    short-id: 22730c666bd10642
-  servername: api-maps.yandex.ru
-- name: WHITE LITE [326]
-  type: vless
-  server: 87.228.101.57
-  port: 8443
-  uuid: b2fd15ea-50f3-4a19-92f6-d83ca3f481cf
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 4rOkMPLt9aMOXiDmXkPX6RQP6jd6qBLBvGJx45JFWFk
-    short-id: ee82aca370f4428b
-  servername: m.vk.com
-- name: WHITE LITE [327]
-  type: vless
-  server: 87.228.101.57
-  port: 8443
-  uuid: b2fd15ea-50f3-4a19-92f6-d83ca3f481cf
+  uuid: bfdaf9b1-716d-4d23-97d8-465f291f9390
   encryption: none
   tls: true
   client-fingerprint: edge
@@ -1713,192 +1093,104 @@ proxies:
     public-key: razU6QTL659hzCH6GUbA8icGt7J4MtOF19Wz5IrumGg
     short-id: e3a6a0ee012466b3
   servername: api-maps.yandex.ru
-- name: WHITE LITE [328]
+- name: WHITE LITE [180]
   type: vless
-  server: 178.154.214.111
-  port: 443
-  uuid: b2fd15ea-50f3-4a19-92f6-d83ca3f481cf
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8
-    short-id: 22730c666bd10642
-  servername: api-maps.yandex.ru
-- name: WHITE LITE [334]
-  type: vless
-  server: 87.228.101.57
+  server: 87.228.101.211
   port: 8443
-  uuid: b2fd15ea-50f3-4a19-92f6-d83ca3f481cf
+  uuid: bfdaf9b1-716d-4d23-97d8-465f291f9390
   encryption: none
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: qq
   reality-opts:
     public-key: 4rOkMPLt9aMOXiDmXkPX6RQP6jd6qBLBvGJx45JFWFk
     short-id: ee82aca370f4428b
   servername: api.yandex.ru
-- name: WHITE LITE [338]
+- name: WHITE LITE [184]
+  type: vless
+  server: 158.160.208.250
+  port: 443
+  uuid: bfdaf9b1-716d-4d23-97d8-465f291f9390
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8
+    short-id: 22730c666bd10642
+  servername: api-maps.yandex.ru
+- name: WHITE LITE [185]
   type: vless
   server: 87.228.101.211
   port: 8443
-  uuid: b2fd15ea-50f3-4a19-92f6-d83ca3f481cf
+  uuid: bfdaf9b1-716d-4d23-97d8-465f291f9390
   encryption: none
   tls: true
   client-fingerprint: edge
   reality-opts:
     public-key: 4rOkMPLt9aMOXiDmXkPX6RQP6jd6qBLBvGJx45JFWFk
     short-id: ee82aca370f4428b
-  servername: m.vk.com
-- name: WHITE LITE [339]
+  servername: rutube.ru
+- name: WHITE LITE [186]
   type: vless
-  server: 87.228.101.211
+  server: 87.228.101.57
   port: 8443
-  uuid: b2fd15ea-50f3-4a19-92f6-d83ca3f481cf
+  uuid: bfdaf9b1-716d-4d23-97d8-465f291f9390
   encryption: none
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: qq
+  reality-opts:
+    public-key: 4rOkMPLt9aMOXiDmXkPX6RQP6jd6qBLBvGJx45JFWFk
+    short-id: ee82aca370f4428b
+  servername: m.vk.com
+- name: WHITE LITE [189]
+  type: vless
+  server: 178.154.214.111
+  port: 443
+  uuid: bfdaf9b1-716d-4d23-97d8-465f291f9390
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8
+    short-id: 22730c666bd10642
+  servername: api-maps.yandex.ru
+- name: WHITE LITE [191]
+  type: vless
+  server: 87.228.101.57
+  port: 8443
+  uuid: bfdaf9b1-716d-4d23-97d8-465f291f9390
+  encryption: none
+  tls: true
+  client-fingerprint: edge
   reality-opts:
     public-key: razU6QTL659hzCH6GUbA8icGt7J4MtOF19Wz5IrumGg
     short-id: e3a6a0ee012466b3
   servername: api-maps.yandex.ru
-- name: WHITE LITE [342]
+- name: WHITE LITE [192]
   type: vless
   server: 185.71.67.212
   port: 443
-  uuid: c031bddf-d43d-4425-9c54-04adfa80eee5
+  uuid: 9a472afa-eb68-4ca5-88ae-eacb05fa0e54
   encryption: none
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: edge
   servername: 4861b6a1d8.cacheio.ru
   network: ws
   ws-opts:
     path: /api/v2/sync/09f21a21c0
     headers:
       Host: 4861b6a1d8.cacheio.ru
-- name: WHITE LITE [343]
-  type: vless
-  server: 5.188.115.226
-  port: 9443
-  uuid: 3483aa7a-8a7d-4561-8f77-4fbf7a0b1033
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8
-  servername: id.pervye.ru
-- name: WHITE LITE [344]
-  type: vless
-  server: 5.188.115.226
-  port: 9443
-  uuid: 3483aa7a-8a7d-4561-8f77-4fbf7a0b1033
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8
-  servername: id.pervye.ru
-- name: WHITE LITE [348]
-  type: vless
-  server: 217.13.104.133
-  port: 443
-  uuid: 40b33e55-6049-4fac-940e-7b38a3f5f270
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: ZGwYjRp5RxlVpHUTPzi7pB4ZZuDU5FZEaFgBM71teiQ
-    short-id: 0669a3e6b300d069
-  servername: eh.vk.com
-- name: WHITE LITE [355]
-  type: vless
-  server: 158.160.101.240
-  port: 443
-  uuid: 409bdb0f-5aae-4e93-a8dd-60adc47d5fd3
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: ads.x5.ru
-- name: WHITE LITE [356]
-  type: vless
-  server: 51.250.67.51
-  port: 443
-  uuid: 409bdb0f-5aae-4e93-a8dd-60adc47d5fd3
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: web.max.ru
-- name: WHITE LITE [357]
-  type: vless
-  server: 158.160.101.240
-  port: 443
-  uuid: 409bdb0f-5aae-4e93-a8dd-60adc47d5fd3
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: web.max.ru
-- name: WHITE LITE [358]
-  type: vless
-  server: 51.250.9.177
-  port: 443
-  uuid: 409bdb0f-5aae-4e93-a8dd-60adc47d5fd3
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: ads.x5.ru
-- name: WHITE LITE [362]
-  type: vless
-  server: 158.160.102.236
-  port: 443
-  uuid: 2420af47-2316-482e-bb0f-b164df4b2334
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: sso.passport.yandex.ru
-- name: WHITE LITE [363]
-  type: vless
-  server: 51.250.9.177
-  port: 443
-  uuid: 409bdb0f-5aae-4e93-a8dd-60adc47d5fd3
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: ads.x5.ru
-- name: WHITE LITE [364]
+- name: WHITE LITE [196]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 5ce9e140-4f8e-4ff7-b46e-aacb4bf67ab5
   encryption: none
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: edge
   servername: shops.sale-stars.com
-- name: WHITE LITE [365]
+- name: WHITE LITE [197]
   type: vless
   server: 188.72.103.3
   port: 443
@@ -1907,39 +1199,39 @@ proxies:
   tls: true
   client-fingerprint: qq
   servername: apple.dbintro.space
-- name: WHITE LITE [366]
+- name: WHITE LITE [198]
   type: vless
   server: 217.28.48.29
   port: 25752
   uuid: 27f2ae85-3e15-4a9a-9c71-49ee032e7b26
   encryption: none
-  client-fingerprint: qq
-- name: WHITE LITE [367]
+  client-fingerprint: edge
+- name: WHITE LITE [199]
   type: vless
   server: 217.28.48.29
   port: 25752
   uuid: 27f2ae85-3e15-4a9a-9c71-49ee032e7b26
   encryption: none
-  client-fingerprint: qq
-- name: WHITE LITE [368]
+  client-fingerprint: firefox
+- name: WHITE LITE [200]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 0fca426f-26ca-4424-94d8-236c8ae77f52
   encryption: none
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: edge
   servername: grape.hotwigga.space
-- name: WHITE LITE [369]
+- name: WHITE LITE [201]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 96d1aeda-0697-4350-9284-3c6c8ddee468
   encryption: none
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: edge
   servername: apple.dbintro.space
-- name: WHITE LITE [370]
+- name: WHITE LITE [202]
   type: vless
   server: 188.72.103.3
   port: 443
@@ -1948,75 +1240,89 @@ proxies:
   tls: true
   client-fingerprint: qq
   servername: grape.hotwigga.space
-- name: WHITE LITE [372]
+- name: WHITE LITE [204]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 6b1c18e0-8069-4db4-bcc2-305420c4800a
   encryption: none
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: edge
   servername: shops.sale-stars.com
-- name: WHITE LITE [373]
+- name: WHITE LITE [205]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 4d4b0e3d-9623-48a8-85f5-4c173f74743f
   encryption: none
   tls: true
-  client-fingerprint: edge
+  client-fingerprint: qq
   servername: apple.dbintro.space
-- name: WHITE LITE [374]
+- name: WHITE LITE [206]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 96d1aeda-0697-4350-9284-3c6c8ddee468
   encryption: none
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: firefox
   servername: grape.hotwigga.space
-- name: WHITE LITE [375]
+- name: WHITE LITE [207]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: eb64896d-ba50-42fb-b83b-753b6175da53
   encryption: none
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: edge
   servername: grape.hotwigga.space
-- name: WHITE LITE [379]
+- name: WHITE LITE [211]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 6b1c18e0-8069-4db4-bcc2-305420c4800a
   encryption: none
   tls: true
-  client-fingerprint: edge
+  client-fingerprint: qq
   servername: shops.sale-stars.com
-- name: WHITE LITE [380]
+- name: WHITE LITE [212]
   type: vless
   server: 217.28.48.29
   port: 25752
   uuid: 27f2ae85-3e15-4a9a-9c71-49ee032e7b26
   encryption: none
   client-fingerprint: edge
-- name: WHITE LITE [381]
+- name: WHITE LITE [213]
+  type: vless
+  server: 46.8.208.49
+  port: 7443
+  uuid: 57c77d07-bec3-4bf7-9b72-70ece40450f6
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  servername: nl-cnn-1.hysteria.ltd
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: nl-cnn-1.hysteria.ltd
+- name: WHITE LITE [214]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 5ce9e140-4f8e-4ff7-b46e-aacb4bf67ab5
   encryption: none
   tls: true
-  client-fingerprint: edge
+  client-fingerprint: firefox
   servername: shops.sale-stars.com
-- name: WHITE LITE [382]
+- name: WHITE LITE [215]
   type: vless
   server: 217.28.48.29
   port: 25752
   uuid: 27f2ae85-3e15-4a9a-9c71-49ee032e7b26
   encryption: none
   client-fingerprint: edge
-- name: WHITE LITE [383]
+- name: WHITE LITE [216]
   type: hysteria2
   server: 185.106.96.231
   port: 443
@@ -2027,40 +1333,40 @@ proxies:
   obfs-password: 10550754-cf62-3d3b-ba6a-50be27a275d7
   up: 30 Mbps
   down: 100 Mbps
-  client-fingerprint: edge
-- name: WHITE LITE [384]
+  client-fingerprint: qq
+- name: WHITE LITE [217]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 6b1c18e0-8069-4db4-bcc2-305420c4800a
   encryption: none
   tls: true
-  client-fingerprint: edge
+  client-fingerprint: qq
   servername: shops.sale-stars.com
-- name: WHITE LITE [385]
+- name: WHITE LITE [218]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 7f2aa779-25a5-4290-a2af-b573c9d3585b
   encryption: none
   tls: true
-  client-fingerprint: edge
+  client-fingerprint: firefox
   servername: grape.hotwigga.space
-- name: WHITE LITE [386]
+- name: WHITE LITE [219]
   type: vless
   server: 176.222.54.252
   port: 26690
   uuid: bd449f7a-95aa-4920-9af0-cd6b5d4cb5f1
   encryption: none
-  client-fingerprint: edge
-- name: WHITE LITE [387]
+  client-fingerprint: firefox
+- name: WHITE LITE [220]
   type: vless
   server: 217.28.48.29
   port: 25752
   uuid: 27f2ae85-3e15-4a9a-9c71-49ee032e7b26
   encryption: none
-  client-fingerprint: qq
-- name: WHITE LITE [389]
+  client-fingerprint: edge
+- name: WHITE LITE [222]
   type: hysteria2
   server: 185.106.96.231
   port: 443
@@ -2071,8 +1377,8 @@ proxies:
   obfs-password: 10550754-cf62-3d3b-ba6a-50be27a275d7
   up: 30 Mbps
   down: 100 Mbps
-  client-fingerprint: edge
-- name: WHITE LITE [390]
+  client-fingerprint: firefox
+- name: WHITE LITE [223]
   type: vless
   server: 188.72.103.3
   port: 443
@@ -2081,7 +1387,7 @@ proxies:
   tls: true
   client-fingerprint: edge
   servername: cherry.benzogangmoney.space
-- name: WHITE LITE [391]
+- name: WHITE LITE [224]
   type: vless
   server: 188.72.103.3
   port: 443
@@ -2090,7 +1396,35 @@ proxies:
   tls: true
   client-fingerprint: firefox
   servername: cdnn.bestcats-video.online
-- name: WHITE LITE [393]
+- name: WHITE LITE [225]
+  type: vless
+  server: 185.22.234.32
+  port: 7443
+  uuid: 57c77d07-bec3-4bf7-9b72-70ece40450f6
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  servername: mms-2.hysteria.ltd
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: mms-2.hysteria.ltd
+- name: WHITE LITE [227]
+  type: vless
+  server: 46.8.208.49
+  port: 6443
+  uuid: 57c77d07-bec3-4bf7-9b72-70ece40450f6
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  servername: slc-tst.hysteria.ltd
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: slc-tst.hysteria.ltd
+- name: WHITE LITE [228]
   type: vless
   server: 188.72.103.3
   port: 443
@@ -2099,79 +1433,93 @@ proxies:
   tls: true
   client-fingerprint: qq
   servername: cherry.benzogangmoney.space
-- name: WHITE LITE [394]
+- name: WHITE LITE [229]
   type: vless
   server: 217.28.48.29
   port: 25752
   uuid: 27f2ae85-3e15-4a9a-9c71-49ee032e7b26
   encryption: none
-  client-fingerprint: edge
-- name: WHITE LITE [395]
+  client-fingerprint: firefox
+- name: WHITE LITE [230]
   type: vless
   server: 217.28.48.29
   port: 25752
   uuid: 27f2ae85-3e15-4a9a-9c71-49ee032e7b26
   encryption: none
-  client-fingerprint: edge
-- name: WHITE LITE [396]
+  client-fingerprint: qq
+- name: WHITE LITE [231]
+  type: vless
+  server: 46.8.208.49
+  port: 9443
+  uuid: 57c77d07-bec3-4bf7-9b72-70ece40450f6
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  servername: slc-1.hysteria.ltd
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: slc-1.hysteria.ltd
+- name: WHITE LITE [232]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 7f2aa779-25a5-4290-a2af-b573c9d3585b
   encryption: none
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: edge
   servername: apple.dbintro.space
-- name: WHITE LITE [397]
+- name: WHITE LITE [233]
   type: vless
   server: 46.42.191.188
   port: 443
   uuid: 1461513a-bfea-449f-b460-8fd2149f879b
   encryption: none
   tls: true
-  client-fingerprint: edge
-- name: WHITE LITE [398]
+  client-fingerprint: qq
+- name: WHITE LITE [234]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 797e4ab4-1a7b-47db-8e17-f2980e38a430
   encryption: none
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: firefox
   servername: cherry.benzogangmoney.space
-- name: WHITE LITE [400]
+- name: WHITE LITE [236]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 4e582ce9-82d5-4e49-aa69-e92b2d638644
   encryption: none
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: edge
   servername: cherry.benzogangmoney.space
-- name: WHITE LITE [401]
+- name: WHITE LITE [237]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 44cacfbf-0ff9-42c8-a46e-b24d2fd2c6e8
   encryption: none
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: qq
   servername: shops.sale-stars.com
-- name: WHITE LITE [402]
+- name: WHITE LITE [238]
   type: vless
   server: 217.28.48.29
   port: 25752
   uuid: 27f2ae85-3e15-4a9a-9c71-49ee032e7b26
   encryption: none
   client-fingerprint: edge
-- name: WHITE LITE [403]
+- name: WHITE LITE [239]
   type: vless
   server: 176.222.54.252
   port: 26690
   uuid: bd449f7a-95aa-4920-9af0-cd6b5d4cb5f1
   encryption: none
-  client-fingerprint: firefox
-- name: WHITE LITE [404]
+  client-fingerprint: edge
+- name: WHITE LITE [240]
   type: vless
   server: 188.72.103.3
   port: 443
@@ -2180,39 +1528,39 @@ proxies:
   tls: true
   client-fingerprint: firefox
   servername: apple.dbintro.space
-- name: WHITE LITE [405]
+- name: WHITE LITE [241]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 797e4ab4-1a7b-47db-8e17-f2980e38a430
   encryption: none
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: edge
   servername: apple.dbintro.space
-- name: WHITE LITE [406]
+- name: WHITE LITE [242]
   type: vless
   server: 217.28.48.29
   port: 25752
   uuid: 27f2ae85-3e15-4a9a-9c71-49ee032e7b26
   encryption: none
-  client-fingerprint: edge
-- name: WHITE LITE [407]
+  client-fingerprint: firefox
+- name: WHITE LITE [243]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 7f2aa779-25a5-4290-a2af-b573c9d3585b
   encryption: none
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: edge
   servername: cherry.benzogangmoney.space
-- name: WHITE LITE [408]
+- name: WHITE LITE [244]
   type: vless
   server: 217.28.48.29
   port: 25752
   uuid: 27f2ae85-3e15-4a9a-9c71-49ee032e7b26
   encryption: none
   client-fingerprint: edge
-- name: WHITE LITE [410]
+- name: WHITE LITE [246]
   type: vless
   server: 188.72.103.3
   port: 443
@@ -2221,14 +1569,28 @@ proxies:
   tls: true
   client-fingerprint: edge
   servername: grape.hotwigga.space
-- name: WHITE LITE [411]
+- name: WHITE LITE [247]
+  type: vless
+  server: 46.8.208.17
+  port: 7443
+  uuid: 57c77d07-bec3-4bf7-9b72-70ece40450f6
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
+  servername: mms-3.hysteria.ltd
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: mms-3.hysteria.ltd
+- name: WHITE LITE [248]
   type: vless
   server: 217.28.48.29
   port: 25752
   uuid: 27f2ae85-3e15-4a9a-9c71-49ee032e7b26
   encryption: none
-  client-fingerprint: qq
-- name: WHITE LITE [412]
+  client-fingerprint: edge
+- name: WHITE LITE [249]
   type: vless
   server: 188.72.103.3
   port: 443
@@ -2237,23 +1599,23 @@ proxies:
   tls: true
   client-fingerprint: qq
   servername: apple.dbintro.space
-- name: WHITE LITE [413]
+- name: WHITE LITE [250]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 8c03bd51-90ab-4fa1-8cfa-82719ca524dc
   encryption: none
   tls: true
-  client-fingerprint: edge
+  client-fingerprint: firefox
   servername: apple.dbintro.space
-- name: WHITE LITE [414]
+- name: WHITE LITE [251]
   type: vless
   server: 217.28.48.29
   port: 25752
   uuid: 27f2ae85-3e15-4a9a-9c71-49ee032e7b26
   encryption: none
-  client-fingerprint: edge
-- name: WHITE LITE [416]
+  client-fingerprint: qq
+- name: WHITE LITE [253]
   type: vless
   server: 188.72.103.3
   port: 443
@@ -2262,7 +1624,7 @@ proxies:
   tls: true
   client-fingerprint: edge
   servername: apple.dbintro.space
-- name: WHITE LITE [417]
+- name: WHITE LITE [254]
   type: vless
   server: 188.72.103.3
   port: 443
@@ -2271,16 +1633,16 @@ proxies:
   tls: true
   client-fingerprint: edge
   servername: grape.hotwigga.space
-- name: WHITE LITE [418]
+- name: WHITE LITE [255]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: f4f28606-ec5a-42bf-bbb3-aeaec350e612
   encryption: none
   tls: true
-  client-fingerprint: edge
+  client-fingerprint: qq
   servername: apple.dbintro.space
-- name: WHITE LITE [419]
+- name: WHITE LITE [256]
   type: vless
   server: 188.72.103.3
   port: 443
@@ -2289,16 +1651,16 @@ proxies:
   tls: true
   client-fingerprint: firefox
   servername: cherry.benzogangmoney.space
-- name: WHITE LITE [420]
+- name: WHITE LITE [257]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 5524d9b2-afb0-47dc-ac32-4c04920e5574
   encryption: none
   tls: true
-  client-fingerprint: edge
+  client-fingerprint: firefox
   servername: apple.dbintro.space
-- name: WHITE LITE [421]
+- name: WHITE LITE [258]
   type: vless
   server: 188.72.103.3
   port: 443
@@ -2307,7 +1669,7 @@ proxies:
   tls: true
   client-fingerprint: edge
   servername: apple.dbintro.space
-- name: WHITE LITE [423]
+- name: WHITE LITE [260]
   type: vless
   server: 188.72.103.3
   port: 443
@@ -2316,48 +1678,48 @@ proxies:
   tls: true
   client-fingerprint: firefox
   servername: cherry.benzogangmoney.space
-- name: WHITE LITE [424]
+- name: WHITE LITE [261]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: eb64896d-ba50-42fb-b83b-753b6175da53
   encryption: none
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: edge
   servername: apple.dbintro.space
-- name: WHITE LITE [425]
+- name: WHITE LITE [262]
   type: vless
   server: 217.28.48.29
   port: 25752
   uuid: 27f2ae85-3e15-4a9a-9c71-49ee032e7b26
   encryption: none
   client-fingerprint: qq
-- name: WHITE LITE [426]
+- name: WHITE LITE [263]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 44cacfbf-0ff9-42c8-a46e-b24d2fd2c6e8
   encryption: none
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: qq
   servername: shops.sale-stars.com
-- name: WHITE LITE [427]
+- name: WHITE LITE [264]
   type: vless
   server: 217.28.48.29
   port: 25752
   uuid: 27f2ae85-3e15-4a9a-9c71-49ee032e7b26
   encryption: none
-  client-fingerprint: firefox
-- name: WHITE LITE [428]
+  client-fingerprint: edge
+- name: WHITE LITE [265]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: eb64896d-ba50-42fb-b83b-753b6175da53
   encryption: none
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: edge
   servername: cherry.benzogangmoney.space
-- name: WHITE LITE [429]
+- name: WHITE LITE [266]
   type: vless
   server: 188.72.103.3
   port: 443
@@ -2366,7 +1728,7 @@ proxies:
   tls: true
   client-fingerprint: firefox
   servername: cherry.benzogangmoney.space
-- name: WHITE LITE [430]
+- name: WHITE LITE [267]
   type: vless
   server: 92.53.74.129
   port: 443
@@ -2379,34 +1741,125 @@ proxies:
     public-key: WjuwZbmCjN8TmT4wZL6zTevQr3mnOATafLpQi1ofzCs
     short-id: de7c7bd7
   servername: api-maps.yandex.ru
-- name: WHITE LITE [432]
+- name: WHITE LITE [269]
   type: vless
   server: 188.72.103.3
   port: 443
   uuid: 5ce9e140-4f8e-4ff7-b46e-aacb4bf67ab5
   encryption: none
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: edge
   servername: shops.sale-stars.com
-- name: WHITE LITE [433]
+- name: WHITE LITE [270]
+  type: vless
+  server: 217.13.104.133
+  port: 443
+  uuid: 40b33e55-6049-4fac-940e-7b38a3f5f270
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: ZGwYjRp5RxlVpHUTPzi7pB4ZZuDU5FZEaFgBM71teiQ
+    short-id: 0669a3e6b300d069
+  servername: eh.vk.com
+- name: WHITE LITE [277]
+  type: vless
+  server: 158.160.101.240
+  port: 443
+  uuid: 409bdb0f-5aae-4e93-a8dd-60adc47d5fd3
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: ads.x5.ru
+- name: WHITE LITE [278]
+  type: vless
+  server: 51.250.67.51
+  port: 443
+  uuid: 409bdb0f-5aae-4e93-a8dd-60adc47d5fd3
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: web.max.ru
+- name: WHITE LITE [279]
+  type: vless
+  server: 158.160.101.240
+  port: 443
+  uuid: 409bdb0f-5aae-4e93-a8dd-60adc47d5fd3
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: web.max.ru
+- name: WHITE LITE [280]
+  type: vless
+  server: 51.250.9.177
+  port: 443
+  uuid: 409bdb0f-5aae-4e93-a8dd-60adc47d5fd3
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: ads.x5.ru
+- name: WHITE LITE [284]
+  type: vless
+  server: 158.160.102.236
+  port: 443
+  uuid: 2420af47-2316-482e-bb0f-b164df4b2334
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: sso.passport.yandex.ru
+- name: WHITE LITE [285]
+  type: vless
+  server: 51.250.9.177
+  port: 443
+  uuid: 409bdb0f-5aae-4e93-a8dd-60adc47d5fd3
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: ads.x5.ru
+- name: WHITE LITE [286]
   type: ss
   server: 103.111.114.80
   port: 28061
   cipher: chacha20-ietf-poly1305
   password: WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm
-- name: WHITE LITE [435]
+- name: WHITE LITE [288]
   type: vless
   server: 5.188.114.12
   port: 3443
   uuid: 2ce70f60-6145-4730-97e1-a38cb5dd2afc
   encryption: none
-  client-fingerprint: edge
+  client-fingerprint: qq
   network: ws
   ws-opts:
     path: /
     headers:
       Host: 5.188.114.12
-- name: WHITE LITE [436]
+- name: WHITE LITE [289]
   type: vless
   server: 178.250.243.230
   port: 9823
@@ -2414,176 +1867,192 @@ proxies:
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: edge
+  client-fingerprint: firefox
   reality-opts:
     public-key: iNnoaSfyKvdo5kp5znHSGFNqFxNhS0ormvHHHwsUSTM
     short-id: 0123456789abcdef
   servername: max.ru
-- name: WHITE LITE [439]
+- name: WHITE LITE [293]
   type: vless
-  server: 87.228.101.57
+  server: 87.228.101.211
   port: 8443
-  uuid: fc2a62c5-f7f6-4e79-9067-01df958d7fe3
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: razU6QTL659hzCH6GUbA8icGt7J4MtOF19Wz5IrumGg
-    short-id: e3a6a0ee012466b3
-  servername: api-maps.yandex.ru
-- name: WHITE LITE [440]
-  type: vless
-  server: 46.8.209.224
-  port: 443
-  uuid: 03ef0b55-b03b-4beb-bc58-b87f18d652d8
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8
-    short-id: ae03e6ef452252e0
-  servername: www.vk.com
-- name: WHITE LITE [442]
-  type: vless
-  server: 84.201.174.157
-  port: 443
-  uuid: 17f64db4-ee71-42c1-8f1c-f018f98c908d
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: sso.passport.yandex.ru
-- name: WHITE LITE [445]
-  type: vless
-  server: 185.22.235.219
-  port: 443
-  uuid: 17f64db4-ee71-42c1-8f1c-f018f98c908d
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: sso.passport.yandex.ru
-- name: WHITE LITE [448]
-  type: vless
-  server: 84.201.180.178
-  port: 443
-  uuid: fc2a62c5-f7f6-4e79-9067-01df958d7fe3
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8
-    short-id: 22730c666bd10642
-  servername: api-maps.yandex.ru
-- name: WHITE LITE [450]
-  type: vless
-  server: 84.201.177.246
-  port: 3000
-  uuid: 702baa8d-a3fe-4684-880a-cdb4963d36f1
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI
-    short-id: 83ae6b6bb4899039
-  servername: eda.yandex.ru
-- name: WHITE LITE [451]
-  type: vless
-  server: 84.201.177.246
-  port: 3002
-  uuid: 702baa8d-a3fe-4684-880a-cdb4963d36f1
+  uuid: db3a365a-0193-41db-8b09-077771fe4ad3
   encryption: none
   tls: true
   client-fingerprint: firefox
   reality-opts:
-    public-key: XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI
-    short-id: 83ae6b6bb4899039
-  servername: cloud.mail.ru
-- name: WHITE LITE [452]
-  type: vless
-  server: 185.22.235.63
-  port: 443
-  uuid: 17f64db4-ee71-42c1-8f1c-f018f98c908d
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
+    public-key: razU6QTL659hzCH6GUbA8icGt7J4MtOF19Wz5IrumGg
+    short-id: e3a6a0ee012466b3
   servername: api-maps.yandex.ru
-- name: WHITE LITE [453]
+- name: WHITE LITE [295]
   type: vless
-  server: 84.201.128.39
-  port: 443
-  uuid: 17f64db4-ee71-42c1-8f1c-f018f98c908d
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: WHITE LITE [456]
-  type: vless
-  server: 46.8.209.215
-  port: 443
-  uuid: 03ef0b55-b03b-4beb-bc58-b87f18d652d8
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8
-    short-id: ae03e6ef452252e0
-  servername: www.vk.com
-- name: WHITE LITE [459]
-  type: vless
-  server: 89.208.231.191
+  server: 87.228.101.57
   port: 8443
-  uuid: f6839362-c754-03e8-af64-970e89334a69
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
-    short-id: d8c6b58bcbb0c323
-  servername: max.ru
-- name: WHITE LITE [461]
-  type: vless
-  server: 87.228.101.211
-  port: 8443
-  uuid: fc2a62c5-f7f6-4e79-9067-01df958d7fe3
+  uuid: db3a365a-0193-41db-8b09-077771fe4ad3
   encryption: none
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: firefox
   reality-opts:
     public-key: razU6QTL659hzCH6GUbA8icGt7J4MtOF19Wz5IrumGg
     short-id: e3a6a0ee012466b3
   servername: api-maps.yandex.ru
-- name: WHITE LITE [462]
+- name: WHITE LITE [297]
   type: vless
-  server: 185.86.145.231
-  port: 5443
-  uuid: 35a14133-45f6-40bc-a9cd-918fd0ecb345
+  server: 84.201.180.178
+  port: 443
+  uuid: db3a365a-0193-41db-8b09-077771fe4ad3
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8
+    short-id: 22730c666bd10642
+  servername: api-maps.yandex.ru
+- name: WHITE LITE [298]
+  type: vless
+  server: 84.201.156.242
+  port: 443
+  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: sso.passport.yandex.ru
+- name: WHITE LITE [299]
+  type: vless
+  server: 158.160.59.97
+  port: 443
+  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
   encryption: none
   flow: xtls-rprx-vision
   tls: true
   client-fingerprint: qq
   reality-opts:
-    public-key: LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: web.max.ru
+- name: WHITE LITE [303]
+  type: vless
+  server: 185.22.235.63
+  port: 443
+  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: WHITE LITE [309]
+  type: vless
+  server: 84.201.174.157
+  port: 443
+  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: WHITE LITE [311]
+  type: vless
+  server: 46.8.209.215
+  port: 443
+  uuid: b35e2dce-f413-416e-b7e1-6385eaa8dd61
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8
+    short-id: ae03e6ef452252e0
+  servername: www.vk.com
+- name: WHITE LITE [312]
+  type: vless
+  server: 46.8.209.224
+  port: 443
+  uuid: b35e2dce-f413-416e-b7e1-6385eaa8dd61
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8
+    short-id: ae03e6ef452252e0
+  servername: www.vk.com
+- name: WHITE LITE [314]
+  type: vless
+  server: 89.208.231.191
+  port: 8443
+  uuid: c6e6bea4-9410-03e8-a5e0-61a70d8f240d
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
+    short-id: d8c6b58bcbb0c323
   servername: max.ru
-- name: WHITE LITE [465]
+- name: WHITE LITE [319]
+  type: vless
+  server: 158.160.59.225
+  port: 443
+  uuid: a8c0abb4-13c7-4d88-9adf-91e25834b1e5
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: web.max.ru
+- name: WHITE LITE [320]
+  type: vless
+  server: 185.22.235.219
+  port: 443
+  uuid: a8c0abb4-13c7-4d88-9adf-91e25834b1e5
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: sso.passport.yandex.ru
+- name: WHITE LITE [321]
+  type: vless
+  server: 185.22.235.60
+  port: 443
+  uuid: a8c0abb4-13c7-4d88-9adf-91e25834b1e5
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: WHITE LITE [322]
+  type: vless
+  server: 84.201.172.95
+  port: 443
+  uuid: a8c0abb4-13c7-4d88-9adf-91e25834b1e5
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: web.max.ru
+- name: WHITE LITE [327]
   type: vless
   server: 51.250.95.143
   port: 443
@@ -2596,7 +2065,7 @@ proxies:
     public-key: dEHsPQQSnMJiHJKnJRbbLFKQmwIemUXQsQ1zIYbLZng
     short-id: f6
   servername: www.mobile.yandex.ru
-- name: WHITE LITE [478]
+- name: WHITE LITE [336]
   type: vless
   server: 92.53.74.129
   port: 443
@@ -2604,12 +2073,12 @@ proxies:
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: qq
   reality-opts:
     public-key: WjuwZbmCjN8TmT4wZL6zTevQr3mnOATafLpQi1ofzCs
     short-id: de7c7bd7
   servername: api-maps.yandex.ru
-- name: WHITE LITE [480]
+- name: WHITE LITE [337]
   type: vless
   server: 79.174.92.180
   port: 1443
@@ -2622,50 +2091,126 @@ proxies:
     public-key: TRCcTuW5ZZOez52Hz6KMUWZGpGiaNHgIsWEa3DZ0DHE
     short-id: 6ba85179e30d4fc2
   servername: rutube.ru
-- name: WHITE LITE [484]
+- name: WHITE LITE [345]
   type: vless
-  server: 84.201.156.242
+  server: 194.164.32.160
   port: 443
-  uuid: 2a69b761-6dd8-4ed2-acf9-caba947fdca4
+  uuid: a6cc3164-87d8-5a1e-9e89-4a2d8a81450f
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 7tavpjDPb8z2aUDo9XDWXrhh7O1YjpaC5GQMIiU7JFo
+    short-id: dceb83b5c6df
+  servername: www.vk.com
+- name: WHITE LITE [346]
+  type: vless
+  server: 217.13.104.154
+  port: 443
+  uuid: 64bc8910-bc0f-453e-b3f3-a101a5dce03e
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
+    short-id: 33554379411b3219
+  servername: travel.yandex.ru
+- name: WHITE LITE [348]
+  type: vless
+  server: 51.250.4.238
+  port: 443
+  uuid: 200ec212-85d9-46d1-b7af-68adaffe3a04
   encryption: none
   flow: xtls-rprx-vision
   tls: true
   client-fingerprint: qq
   reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: WHITE LITE [485]
+    public-key: Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI
+    short-id: 27e53bbcab7593d7
+  servername: yandex.ru
+- name: WHITE LITE [352]
   type: vless
-  server: 185.22.235.222
+  server: 158.160.5.231
+  port: 44443
+  uuid: 4de21bfe-2e26-45ec-8fb0-be864eeaade0
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: zHEJpG7OIMy1r1VHuhgWMJRa9okALRARYohcuJeXmjE
+    short-id: b249b66ed868
+  servername: www.yandex.ru
+- name: WHITE LITE [356]
+  type: vless
+  server: 217.13.104.149
   port: 443
-  uuid: a9211a43-425b-436e-8001-1cb7ec5db238
+  uuid: 557a0638-0981-4176-a8bc-13dbf588291d
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: firefox
   reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: sso.passport.yandex.ru
-- name: WHITE LITE [487]
+    public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
+    short-id: 4a3ad88ff867a295
+  servername: travel.yandex.ru
+- name: WHITE LITE [358]
   type: vless
-  server: 109.120.189.142
+  server: 31.129.42.122
   port: 443
-  uuid: 080556c0-0117-0bb8-b1d9-3708fa8ab8c4
+  uuid: de5fe05f-149f-4c2d-9678-d37ed57c8a14
   encryption: none
-  flow: xtls-rprx-vision
   tls: true
   client-fingerprint: edge
+  reality-opts:
+    public-key: dZwaeGvFS34wVBQOQ5q1c9xs8t1HHu2h9CdxnTGeuAw
+    short-id: 11a33a97aa
+  servername: api-maps.yandex.ru
+- name: WHITE LITE [359]
+  type: vless
+  server: 217.16.21.230
+  port: 443
+  uuid: 379bd21a-2cb5-437e-aedf-36eab95163f6
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: pPzR1XhpFrEIwevI7lPPvw4faRcRQmqiNySYHkSdVBU
+    short-id: 2a552b0d4d15e0f7
+  servername: eh.vk.com
+- name: WHITE LITE [360]
+  type: vless
+  server: 109.120.189.145
+  port: 443
+  uuid: 8e0d168b-f984-07d0-865f-88b9a46fb48f
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
   reality-opts:
     public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
     short-id: d8c6b58bcbb0c323
   servername: max.ru
-- name: WHITE LITE [489]
+- name: WHITE LITE [363]
   type: vless
-  server: 185.22.235.60
+  server: 62.152.59.191
   port: 443
-  uuid: 2951c5e7-d067-4383-a910-2fa4ad8b47c8
+  uuid: 379bd21a-2cb5-437e-aedf-36eab95163f6
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: pPzR1XhpFrEIwevI7lPPvw4faRcRQmqiNySYHkSdVBU
+    short-id: 2a552b0d4d15e0f7
+  servername: max.ru
+- name: WHITE LITE [365]
+  type: vless
+  server: 84.201.128.39
+  port: 443
+  uuid: abc9b974-a258-442d-b31e-d23d3f1152bb
   encryption: none
   flow: xtls-rprx-vision
   tls: true
@@ -2674,11 +2219,47 @@ proxies:
     public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
     short-id: 428ef87fd47a3a32
   servername: web.max.ru
-- name: WHITE LITE [492]
+- name: WHITE LITE [369]
   type: vless
-  server: 158.160.59.97
+  server: 46.254.18.60
   port: 443
-  uuid: 285eee77-c57e-4fd3-baa4-6fce0831448d
+  uuid: 3b40f4c2-b9c8-4e42-9b2d-55951ed6d1f4
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: PL09r78ubjFaOILv5x6HPsCZeTdwhlRb3tuDY5vASwQ
+  servername: yandex.ru
+- name: WHITE LITE [373]
+  type: vless
+  server: 5.188.115.218
+  port: 22611
+  uuid: b97cb489-6d53-4905-9c0a-dcda9ee856d1
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: pB2WMmoWnmXfPnPMzbhA5R03su6TrzM0gAbwvFU6jVo
+  servername: api-maps.yandex.ru
+- name: WHITE LITE [374]
+  type: vless
+  server: 185.229.9.222
+  port: 443
+  uuid: 6547fbe6-b885-471b-a633-6e0df32b158c
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: r6LKP3g2W5ruKICTDfH8rwM1PbMjdcgHU7cG6jppxTs
+    short-id: 27e53bbcab7593d7
+  servername: yandex.ru
+- name: WHITE LITE [376]
+  type: vless
+  server: 185.22.235.222
+  port: 443
+  uuid: 2c45adc2-e491-4466-850f-9a38721210ee
   encryption: none
   flow: xtls-rprx-vision
   tls: true
@@ -2686,8 +2267,95 @@ proxies:
   reality-opts:
     public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
     short-id: 428ef87fd47a3a32
-  servername: sso.passport.yandex.ru
-- name: WHITE LITE [496]
+  servername: api-maps.yandex.ru
+- name: WHITE LITE [380]
+  type: vless
+  server: 51.250.73.31
+  port: 443
+  uuid: 76f385df-bb5c-4e92-b60b-fce540b0a6a0
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
+    short-id: 17802e8ff84f12df
+  servername: api-maps.yandex.ru
+- name: WHITE LITE [381]
+  type: vless
+  server: 185.91.53.156
+  port: 22443
+  uuid: 920068db-cef5-4981-bc4d-5124e48d4d10
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: cbGDjRtfcyQheYaOqwuCP5Ztp3eX1QImdG2nU12x4ic
+    short-id: 9e55651f1b3900d2
+  servername: zoo.vprok.ru
+- name: WHITE LITE [384]
+  type: vless
+  server: 51.250.41.88
+  port: 443
+  uuid: 43e1373c-ca2c-5c20-ad1d-3b34ce61025e
+  encryption: none
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 2eyj2P27fWURICQda00QuLqXayzQel6tMOfGLAslf0U
+  servername: api-maps.yandex.ru
+- name: WHITE LITE [386]
+  type: vless
+  server: 51.250.66.16
+  port: 443
+  uuid: d0fe7fae-f74a-4c6c-a259-93f9c483a9d1
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: WHITE LITE [389]
+  type: vless
+  server: 62.152.59.145
+  port: 443
+  uuid: 379bd21a-2cb5-437e-aedf-36eab95163f6
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: pPzR1XhpFrEIwevI7lPPvw4faRcRQmqiNySYHkSdVBU
+    short-id: 2a552b0d4d15e0f7
+  servername: max.ru
+- name: WHITE LITE [391]
+  type: vless
+  server: 178.154.214.111
+  port: 443
+  uuid: 2fb7d657-55db-40d2-ac2d-e5b22e1eab7f
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8
+    short-id: 22730c666bd10642
+  servername: api-maps.yandex.ru
+- name: WHITE LITE [392]
+  type: vless
+  server: 31.129.42.83
+  port: 443
+  uuid: 15eca7e4-a5ae-48ae-bff2-e1283a063698
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: C5vgyEVU4yW0VpxjQVXIINYksB6AtWE9ErJr9cI8jDk
+    short-id: c91e8b3e
+  servername: max.ru
+- name: WHITE LITE [393]
   type: vless
   server: 217.13.105.1
   port: 443
@@ -2700,118 +2368,558 @@ proxies:
     public-key: ZGwYjRp5RxlVpHUTPzi7pB4ZZuDU5FZEaFgBM71teiQ
     short-id: 0669a3e6b300d069
   servername: eh.vk.com
-- name: WHITE LITE [498]
+- name: WHITE LITE [400]
   type: vless
-  server: 51.250.4.238
+  server: 158.160.232.92
+  port: 8443
+  uuid: ed3b0d94-ab48-4485-a144-bc114ff5bfba
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: vwv2aGTuYWN2LPPN0dwhm5iMqg2RWfBrlVqHZwkOpRA
+    short-id: bd3cda11ddaa
+  servername: api-maps.yandex.ru
+- name: WHITE LITE [405]
+  type: vless
+  server: 185.91.54.151
   port: 443
-  uuid: f7fe2efc-fccb-451e-a820-826e956de1a4
+  uuid: 93402fb1-56e0-4f7c-bf9c-4956c27e7e31
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: dZwaeGvFS34wVBQOQ5q1c9xs8t1HHu2h9CdxnTGeuAw
+    short-id: 11a33a97aa
+  servername: api-maps.yandex.ru
+- name: WHITE LITE [407]
+  type: vless
+  server: 158.160.208.250
+  port: 443
+  uuid: 37d4ef31-df31-4e6f-9650-3695c6762a4c
   encryption: none
   flow: xtls-rprx-vision
   tls: true
   client-fingerprint: qq
   reality-opts:
-    public-key: Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI
-    short-id: 27e53bbcab7593d7
+    public-key: yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8
+    short-id: 22730c666bd10642
+  servername: api-maps.yandex.ru
+- name: WHITE LITE [408]
+  type: vless
+  server: 84.252.137.241
+  port: 443
+  uuid: b95a44a7-c684-407b-b57e-e1681d69de90
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: UsMQ62DKgEE3xRGxHB8IBpC0n8qSIFcZOG78KbPIG2Y
+    short-id: ceda1901d1ca546c
+  servername: api-maps.yandex.ru
+- name: WHITE LITE [410]
+  type: vless
+  server: 46.149.68.236
+  port: 443
+  uuid: 42d7048f-a7ef-408f-a3ef-00590cc06f38
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: KrdRa3hUCFN2pYeSUsf9DOnAQJyQsg2p0B7FWcN1oSU
+  servername: ir.ozone.ru
+- name: WHITE LITE [415]
+  type: vless
+  server: 84.201.160.167
+  port: 443
+  uuid: 694eadbe-d61f-4f80-957b-d55d990e8ffa
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: ONSC3Bp5U0cjkMca7bXlUI16izIeN0fJKoCjEdn64RQ
+    short-id: 2bb326a463fd1937
   servername: yandex.ru
+- name: WHITE LITE [416]
+  type: vless
+  server: 51.250.118.60
+  port: 443
+  uuid: 7fc1e529-1edd-475d-ad3d-6892b51032b4
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: p70a7AVnklscz0gEKeVshpmywJkV4x89VubCZmxqLwo
+    short-id: ae2e179e
+  servername: max.ru
+- name: WHITE LITE [417]
+  type: vless
+  server: 88.218.120.60
+  port: 8443
+  uuid: 9c63bf8b-1c25-4b7e-9393-71aa99cad29d
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1A4AgKQiz38mT1r1H0su7aAXBB7KnKOFzsQ3AdACVDs
+    short-id: 612d8fa72c
+  servername: login.mts.ru
+- name: WHITE LITE [418]
+  type: vless
+  server: 80.249.147.25
+  port: 443
+  uuid: 1df80689-3d1f-4222-a951-68f19bb3cb07
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: SKWjIJ7q0TplUMzZRDQ6d2CJps5H2nT0mye6CmfXskw
+  servername: m.vk.com
+- name: WHITE LITE [419]
+  type: vless
+  server: 51.250.4.119
+  port: 443
+  uuid: b2019c04-5b7c-4be4-a65c-ca5ea90bf8fd
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
+    short-id: 17802e8ff84f12df
+  servername: api-maps.yandex.ru
+- name: WHITE LITE [429]
+  type: vless
+  server: 84.201.177.16
+  port: 8443
+  uuid: a5f9a003-6f40-49c8-b461-752c32591480
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: EG3q0J7gCoc9d0eHDfXX86OhQT27rQk3flGdiZPXmQ8
+    short-id: 9a0d
+  servername: max.ru
+- name: WHITE LITE [430]
+  type: vless
+  server: 62.152.59.193
+  port: 443
+  uuid: 379bd21a-2cb5-437e-aedf-36eab95163f6
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: pPzR1XhpFrEIwevI7lPPvw4faRcRQmqiNySYHkSdVBU
+    short-id: 2a552b0d4d15e0f7
+  servername: max.ru
+- name: WHITE LITE [442]
+  type: vless
+  server: 62.152.59.224
+  port: 443
+  uuid: 379bd21a-2cb5-437e-aedf-36eab95163f6
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: pPzR1XhpFrEIwevI7lPPvw4faRcRQmqiNySYHkSdVBU
+    short-id: 2a552b0d4d15e0f7
+  servername: max.ru
+- name: WHITE LITE [453]
+  type: vless
+  server: 109.120.189.142
+  port: 443
+  uuid: 080556c0-0117-0bb8-b1d9-3708fa8ab8c4
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
+    short-id: d8c6b58bcbb0c323
+  servername: max.ru
+- name: WHITE LITE [465]
+  type: vless
+  server: 158.160.166.78
+  port: 443
+  uuid: a9266144-169e-4653-b58a-0456f2ef6a13
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 0a3d38cwnQfUM7EqjEinf1XUZyKdzgiuRMayO3LcYl0
+    short-id: 35debf0dc757d053
+  servername: sun6-22.userapi.com
+- name: WHITE LITE [471]
+  type: vless
+  server: 62.152.58.111
+  port: 443
+  uuid: f0933f3c-4a73-4409-93ad-8d3a43d253c0
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY
+  servername: sun1-87.userapi.com
+- name: WHITE LITE [474]
+  type: vless
+  server: 62.152.59.190
+  port: 443
+  uuid: 379bd21a-2cb5-437e-aedf-36eab95163f6
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: pPzR1XhpFrEIwevI7lPPvw4faRcRQmqiNySYHkSdVBU
+    short-id: 2a552b0d4d15e0f7
+  servername: max.ru
+- name: WHITE LITE [479]
+  type: vless
+  server: 158.160.102.236
+  port: 443
+  uuid: 2420af47-2316-482e-bb0f-b164df4b2334
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: sso.passport.yandex.ru
+- name: WHITE LITE [483]
+  type: vless
+  server: 195.209.82.151
+  port: 443
+  uuid: 91701522-64d1-4b04-8311-33969f5c5b11
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
+  servername: s92415.cdn.ngenix.net
+  network: ws
+  ws-opts:
+    path: /v1/data/sync/
+    headers:
+      Host: s92415.cdn.ngenix.net
+- name: WHITE LITE [484]
+  type: vless
+  server: 62.152.58.114
+  port: 443
+  uuid: 3cc85cfd-9527-4c58-b5c8-93b528bc07b2
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: jAJoyWJ4nMGai3H9BOa6QMUr2Vvpgqs8VipbaO5mCVU
+    short-id: 3130197867c23edb
+  servername: wl-13-1.nodes.ac
+- name: WHITE LITE [486]
+  type: vless
+  server: 212.193.155.88
+  port: 443
+  uuid: 39dbdf9d-f55e-4590-8458-d2bcf09deaf9
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  servername: s96705.cdn.ngenix.net
+  network: ws
+  ws-opts:
+    path: /v1/data/sync/
+    headers:
+      Host: s96705.cdn.ngenix.net
+- name: WHITE LITE [487]
+  type: vless
+  server: 185.229.9.204
+  port: 443
+  uuid: 566db354-c2e2-4205-9b9f-6d243af4a3cb
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 0k11W7Kb0ncWPcknoD0xJikoESlU5ApDYySG7X7OZCU
+    short-id: 27e53bbcab7593d7
+  servername: ads.x5.ru
+- name: WHITE LITE [490]
+  type: vless
+  server: 195.209.87.198
+  port: 443
+  uuid: 43189082-6592-4e95-af68-9416e334548a
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  servername: s28797.cdn.ngenix.net
+  network: ws
+  ws-opts:
+    path: /v1/data/sync/
+    headers:
+      Host: s28797.cdn.ngenix.net
+- name: WHITE LITE [491]
+  type: vless
+  server: 195.209.89.2
+  port: 443
+  uuid: 43189082-6592-4e95-af68-9416e334548a
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
+  servername: s28797.cdn.ngenix.net
+  network: ws
+  ws-opts:
+    path: /v1/data/sync/
+    headers:
+      Host: s28797.cdn.ngenix.net
+- name: WHITE LITE [492]
+  type: vless
+  server: 188.68.218.160
+  port: 443
+  uuid: 2e2c71ae-7ef6-4aac-9f4f-00cf4d68d89e
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
+  servername: api.pushbyte.cc
+- name: WHITE LITE [493]
+  type: vless
+  server: 31.129.42.37
+  port: 443
+  uuid: 2e2c71ae-7ef6-4aac-9f4f-00cf4d68d89e
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  servername: api.datapull.cc
+- name: WHITE LITE [494]
+  type: vless
+  server: 37.9.4.128
+  port: 443
+  uuid: 2e2c71ae-7ef6-4aac-9f4f-00cf4d68d89e
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
+  servername: api1.madapp.cc
+- name: WHITE LITE [495]
+  type: vless
+  server: 188.68.218.110
+  port: 443
+  uuid: 2e2c71ae-7ef6-4aac-9f4f-00cf4d68d89e
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
+  servername: api.madapp.cc
+- name: WHITE LITE [496]
+  type: vless
+  server: 195.209.86.193
+  port: 443
+  uuid: 566de5da-893a-4c39-9225-b957e2ee7900
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  servername: s28797.cdn.ngenix.net
+  network: ws
+  ws-opts:
+    path: /v1/data/sync/
+    headers:
+      Host: s28797.cdn.ngenix.net
+- name: WHITE LITE [497]
+  type: vless
+  server: 185.178.208.176
+  port: 443
+  uuid: 5693422a-ff8f-46a8-9466-af25bee817f0
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
+  servername: founders-blog.online
+  network: ws
+  ws-opts:
+    path: /stream/615428/socket
+    headers:
+      Host: founders-blog.online
+- name: WHITE LITE [498]
+  type: vless
+  server: 195.208.65.163
+  port: 443
+  uuid: 0c243321-4920-40f7-854c-3f6637fdb913
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
+  servername: s90782.cdn.ngenix.net
+  network: ws
+  ws-opts:
+    path: /v1/data/sync/
+    headers:
+      Host: s90782.cdn.ngenix.net
+- name: WHITE LITE [499]
+  type: vless
+  server: 79.174.90.31
+  port: 443
+  uuid: 0c243321-4920-40f7-854c-3f6637fdb913
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: ads.x5.ru
+- name: WHITE LITE [500]
+  type: vless
+  server: 195.208.65.195
+  port: 443
+  uuid: 2742e7e7-68d6-4693-a3b9-f7d340395b32
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
+  servername: s58794.cdn.ngenix.net
+  network: ws
+  ws-opts:
+    path: /v1/data/sync/
+    headers:
+      Host: s58794.cdn.ngenix.net
 proxy-groups:
 - name: Selector
   type: select
   proxies:
+  - WHITE LITE [1]
+  - WHITE LITE [2]
+  - WHITE LITE [3]
+  - WHITE LITE [4]
+  - WHITE LITE [5]
+  - WHITE LITE [6]
+  - WHITE LITE [7]
+  - WHITE LITE [8]
+  - WHITE LITE [11]
   - WHITE LITE [12]
-  - WHITE LITE [13]
-  - WHITE LITE [14]
+  - WHITE LITE [15]
   - WHITE LITE [16]
+  - WHITE LITE [17]
+  - WHITE LITE [18]
   - WHITE LITE [19]
   - WHITE LITE [20]
   - WHITE LITE [21]
-  - WHITE LITE [23]
+  - WHITE LITE [22]
+  - WHITE LITE [24]
+  - WHITE LITE [25]
+  - WHITE LITE [26]
+  - WHITE LITE [27]
+  - WHITE LITE [28]
+  - WHITE LITE [29]
   - WHITE LITE [30]
-  - WHITE LITE [36]
-  - WHITE LITE [37]
-  - WHITE LITE [38]
-  - WHITE LITE [39]
-  - WHITE LITE [40]
-  - WHITE LITE [44]
-  - WHITE LITE [48]
-  - WHITE LITE [49]
+  - WHITE LITE [31]
+  - WHITE LITE [32]
+  - WHITE LITE [33]
+  - WHITE LITE [34]
+  - WHITE LITE [35]
+  - WHITE LITE [47]
   - WHITE LITE [50]
-  - WHITE LITE [59]
-  - WHITE LITE [60]
-  - WHITE LITE [61]
-  - WHITE LITE [62]
+  - WHITE LITE [53]
+  - WHITE LITE [56]
+  - WHITE LITE [58]
   - WHITE LITE [63]
-  - WHITE LITE [64]
-  - WHITE LITE [65]
   - WHITE LITE [66]
   - WHITE LITE [69]
   - WHITE LITE [70]
   - WHITE LITE [73]
   - WHITE LITE [74]
-  - WHITE LITE [75]
-  - WHITE LITE [78]
   - WHITE LITE [81]
-  - WHITE LITE [82]
-  - WHITE LITE [86]
+  - WHITE LITE [87]
+  - WHITE LITE [88]
   - WHITE LITE [90]
+  - WHITE LITE [91]
+  - WHITE LITE [92]
+  - WHITE LITE [93]
+  - WHITE LITE [94]
+  - WHITE LITE [95]
+  - WHITE LITE [96]
+  - WHITE LITE [97]
   - WHITE LITE [98]
   - WHITE LITE [99]
+  - WHITE LITE [100]
+  - WHITE LITE [101]
+  - WHITE LITE [102]
+  - WHITE LITE [103]
+  - WHITE LITE [104]
+  - WHITE LITE [105]
   - WHITE LITE [106]
+  - WHITE LITE [107]
+  - WHITE LITE [108]
+  - WHITE LITE [109]
+  - WHITE LITE [110]
   - WHITE LITE [114]
-  - WHITE LITE [116]
-  - WHITE LITE [119]
   - WHITE LITE [124]
-  - WHITE LITE [125]
-  - WHITE LITE [128]
-  - WHITE LITE [132]
-  - WHITE LITE [134]
-  - WHITE LITE [136]
-  - WHITE LITE [137]
   - WHITE LITE [139]
   - WHITE LITE [140]
+  - WHITE LITE [141]
   - WHITE LITE [142]
   - WHITE LITE [143]
   - WHITE LITE [144]
+  - WHITE LITE [145]
+  - WHITE LITE [146]
   - WHITE LITE [147]
   - WHITE LITE [148]
   - WHITE LITE [149]
+  - WHITE LITE [150]
   - WHITE LITE [151]
   - WHITE LITE [152]
   - WHITE LITE [153]
   - WHITE LITE [154]
   - WHITE LITE [155]
   - WHITE LITE [156]
-  - WHITE LITE [157]
-  - WHITE LITE [158]
-  - WHITE LITE [159]
-  - WHITE LITE [160]
   - WHITE LITE [161]
   - WHITE LITE [162]
   - WHITE LITE [163]
   - WHITE LITE [164]
-  - WHITE LITE [165]
-  - WHITE LITE [166]
-  - WHITE LITE [167]
-  - WHITE LITE [168]
-  - WHITE LITE [169]
+  - WHITE LITE [170]
+  - WHITE LITE [173]
   - WHITE LITE [174]
-  - WHITE LITE [176]
-  - WHITE LITE [187]
+  - WHITE LITE [175]
+  - WHITE LITE [180]
+  - WHITE LITE [184]
+  - WHITE LITE [185]
+  - WHITE LITE [186]
+  - WHITE LITE [189]
+  - WHITE LITE [191]
   - WHITE LITE [192]
-  - WHITE LITE [195]
+  - WHITE LITE [196]
+  - WHITE LITE [197]
+  - WHITE LITE [198]
+  - WHITE LITE [199]
+  - WHITE LITE [200]
   - WHITE LITE [201]
-  - WHITE LITE [203]
+  - WHITE LITE [202]
   - WHITE LITE [204]
+  - WHITE LITE [205]
+  - WHITE LITE [206]
   - WHITE LITE [207]
   - WHITE LITE [211]
   - WHITE LITE [212]
+  - WHITE LITE [213]
   - WHITE LITE [214]
+  - WHITE LITE [215]
   - WHITE LITE [216]
   - WHITE LITE [217]
+  - WHITE LITE [218]
+  - WHITE LITE [219]
+  - WHITE LITE [220]
+  - WHITE LITE [222]
+  - WHITE LITE [223]
+  - WHITE LITE [224]
+  - WHITE LITE [225]
+  - WHITE LITE [227]
   - WHITE LITE [228]
+  - WHITE LITE [229]
+  - WHITE LITE [230]
+  - WHITE LITE [231]
   - WHITE LITE [232]
   - WHITE LITE [233]
   - WHITE LITE [234]
-  - WHITE LITE [235]
   - WHITE LITE [236]
   - WHITE LITE [237]
   - WHITE LITE [238]
@@ -2821,248 +2929,247 @@ proxy-groups:
   - WHITE LITE [242]
   - WHITE LITE [243]
   - WHITE LITE [244]
-  - WHITE LITE [245]
   - WHITE LITE [246]
   - WHITE LITE [247]
   - WHITE LITE [248]
   - WHITE LITE [249]
   - WHITE LITE [250]
   - WHITE LITE [251]
-  - WHITE LITE [252]
   - WHITE LITE [253]
   - WHITE LITE [254]
   - WHITE LITE [255]
+  - WHITE LITE [256]
+  - WHITE LITE [257]
+  - WHITE LITE [258]
+  - WHITE LITE [260]
+  - WHITE LITE [261]
+  - WHITE LITE [262]
+  - WHITE LITE [263]
   - WHITE LITE [264]
+  - WHITE LITE [265]
+  - WHITE LITE [266]
+  - WHITE LITE [267]
+  - WHITE LITE [269]
+  - WHITE LITE [270]
+  - WHITE LITE [277]
   - WHITE LITE [278]
+  - WHITE LITE [279]
+  - WHITE LITE [280]
+  - WHITE LITE [284]
   - WHITE LITE [285]
   - WHITE LITE [286]
-  - WHITE LITE [287]
   - WHITE LITE [288]
   - WHITE LITE [289]
-  - WHITE LITE [290]
-  - WHITE LITE [291]
-  - WHITE LITE [292]
   - WHITE LITE [293]
-  - WHITE LITE [294]
   - WHITE LITE [295]
-  - WHITE LITE [296]
   - WHITE LITE [297]
   - WHITE LITE [298]
   - WHITE LITE [299]
-  - WHITE LITE [300]
-  - WHITE LITE [301]
-  - WHITE LITE [306]
-  - WHITE LITE [307]
-  - WHITE LITE [308]
+  - WHITE LITE [303]
   - WHITE LITE [309]
-  - WHITE LITE [310]
   - WHITE LITE [311]
   - WHITE LITE [312]
-  - WHITE LITE [317]
+  - WHITE LITE [314]
+  - WHITE LITE [319]
   - WHITE LITE [320]
+  - WHITE LITE [321]
   - WHITE LITE [322]
-  - WHITE LITE [323]
-  - WHITE LITE [325]
-  - WHITE LITE [326]
   - WHITE LITE [327]
-  - WHITE LITE [328]
-  - WHITE LITE [334]
-  - WHITE LITE [338]
-  - WHITE LITE [339]
-  - WHITE LITE [342]
-  - WHITE LITE [343]
-  - WHITE LITE [344]
+  - WHITE LITE [336]
+  - WHITE LITE [337]
+  - WHITE LITE [345]
+  - WHITE LITE [346]
   - WHITE LITE [348]
-  - WHITE LITE [355]
+  - WHITE LITE [352]
   - WHITE LITE [356]
-  - WHITE LITE [357]
   - WHITE LITE [358]
-  - WHITE LITE [362]
+  - WHITE LITE [359]
+  - WHITE LITE [360]
   - WHITE LITE [363]
-  - WHITE LITE [364]
   - WHITE LITE [365]
-  - WHITE LITE [366]
-  - WHITE LITE [367]
-  - WHITE LITE [368]
   - WHITE LITE [369]
-  - WHITE LITE [370]
-  - WHITE LITE [372]
   - WHITE LITE [373]
   - WHITE LITE [374]
-  - WHITE LITE [375]
-  - WHITE LITE [379]
+  - WHITE LITE [376]
   - WHITE LITE [380]
   - WHITE LITE [381]
-  - WHITE LITE [382]
-  - WHITE LITE [383]
   - WHITE LITE [384]
-  - WHITE LITE [385]
   - WHITE LITE [386]
-  - WHITE LITE [387]
   - WHITE LITE [389]
-  - WHITE LITE [390]
   - WHITE LITE [391]
+  - WHITE LITE [392]
   - WHITE LITE [393]
-  - WHITE LITE [394]
-  - WHITE LITE [395]
-  - WHITE LITE [396]
-  - WHITE LITE [397]
-  - WHITE LITE [398]
   - WHITE LITE [400]
-  - WHITE LITE [401]
-  - WHITE LITE [402]
-  - WHITE LITE [403]
-  - WHITE LITE [404]
   - WHITE LITE [405]
-  - WHITE LITE [406]
   - WHITE LITE [407]
   - WHITE LITE [408]
   - WHITE LITE [410]
-  - WHITE LITE [411]
-  - WHITE LITE [412]
-  - WHITE LITE [413]
-  - WHITE LITE [414]
+  - WHITE LITE [415]
   - WHITE LITE [416]
   - WHITE LITE [417]
   - WHITE LITE [418]
   - WHITE LITE [419]
-  - WHITE LITE [420]
-  - WHITE LITE [421]
-  - WHITE LITE [423]
-  - WHITE LITE [424]
-  - WHITE LITE [425]
-  - WHITE LITE [426]
-  - WHITE LITE [427]
-  - WHITE LITE [428]
   - WHITE LITE [429]
   - WHITE LITE [430]
-  - WHITE LITE [432]
-  - WHITE LITE [433]
-  - WHITE LITE [435]
-  - WHITE LITE [436]
-  - WHITE LITE [439]
-  - WHITE LITE [440]
   - WHITE LITE [442]
-  - WHITE LITE [445]
-  - WHITE LITE [448]
-  - WHITE LITE [450]
-  - WHITE LITE [451]
-  - WHITE LITE [452]
   - WHITE LITE [453]
-  - WHITE LITE [456]
-  - WHITE LITE [459]
-  - WHITE LITE [461]
-  - WHITE LITE [462]
   - WHITE LITE [465]
-  - WHITE LITE [478]
-  - WHITE LITE [480]
+  - WHITE LITE [471]
+  - WHITE LITE [474]
+  - WHITE LITE [479]
+  - WHITE LITE [483]
   - WHITE LITE [484]
-  - WHITE LITE [485]
+  - WHITE LITE [486]
   - WHITE LITE [487]
-  - WHITE LITE [489]
+  - WHITE LITE [490]
+  - WHITE LITE [491]
   - WHITE LITE [492]
+  - WHITE LITE [493]
+  - WHITE LITE [494]
+  - WHITE LITE [495]
   - WHITE LITE [496]
+  - WHITE LITE [497]
   - WHITE LITE [498]
+  - WHITE LITE [499]
+  - WHITE LITE [500]
 - name: Auto Fallback
   type: fallback
   url: http://www.gstatic.com/generate_204
   interval: 300
   proxies:
+  - WHITE LITE [1]
+  - WHITE LITE [2]
+  - WHITE LITE [3]
+  - WHITE LITE [4]
+  - WHITE LITE [5]
+  - WHITE LITE [6]
+  - WHITE LITE [7]
+  - WHITE LITE [8]
+  - WHITE LITE [11]
   - WHITE LITE [12]
-  - WHITE LITE [13]
-  - WHITE LITE [14]
+  - WHITE LITE [15]
   - WHITE LITE [16]
+  - WHITE LITE [17]
+  - WHITE LITE [18]
   - WHITE LITE [19]
   - WHITE LITE [20]
   - WHITE LITE [21]
-  - WHITE LITE [23]
+  - WHITE LITE [22]
+  - WHITE LITE [24]
+  - WHITE LITE [25]
+  - WHITE LITE [26]
+  - WHITE LITE [27]
+  - WHITE LITE [28]
+  - WHITE LITE [29]
   - WHITE LITE [30]
-  - WHITE LITE [36]
-  - WHITE LITE [37]
-  - WHITE LITE [38]
-  - WHITE LITE [39]
-  - WHITE LITE [40]
-  - WHITE LITE [44]
-  - WHITE LITE [48]
-  - WHITE LITE [49]
+  - WHITE LITE [31]
+  - WHITE LITE [32]
+  - WHITE LITE [33]
+  - WHITE LITE [34]
+  - WHITE LITE [35]
+  - WHITE LITE [47]
   - WHITE LITE [50]
-  - WHITE LITE [59]
-  - WHITE LITE [60]
-  - WHITE LITE [61]
-  - WHITE LITE [62]
+  - WHITE LITE [53]
+  - WHITE LITE [56]
+  - WHITE LITE [58]
   - WHITE LITE [63]
-  - WHITE LITE [64]
-  - WHITE LITE [65]
   - WHITE LITE [66]
   - WHITE LITE [69]
   - WHITE LITE [70]
   - WHITE LITE [73]
   - WHITE LITE [74]
-  - WHITE LITE [75]
-  - WHITE LITE [78]
   - WHITE LITE [81]
-  - WHITE LITE [82]
-  - WHITE LITE [86]
+  - WHITE LITE [87]
+  - WHITE LITE [88]
   - WHITE LITE [90]
+  - WHITE LITE [91]
+  - WHITE LITE [92]
+  - WHITE LITE [93]
+  - WHITE LITE [94]
+  - WHITE LITE [95]
+  - WHITE LITE [96]
+  - WHITE LITE [97]
   - WHITE LITE [98]
   - WHITE LITE [99]
+  - WHITE LITE [100]
+  - WHITE LITE [101]
+  - WHITE LITE [102]
+  - WHITE LITE [103]
+  - WHITE LITE [104]
+  - WHITE LITE [105]
   - WHITE LITE [106]
+  - WHITE LITE [107]
+  - WHITE LITE [108]
+  - WHITE LITE [109]
+  - WHITE LITE [110]
   - WHITE LITE [114]
-  - WHITE LITE [116]
-  - WHITE LITE [119]
   - WHITE LITE [124]
-  - WHITE LITE [125]
-  - WHITE LITE [128]
-  - WHITE LITE [132]
-  - WHITE LITE [134]
-  - WHITE LITE [136]
-  - WHITE LITE [137]
   - WHITE LITE [139]
   - WHITE LITE [140]
+  - WHITE LITE [141]
   - WHITE LITE [142]
   - WHITE LITE [143]
   - WHITE LITE [144]
+  - WHITE LITE [145]
+  - WHITE LITE [146]
   - WHITE LITE [147]
   - WHITE LITE [148]
   - WHITE LITE [149]
+  - WHITE LITE [150]
   - WHITE LITE [151]
   - WHITE LITE [152]
   - WHITE LITE [153]
   - WHITE LITE [154]
   - WHITE LITE [155]
   - WHITE LITE [156]
-  - WHITE LITE [157]
-  - WHITE LITE [158]
-  - WHITE LITE [159]
-  - WHITE LITE [160]
   - WHITE LITE [161]
   - WHITE LITE [162]
   - WHITE LITE [163]
   - WHITE LITE [164]
-  - WHITE LITE [165]
-  - WHITE LITE [166]
-  - WHITE LITE [167]
-  - WHITE LITE [168]
-  - WHITE LITE [169]
+  - WHITE LITE [170]
+  - WHITE LITE [173]
   - WHITE LITE [174]
-  - WHITE LITE [176]
-  - WHITE LITE [187]
+  - WHITE LITE [175]
+  - WHITE LITE [180]
+  - WHITE LITE [184]
+  - WHITE LITE [185]
+  - WHITE LITE [186]
+  - WHITE LITE [189]
+  - WHITE LITE [191]
   - WHITE LITE [192]
-  - WHITE LITE [195]
+  - WHITE LITE [196]
+  - WHITE LITE [197]
+  - WHITE LITE [198]
+  - WHITE LITE [199]
+  - WHITE LITE [200]
   - WHITE LITE [201]
-  - WHITE LITE [203]
+  - WHITE LITE [202]
   - WHITE LITE [204]
+  - WHITE LITE [205]
+  - WHITE LITE [206]
   - WHITE LITE [207]
   - WHITE LITE [211]
   - WHITE LITE [212]
+  - WHITE LITE [213]
   - WHITE LITE [214]
+  - WHITE LITE [215]
   - WHITE LITE [216]
   - WHITE LITE [217]
+  - WHITE LITE [218]
+  - WHITE LITE [219]
+  - WHITE LITE [220]
+  - WHITE LITE [222]
+  - WHITE LITE [223]
+  - WHITE LITE [224]
+  - WHITE LITE [225]
+  - WHITE LITE [227]
   - WHITE LITE [228]
+  - WHITE LITE [229]
+  - WHITE LITE [230]
+  - WHITE LITE [231]
   - WHITE LITE [232]
   - WHITE LITE [233]
   - WHITE LITE [234]
-  - WHITE LITE [235]
   - WHITE LITE [236]
   - WHITE LITE [237]
   - WHITE LITE [238]
@@ -3072,147 +3179,108 @@ proxy-groups:
   - WHITE LITE [242]
   - WHITE LITE [243]
   - WHITE LITE [244]
-  - WHITE LITE [245]
   - WHITE LITE [246]
   - WHITE LITE [247]
   - WHITE LITE [248]
   - WHITE LITE [249]
   - WHITE LITE [250]
   - WHITE LITE [251]
-  - WHITE LITE [252]
   - WHITE LITE [253]
   - WHITE LITE [254]
   - WHITE LITE [255]
+  - WHITE LITE [256]
+  - WHITE LITE [257]
+  - WHITE LITE [258]
+  - WHITE LITE [260]
+  - WHITE LITE [261]
+  - WHITE LITE [262]
+  - WHITE LITE [263]
   - WHITE LITE [264]
+  - WHITE LITE [265]
+  - WHITE LITE [266]
+  - WHITE LITE [267]
+  - WHITE LITE [269]
+  - WHITE LITE [270]
+  - WHITE LITE [277]
   - WHITE LITE [278]
+  - WHITE LITE [279]
+  - WHITE LITE [280]
+  - WHITE LITE [284]
   - WHITE LITE [285]
   - WHITE LITE [286]
-  - WHITE LITE [287]
   - WHITE LITE [288]
   - WHITE LITE [289]
-  - WHITE LITE [290]
-  - WHITE LITE [291]
-  - WHITE LITE [292]
   - WHITE LITE [293]
-  - WHITE LITE [294]
   - WHITE LITE [295]
-  - WHITE LITE [296]
   - WHITE LITE [297]
   - WHITE LITE [298]
   - WHITE LITE [299]
-  - WHITE LITE [300]
-  - WHITE LITE [301]
-  - WHITE LITE [306]
-  - WHITE LITE [307]
-  - WHITE LITE [308]
+  - WHITE LITE [303]
   - WHITE LITE [309]
-  - WHITE LITE [310]
   - WHITE LITE [311]
   - WHITE LITE [312]
-  - WHITE LITE [317]
+  - WHITE LITE [314]
+  - WHITE LITE [319]
   - WHITE LITE [320]
+  - WHITE LITE [321]
   - WHITE LITE [322]
-  - WHITE LITE [323]
-  - WHITE LITE [325]
-  - WHITE LITE [326]
   - WHITE LITE [327]
-  - WHITE LITE [328]
-  - WHITE LITE [334]
-  - WHITE LITE [338]
-  - WHITE LITE [339]
-  - WHITE LITE [342]
-  - WHITE LITE [343]
-  - WHITE LITE [344]
+  - WHITE LITE [336]
+  - WHITE LITE [337]
+  - WHITE LITE [345]
+  - WHITE LITE [346]
   - WHITE LITE [348]
-  - WHITE LITE [355]
+  - WHITE LITE [352]
   - WHITE LITE [356]
-  - WHITE LITE [357]
   - WHITE LITE [358]
-  - WHITE LITE [362]
+  - WHITE LITE [359]
+  - WHITE LITE [360]
   - WHITE LITE [363]
-  - WHITE LITE [364]
   - WHITE LITE [365]
-  - WHITE LITE [366]
-  - WHITE LITE [367]
-  - WHITE LITE [368]
   - WHITE LITE [369]
-  - WHITE LITE [370]
-  - WHITE LITE [372]
   - WHITE LITE [373]
   - WHITE LITE [374]
-  - WHITE LITE [375]
-  - WHITE LITE [379]
+  - WHITE LITE [376]
   - WHITE LITE [380]
   - WHITE LITE [381]
-  - WHITE LITE [382]
-  - WHITE LITE [383]
   - WHITE LITE [384]
-  - WHITE LITE [385]
   - WHITE LITE [386]
-  - WHITE LITE [387]
   - WHITE LITE [389]
-  - WHITE LITE [390]
   - WHITE LITE [391]
+  - WHITE LITE [392]
   - WHITE LITE [393]
-  - WHITE LITE [394]
-  - WHITE LITE [395]
-  - WHITE LITE [396]
-  - WHITE LITE [397]
-  - WHITE LITE [398]
   - WHITE LITE [400]
-  - WHITE LITE [401]
-  - WHITE LITE [402]
-  - WHITE LITE [403]
-  - WHITE LITE [404]
   - WHITE LITE [405]
-  - WHITE LITE [406]
   - WHITE LITE [407]
   - WHITE LITE [408]
   - WHITE LITE [410]
-  - WHITE LITE [411]
-  - WHITE LITE [412]
-  - WHITE LITE [413]
-  - WHITE LITE [414]
+  - WHITE LITE [415]
   - WHITE LITE [416]
   - WHITE LITE [417]
   - WHITE LITE [418]
   - WHITE LITE [419]
-  - WHITE LITE [420]
-  - WHITE LITE [421]
-  - WHITE LITE [423]
-  - WHITE LITE [424]
-  - WHITE LITE [425]
-  - WHITE LITE [426]
-  - WHITE LITE [427]
-  - WHITE LITE [428]
   - WHITE LITE [429]
   - WHITE LITE [430]
-  - WHITE LITE [432]
-  - WHITE LITE [433]
-  - WHITE LITE [435]
-  - WHITE LITE [436]
-  - WHITE LITE [439]
-  - WHITE LITE [440]
   - WHITE LITE [442]
-  - WHITE LITE [445]
-  - WHITE LITE [448]
-  - WHITE LITE [450]
-  - WHITE LITE [451]
-  - WHITE LITE [452]
   - WHITE LITE [453]
-  - WHITE LITE [456]
-  - WHITE LITE [459]
-  - WHITE LITE [461]
-  - WHITE LITE [462]
   - WHITE LITE [465]
-  - WHITE LITE [478]
-  - WHITE LITE [480]
+  - WHITE LITE [471]
+  - WHITE LITE [474]
+  - WHITE LITE [479]
+  - WHITE LITE [483]
   - WHITE LITE [484]
-  - WHITE LITE [485]
+  - WHITE LITE [486]
   - WHITE LITE [487]
-  - WHITE LITE [489]
+  - WHITE LITE [490]
+  - WHITE LITE [491]
   - WHITE LITE [492]
+  - WHITE LITE [493]
+  - WHITE LITE [494]
+  - WHITE LITE [495]
   - WHITE LITE [496]
+  - WHITE LITE [497]
   - WHITE LITE [498]
+  - WHITE LITE [499]
+  - WHITE LITE [500]
 rules:
 - MATCH,Selector
