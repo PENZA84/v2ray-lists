@@ -2,73 +2,35 @@
 # Profile: V2Ray Lists - BLACK LTE
 # Support: https://t.me/flat447
 # Update interval: 1 hour
-# Valid proxies: 191
+# Valid proxies: 200
 
 proxies:
-- name: BLACK LTE [4]
+- name: BLACK LTE [2]
   type: vless
-  server: 144.31.87.16
-  port: 443
-  uuid: c40f773e-3b96-417e-b22c-e48cb63ca7d9
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: l5eAOSPQMEyzEPvWGAKvCkcPpsJvR3DJfYo6elw1UTE
-    short-id: 3b802dad547b0847
-  servername: yandex.ru
-- name: BLACK LTE [7]
-  type: vless
-  server: 51.250.82.20
-  port: 443
-  uuid: 28541e1e-d170-4ae0-8388-469bd422e4fe
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [8]
-  type: vless
-  server: 51.250.91.220
-  port: 443
-  uuid: 4eeb9f90-c4f3-4f38-afdf-4a49bb1d9887
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI
-    short-id: 27e53bbcab7593d7
-  servername: yandex.ru
-- name: BLACK LTE [22]
-  type: vless
-  server: 89.208.230.241
-  port: 5443
-  uuid: 0e3ec08f-840e-46f8-b11e-3a5decbb97b6
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ
-  servername: max.ru
-- name: BLACK LTE [23]
-  type: vless
-  server: 89.208.230.241
-  port: 5443
-  uuid: 0e3ec08f-840e-46f8-b11e-3a5decbb97b6
+  server: 138.16.169.188
+  port: 2083
+  uuid: ab51054f-de76-4a0f-9f3a-b44c8df86a6c
   encryption: none
   flow: xtls-rprx-vision
   tls: true
   client-fingerprint: firefox
   reality-opts:
-    public-key: LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ
-  servername: max.ru
-- name: BLACK LTE [24]
+    public-key: Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY
+  servername: dzen.ru
+- name: BLACK LTE [9]
+  type: vless
+  server: 51.250.91.220
+  port: 443
+  uuid: 26baa28e-445d-4d92-a6b8-d681de4d6eab
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI
+    short-id: 27e53bbcab7593d7
+  servername: yandex.ru
+- name: BLACK LTE [25]
   type: vless
   server: 89.208.230.241
   port: 5443
@@ -77,77 +39,115 @@ proxies:
   flow: xtls-rprx-vision
   tls: true
   client-fingerprint: edge
+  reality-opts:
+    public-key: LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ
+  servername: max.ru
+- name: BLACK LTE [26]
+  type: vless
+  server: 89.208.230.241
+  port: 5443
+  uuid: 0e3ec08f-840e-46f8-b11e-3a5decbb97b6
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
   reality-opts:
     public-key: LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ
   servername: max.ru
 - name: BLACK LTE [27]
   type: vless
-  server: 138.16.169.188
-  port: 8443
-  uuid: ab51054f-de76-4a0f-9f3a-b44c8df86a6c
+  server: 89.208.230.241
+  port: 5443
+  uuid: 0e3ec08f-840e-46f8-b11e-3a5decbb97b6
   encryption: none
   flow: xtls-rprx-vision
   tls: true
   client-fingerprint: qq
   reality-opts:
-    public-key: Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [31]
+    public-key: LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ
+  servername: max.ru
+- name: BLACK LTE [28]
   type: vless
-  server: api.rodina-platform.online
-  port: 2072
-  uuid: 080e0b5f-c956-452b-aaa0-2dfd791e8aa3
+  server: 89.208.230.241
+  port: 5443
+  uuid: 0e3ec08f-840e-46f8-b11e-3a5decbb97b6
   encryption: none
+  flow: xtls-rprx-vision
   tls: true
   client-fingerprint: edge
   reality-opts:
-    public-key: Ii9Wmi9ozX7Z9Vf3n1xp2lqUw0pmfXVdOXjdLGLMSHs
-    short-id: 7016808acbb46323
+    public-key: LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ
   servername: max.ru
-- name: BLACK LTE [34]
+- name: BLACK LTE [36]
   type: vless
   server: 51.250.91.220
   port: 443
-  uuid: 5b140feb-1f41-457f-8500-0293af879592
+  uuid: 5a26c34d-79b9-4541-9bad-02213720d2d4
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI
+    short-id: 27e53bbcab7593d7
+  servername: yandex.ru
+- name: BLACK LTE [48]
+  type: vless
+  server: 51.250.82.20
+  port: 443
+  uuid: c27bda39-464f-40a7-8dc5-462f9bf8b085
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [49]
+  type: vless
+  server: 194.55.239.115
+  port: 443
+  uuid: c27bda39-464f-40a7-8dc5-462f9bf8b085
   encryption: none
   flow: xtls-rprx-vision
   tls: true
   client-fingerprint: firefox
   reality-opts:
-    public-key: Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI
-    short-id: 27e53bbcab7593d7
-  servername: yandex.ru
-- name: BLACK LTE [46]
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [50]
   type: vless
-  server: 51.250.82.20
+  server: 194.55.239.177
   port: 443
-  uuid: 99ecc0ad-32d3-4d8b-a2f8-434f4ecc626d
+  uuid: c27bda39-464f-40a7-8dc5-462f9bf8b085
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: edge
+  client-fingerprint: qq
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: web.max.ru
+- name: BLACK LTE [51]
+  type: vless
+  server: 158.160.46.238
+  port: 443
+  uuid: c27bda39-464f-40a7-8dc5-462f9bf8b085
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
   reality-opts:
     public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
     short-id: 428ef87fd47a3a32
   servername: api-maps.yandex.ru
-- name: BLACK LTE [47]
-  type: vless
-  server: 194.55.239.115
-  port: 443
-  uuid: 99ecc0ad-32d3-4d8b-a2f8-434f4ecc626d
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [53]
+- name: BLACK LTE [55]
   type: vless
   server: 51.250.40.74
   port: 443
-  uuid: fd0b8baa-572c-49f5-b952-35e435a1db20
+  uuid: 1a77c52c-35af-46f9-9e7c-542438691758
   encryption: none
   flow: xtls-rprx-vision
   tls: true
@@ -156,19 +156,7 @@ proxies:
     public-key: yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8
     short-id: 22730c666bd10642
   servername: api-maps.yandex.ru
-- name: BLACK LTE [54]
-  type: vless
-  server: 138.16.169.188
-  port: 2083
-  uuid: ab51054f-de76-4a0f-9f3a-b44c8df86a6c
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY
-  servername: dzen.ru
-- name: BLACK LTE [77]
+- name: BLACK LTE [76]
   type: vless
   server: 31.170.22.68
   port: 443
@@ -176,12 +164,12 @@ proxies:
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: qq
   reality-opts:
     public-key: nDq00UeDI5TKKFipI6rgdVCqiTO98ncHKn90Qp3EsBE
     short-id: f2b78452f9233f26
   servername: download.max.ru
-- name: BLACK LTE [78]
+- name: BLACK LTE [77]
   type: vless
   server: 51.250.94.185
   port: 443
@@ -189,25 +177,12 @@ proxies:
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: edge
   reality-opts:
     public-key: AXpnAjV0JFXwH8bYFYGeO9MJs4qgEdP9jP2wJ1RE03g
     short-id: cb0da33071d7fe
   servername: eh.vk.com
-- name: BLACK LTE [84]
-  type: vless
-  server: poland.boot-lee.ru
-  port: 8443
-  uuid: 07ab8a15-a4a5-4a03-92b4-4e6a2e9aa5e7
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: RlAi5R84YF3U7llMLLoEui7R7nXhNWYWWy8Zukoo0m8
-    short-id: 019ae4dcc8f3aae7
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [88]
+- name: BLACK LTE [83]
   type: vless
   server: 158.160.35.135
   port: 443
@@ -220,7 +195,7 @@ proxies:
     public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
     short-id: 428ef87fd47a3a32
   servername: api-maps.yandex.ru
-- name: BLACK LTE [90]
+- name: BLACK LTE [85]
   type: vless
   server: 194.55.239.115
   port: 443
@@ -228,12 +203,12 @@ proxies:
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: firefox
   reality-opts:
     public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
     short-id: 428ef87fd47a3a32
   servername: web.max.ru
-- name: BLACK LTE [91]
+- name: BLACK LTE [86]
   type: vless
   server: 51.250.40.74
   port: 443
@@ -246,7 +221,7 @@ proxies:
     public-key: yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8
     short-id: 22730c666bd10642
   servername: api-maps.yandex.ru
-- name: BLACK LTE [97]
+- name: BLACK LTE [92]
   type: vless
   server: 194.55.239.113
   port: 443
@@ -254,12 +229,12 @@ proxies:
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: firefox
   reality-opts:
     public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
     short-id: 428ef87fd47a3a32
   servername: api-maps.yandex.ru
-- name: BLACK LTE [112]
+- name: BLACK LTE [108]
   type: vless
   server: 185.42.14.46
   port: 443
@@ -267,25 +242,12 @@ proxies:
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: edge
   reality-opts:
     public-key: G9uQu7GdqkkvE6WH0gZ1kfzt2J50s6VgddYnqck5tjw
     short-id: a29991b068641259
   servername: api-maps.yandex.ru
 - name: BLACK LTE [115]
-  type: vless
-  server: de.riotvpn.eu
-  port: 443
-  uuid: 41da9cd0-b02c-427a-b74e-7e402c610ae4
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho
-    short-id: b76dcf9e1183fe1b
-  servername: avatars.mds.yandex.net
-- name: BLACK LTE [121]
   type: vless
   server: 5.188.140.160
   port: 5443
@@ -293,11 +255,11 @@ proxies:
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: edge
   reality-opts:
     public-key: LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ
   servername: max.ru
-- name: BLACK LTE [126]
+- name: BLACK LTE [117]
   type: vless
   server: r1bs.xenovpn.top
   port: 1443
@@ -305,12 +267,12 @@ proxies:
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: edge
   reality-opts:
     public-key: TRCcTuW5ZZOez52Hz6KMUWZGpGiaNHgIsWEa3DZ0DHE
     short-id: 6ba85179e30d4fc2
   servername: rutube.ru
-- name: BLACK LTE [127]
+- name: BLACK LTE [118]
   type: vless
   server: omg.herumhas.shop
   port: 5443
@@ -318,11 +280,11 @@ proxies:
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: edge
   reality-opts:
     public-key: LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ
   servername: max.ru
-- name: BLACK LTE [129]
+- name: BLACK LTE [120]
   type: vless
   server: 217.herumhas.shop
   port: 5443
@@ -334,7 +296,7 @@ proxies:
   reality-opts:
     public-key: LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ
   servername: max.ru
-- name: BLACK LTE [130]
+- name: BLACK LTE [121]
   type: vless
   server: gdg.herumhas.shop
   port: 5443
@@ -342,153 +304,113 @@ proxies:
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: edge
+  client-fingerprint: firefox
   reality-opts:
     public-key: LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ
   servername: max.ru
+- name: BLACK LTE [127]
+  type: vless
+  server: quarenty.site
+  port: 8443
+  uuid: ef3e2141-14d9-4764-8960-e7fe539c9bc6
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04
+    short-id: 205748bc0f24a747
+  servername: rbc.ru
+- name: BLACK LTE [129]
+  type: vless
+  server: 78.159.250.109
+  port: 443
+  uuid: 114f03a8-4940-483e-87af-357426d1bd54
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: YiKCLWIewCaWtYdpwAUd7fre63xVrkSiQUTalhFdA3w
+    short-id: 846229eb47b3a5c9
+  servername: api.cs7777.vk.ru
 - name: BLACK LTE [131]
   type: vless
-  server: 138.16.169.188
-  port: 2083
-  uuid: ab51054f-de76-4a0f-9f3a-b44c8df86a6c
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY
-  servername: dzen.ru
-- name: BLACK LTE [138]
-  type: vless
-  server: 167.99.91.171
+  server: 139.59.185.253
   port: 443
-  uuid: 921290a9-6e24-4661-82fb-844d88164b74
+  uuid: dcaa6ab9-76fe-4c0b-bb29-f72f9b2d2ae5
   encryption: none
   tls: true
   client-fingerprint: qq
-  servername: api.avito.ru
+  servername: ozon.ru
   network: ws
   ws-opts:
-    path: /sbqbfows
+    path: /lcuaolws
     headers:
-      Host: api.avito.ru
-- name: BLACK LTE [139]
+      Host: ozon.ru
+- name: BLACK LTE [132]
   type: vless
-  server: 139.59.168.171
-  port: 443
-  uuid: 08be5d08-de17-4bac-939d-d57a91028a60
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  servername: api.avito.ru
-  network: ws
-  ws-opts:
-    path: /uirexwws
-    headers:
-      Host: api.avito.ru
-- name: BLACK LTE [141]
-  type: vless
-  server: 51.250.91.220
-  port: 443
-  uuid: 0ea390a5-3269-4f3b-9adc-1433f9531835
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI
-    short-id: 27e53bbcab7593d7
-  servername: yandex.ru
-- name: BLACK LTE [144]
-  type: vless
-  server: 152.233.54.69
-  port: 443
-  uuid: 5805aed6-5e06-4266-9c3c-8b6a3b968d1a
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: vLb66rBLZnMI1VPKxp90Dcuc0p2fyHdL3HwaxvNHzTA
-    short-id: f3a0090e
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [149]
-  type: vless
-  server: 155.212.225.150
-  port: 443
-  uuid: c8d1c6d3-388f-48fc-a8f0-ed90d955d096
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw
-    short-id: 6ba85179e30d4fc2
-  servername: max.ru
-- name: BLACK LTE [153]
-  type: vless
-  server: 185.77.231.80
-  port: 54969
-  uuid: 2a428848-ede7-4fb2-9e8d-92bb5158814e
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ
-    short-id: 00e7
-  servername: alfabank.ru
-- name: BLACK LTE [155]
-  type: vless
-  server: 165.231.193.21
+  server: 165.231.193.22
   port: 443
   uuid: c43c1a42-27a8-47e3-a3c3-3abb72475e53
   encryption: none
   tls: true
-  client-fingerprint: edge
+  client-fingerprint: firefox
   reality-opts:
     public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
     short-id: 992f3294e2336744
   servername: stats.vk-portal.net
-- name: BLACK LTE [157]
+- name: BLACK LTE [134]
   type: vless
-  server: 185.77.231.80
-  port: 20814
-  uuid: 52b32247-4747-41de-b816-ba750a5e8bd1
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ
-    short-id: 00e7
-  servername: download.max.ru
-- name: BLACK LTE [159]
-  type: vless
-  server: 81.94.159.115
-  port: 443
-  uuid: 96ef0cf9-7d29-4b2f-b170-efd555481735
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: NhHXYBmjIoSy6Kvj2k06550KGJY3GUFSzcssjFakh3U
-    short-id: 05b0fdcfc72e33e5
-  servername: yandex.ru
-- name: BLACK LTE [168]
-  type: vless
-  server: 217.25.92.53
-  port: 443
-  uuid: 6f4b6e90-3e91-4ad2-8c3f-d0e4dd29264b
+  server: 185.130.115.199
+  port: 8443
+  uuid: 025b5550-cb81-4a51-8e46-45cc1b54a46f
   encryption: none
   flow: xtls-rprx-vision
   tls: true
   client-fingerprint: firefox
   reality-opts:
-    public-key: BAtrvTxguCHHOR0x9JdC0YSTNVfg3YCRZtH09gnuNkY
+    public-key: n7SozQLXoCxDya7vBJwS5ebj39r4KCUZrfsnBfcCLGs
+    short-id: dd01020304
+  servername: max.ru
+- name: BLACK LTE [139]
+  type: vless
+  server: 95.183.11.191
+  port: 443
+  uuid: 1eb4cebf-9b4f-4068-b066-425d4de29c6e
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: psPc6zXUaNtPfs7UyLlFAwetXhthMMmKvPmmZaUSlzs
   servername: yandex.ru
-- name: BLACK LTE [175]
+- name: BLACK LTE [145]
+  type: vless
+  server: 178.105.103.153
+  port: 443
+  uuid: 1b9e301d-cecd-4eb1-8b36-eef811c2696d
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: zxzgWvYs4pMN3fEduth1soI1yMZDkynb1bBM4tj85EE
+    short-id: 5e841fab
+  servername: max.ru
+- name: BLACK LTE [148]
+  type: vless
+  server: 185.fixpr.top
+  port: 8443
+  uuid: 00bc53ff-c447-42fd-8b85-1843985e729a
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 4rOkMPLt9aMOXiDmXkPX6RQP6jd6qBLBvGJx45JFWFk
+    short-id: ee82aca370f4428b
+  servername: rutube.ru
+- name: BLACK LTE [150]
   type: vless
   server: 85.198.101.160
   port: 443
@@ -496,88 +418,124 @@ proxies:
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: edge
   reality-opts:
     public-key: MSHKV2n0D01xQkXUY64I1gSraEVZb1GH8YPF9tF55kQ
   servername: api-maps.yandex.ru
-- name: BLACK LTE [180]
+- name: BLACK LTE [152]
   type: vless
-  server: 51.250.94.185
+  server: 139.59.168.171
   port: 443
-  uuid: f4bb0d9a-5c89-42d2-bb44-f98eee243a3e
+  uuid: 08be5d08-de17-4bac-939d-d57a91028a60
   encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: AXpnAjV0JFXwH8bYFYGeO9MJs4qgEdP9jP2wJ1RE03g
-    short-id: cb0da33071d7fe
-  servername: eh.vk.com
-- name: BLACK LTE [182]
-  type: vless
-  server: 37.49.224.93
-  port: 443
-  uuid: 4760f592-045d-4f13-a49f-7984eae1a9a8
-  encryption: none
-  flow: xtls-rprx-vision
   tls: true
   client-fingerprint: qq
+  servername: api.avito.ru
+  network: ws
+  ws-opts:
+    path: /uirexwws
+    headers:
+      Host: api.avito.ru
+- name: BLACK LTE [155]
+  type: vless
+  server: 144.31.2.122
+  port: 443
+  uuid: 7993192f-2875-4aed-ac8f-26f1596cf8e7
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
   reality-opts:
-    public-key: QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4
-    short-id: c338fe2b01cf271a
-  servername: dev.max.ru
-- name: BLACK LTE [184]
+    public-key: 8CLRwG6JsXb1MrOpnmMlnAFLQ4bQqwaE57iEACmiF1o
+    short-id: 8be9fb528a
+  servername: sun6-21.userapi.com
+- name: BLACK LTE [158]
   type: vless
   server: 165.231.193.18
   port: 443
   uuid: c43c1a42-27a8-47e3-a3c3-3abb72475e53
   encryption: none
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: edge
   reality-opts:
     public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
     short-id: 992f3294e2336744
   servername: stats.vk-portal.net
-- name: BLACK LTE [185]
+- name: BLACK LTE [161]
   type: vless
-  server: 194.55.239.234
+  server: 138.124.123.198
   port: 443
-  uuid: 43572132-58b6-4f74-9b9c-fec3c8171688
+  uuid: 05b232dc-185b-48ed-8813-8c96d9d5d7f0
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: qq
   reality-opts:
-    public-key: RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE
-    short-id: abbcd128
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [188]
+    public-key: a28gKquRbugXlI13fv5HeiiZ2yTPrqtQfNFqcAiHE1I
+    short-id: 76f547961a8ca082
+  servername: api.max.ru
+- name: BLACK LTE [162]
   type: vless
-  server: 51.250.20.121
+  server: 138.124.4.18
   port: 443
-  uuid: dd618f98-8af3-413b-b4d7-f77afa40365d
+  uuid: e1df1966-4d5e-43ec-b2da-bb935a258351
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: qq
   reality-opts:
-    public-key: bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo
-    short-id: a20d3ed244c76426
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [191]
+    public-key: 8gPjqggKyk811tZ6X7EfF9KHXe7BXYRMxKXhXN6jbR4
+    short-id: 820571531cf2108a
+  servername: sun6-22.userapi.com
+- name: BLACK LTE [163]
   type: vless
-  server: 51.250.86.102
+  server: nl1.vpnreal.ru
   port: 443
-  uuid: cf1a37bc-140b-4a3a-a18c-10c9f87eaad6
+  uuid: d08ff8b7-d4a3-4628-9c39-c9c3d256cbf7
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: qq
   reality-opts:
-    public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
-    short-id: d17bd238f23fba92
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [195]
+    public-key: xUBjC2vNXBrDnJ3rVvQl2CYPvugp3VeVC5NN9ukRojU
+    short-id: e3ebde1f3c9c2b7c
+  servername: eh.vk.com
+- name: BLACK LTE [166]
+  type: vless
+  server: 155.212.132.9
+  port: 4449
+  uuid: 025b5550-cb81-4a51-8e46-45cc1b54a46f
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: n7SozQLXoCxDya7vBJwS5ebj39r4KCUZrfsnBfcCLGs
+    short-id: 5803806787f2e298
+  servername: max.ru
+- name: BLACK LTE [167]
+  type: vless
+  server: 65.108.231.185
+  port: 443
+  uuid: 440766d1-858f-4719-84f5-c2de6f6227b2
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
+  servername: api.avito.ru
+- name: BLACK LTE [172]
+  type: vless
+  server: sw2-node.vpnspacev.com
+  port: 443
+  uuid: 66036ae7-f4b4-4dd9-b72f-88b571c6ba26
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE
+    short-id: 6f3cc9d9
+  servername: yandex.ru
+- name: BLACK LTE [174]
   type: vless
   server: 138.68.160.230
   port: 443
@@ -591,880 +549,20 @@ proxies:
     path: /feesdgws
     headers:
       Host: ozon.ru
-- name: BLACK LTE [197]
-  type: vless
-  server: 65.108.231.185
-  port: 443
-  uuid: 440766d1-858f-4719-84f5-c2de6f6227b2
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  servername: api.avito.ru
-- name: BLACK LTE [198]
-  type: vless
-  server: 144.31.2.122
-  port: 443
-  uuid: 7993192f-2875-4aed-ac8f-26f1596cf8e7
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 8CLRwG6JsXb1MrOpnmMlnAFLQ4bQqwaE57iEACmiF1o
-    short-id: 8be9fb528a
-  servername: sun6-21.userapi.com
-- name: BLACK LTE [201]
-  type: vless
-  server: 45.67.138.69
-  port: 443
-  uuid: 3f3db75c-e362-4047-9452-1c307351ab02
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: ThlIJki5wLsF5x9BYDt9RSDmwFPhwIhCoZpEqHk5fTA
-    short-id: ba4f72709ab151b6
-  servername: rbc.ru
-- name: BLACK LTE [203]
-  type: vless
-  server: 158.160.47.144
-  port: 443
-  uuid: abc9b974-a258-442d-b31e-d23d3f1152bb
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: web.max.ru
-- name: BLACK LTE [207]
-  type: vless
-  server: uk.riotvpn.eu
-  port: 443
-  uuid: c470171c-2951-4806-988d-61d4d811486d
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho
-    short-id: 2f49bccf11150ef2
-  servername: avatars.mds.yandex.net
-- name: BLACK LTE [210]
-  type: vless
-  server: sw2-node.vpnspacev.com
-  port: 443
-  uuid: 66036ae7-f4b4-4dd9-b72f-88b571c6ba26
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE
-    short-id: 6f3cc9d9
-  servername: yandex.ru
-- name: BLACK LTE [211]
-  type: vless
-  server: 80.93.63.202
-  port: 52847
-  uuid: fd1e4805-c7cb-49cb-8b23-6f78adc78544
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 7wMTJEfkUiBRKBfonkUQi2jjMkfUjtvvJ8mYMV0XBUI
-    short-id: 30f4301b
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [215]
-  type: vless
-  server: 185.77.231.80
-  port: 16991
-  uuid: 4d164eae-b9fc-467f-91ca-f381610de096
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ
-    short-id: 9792f748
-  servername: goya.rutube.ru
-- name: BLACK LTE [216]
-  type: vless
-  server: 95.173.199.110
-  port: 443
-  uuid: 92e41c23-4b39-464a-bbff-63ef84f317da
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: DxMGwax3l0UxFYZE349Fs15huyc4Jwzj6MG7Qrj0HQ0
-    short-id: 735093d7
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [222]
-  type: vless
-  server: 165.231.193.22
-  port: 443
-  uuid: c43c1a42-27a8-47e3-a3c3-3abb72475e53
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
-    short-id: 992f3294e2336744
-  servername: stats.vk-portal.net
-- name: BLACK LTE [226]
-  type: vless
-  server: 94.126.205.147
-  port: 2092
-  uuid: ea00b203-5d06-4686-996e-2b5826cf6045
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  servername: dzen.ru
-- name: BLACK LTE [231]
-  type: vless
-  server: 165.231.193.20
-  port: 443
-  uuid: c43c1a42-27a8-47e3-a3c3-3abb72475e53
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
-    short-id: 992f3294e2336744
-  servername: stats.vk-portal.net
-- name: BLACK LTE [237]
-  type: vless
-  server: 165.231.193.19
-  port: 443
-  uuid: c43c1a42-27a8-47e3-a3c3-3abb72475e53
-  encryption: none
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
-    short-id: 992f3294e2336744
-  servername: stats.vk-portal.net
-- name: BLACK LTE [245]
-  type: vless
-  server: de01.keyinvest.org
-  port: 443
-  uuid: e35dd2de-7a4c-4af4-b671-1592e286a040
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: c6RlqzTVSTJa22lCVX3u8jvZXXbWEsYGSX4kjo3ffkk
-  servername: web.max.ru
-- name: BLACK LTE [247]
-  type: vless
-  server: 31.76.50.109
-  port: 443
-  uuid: 28cee14e-a124-4c9f-88e2-fcb6c1304ea3
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: Ueqd3mFmtmBODNPEA2zOnS1L3FrcS0bLweBZQW5xmmw
-    short-id: 6069ba5ecbf75abb
-  servername: a.wb.ru
-- name: BLACK LTE [249]
-  type: vless
-  server: 217.198.6.220
-  port: 443
-  uuid: bbcde690-aca4-48dd-8da7-85fbad4b6d99
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  servername: 2gis.com
-  network: grpc
-  grpc-opts: {}
-- name: BLACK LTE [251]
-  type: vless
-  server: m2e4f3b-m9r8vv.95.yndx-cdn.com
-  port: 40443
-  uuid: 24b33792-8c92-4a56-8585-528c9c50d844
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM
-    short-id: a1b2c3d4e5f6789a
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [253]
-  type: vless
-  server: 138.124.4.18
-  port: 443
-  uuid: e1df1966-4d5e-43ec-b2da-bb935a258351
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 8gPjqggKyk811tZ6X7EfF9KHXe7BXYRMxKXhXN6jbR4
-    short-id: 820571531cf2108a
-  servername: sun6-22.userapi.com
-- name: BLACK LTE [261]
-  type: vless
-  server: 46.33.10.106
-  port: 8443
-  uuid: ad7a9316-1953-439a-854f-66355100a004
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: DaQZOn4aunFuaOY7Em0FexFFOWVyYKrrkZKvv3X0VRE
-    short-id: de1da725
-  servername: web.max.ru
-- name: BLACK LTE [262]
-  type: vless
-  server: 95.173.205.82
-  port: 443
-  uuid: 92e41c23-4b39-464a-bbff-63ef84f317da
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: Zj7pfZMGav4r5mbPzpi5ohHue1r0El7QfnQt5nx2ljI
-    short-id: 56d5a8fb
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [274]
-  type: vless
-  server: pl.riotvpn.eu
-  port: 443
-  uuid: c470171c-2951-4806-988d-61d4d811486d
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho
-    short-id: b76dcf9e1183fe1b
-  servername: avatars.mds.yandex.net
-- name: BLACK LTE [275]
-  type: vless
-  server: 178.105.103.153
-  port: 443
-  uuid: 1b9e301d-cecd-4eb1-8b36-eef811c2696d
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: zxzgWvYs4pMN3fEduth1soI1yMZDkynb1bBM4tj85EE
-    short-id: 5e841fab
-  servername: max.ru
-- name: BLACK LTE [276]
-  type: vless
-  server: ub7y-fck-e7kxj9.se.yndx-cdn.com
-  port: 40443
-  uuid: 791d9841-cfee-4ddb-a5d9-5b0eade9d3b9
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM
-    short-id: a1b2c3d4e5f6789a
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [286]
-  type: vless
-  server: 139.59.185.253
-  port: 443
-  uuid: dcaa6ab9-76fe-4c0b-bb29-f72f9b2d2ae5
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  servername: ozon.ru
-  network: ws
-  ws-opts:
-    path: /lcuaolws
-    headers:
-      Host: ozon.ru
-- name: BLACK LTE [295]
-  type: vless
-  server: z0211mq18-z3rk.ru-a1.y-tun.com
-  port: 40443
-  uuid: 0ee7eb22-e4e3-414b-bb01-3006ef852861
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM
-    short-id: a1b2c3d4e5f6789a
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [297]
+- name: BLACK LTE [176]
   type: vless
   server: 45.131.215.101
   port: 8443
   uuid: f3135c89-e611-4fc6-9466-bf16410be7ce
   encryption: none
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: qq
   servername: avito.ru
-- name: BLACK LTE [303]
-  type: vless
-  server: 95.85.246.58
-  port: 8448
-  uuid: 329f5c49-c8a1-46e0-8e4d-79b0bebdc59e
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: h9UaYbYpywLQ3QkOw99nR6HTmyDUaKrdkt7gZJwayCQ
-    short-id: 1c4a8f6e
-  servername: hd.kinopoisk.ru
-- name: BLACK LTE [305]
-  type: vless
-  server: 217.168.244.203
-  port: 443
-  uuid: 7c599437-98bf-45aa-9750-2cec221c0f11
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: N3OlowiShoSDzgw48Zyln1gtZWjLJpk2DJRAE9PrhXQ
-    short-id: a99e2893d9c93d06
-  servername: m.ok.ru
-- name: BLACK LTE [309]
-  type: vless
-  server: 151.115.98.117
-  port: 8443
-  uuid: 07ab8a15-a4a5-4a03-92b4-4e6a2e9aa5e7
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: RlAi5R84YF3U7llMLLoEui7R7nXhNWYWWy8Zukoo0m8
-    short-id: 019ae4dcc8f3aae7
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [310]
-  type: vless
-  server: md.riotvpn.eu
-  port: 443
-  uuid: 84b504e4-a97f-40ab-93c3-a03a5f0ff36c
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho
-    short-id: 2f49bccf11150ef2
-  servername: avatars.mds.yandex.net
-- name: BLACK LTE [316]
-  type: vless
-  server: 51.250.82.20
-  port: 443
-  uuid: 5fddcfcc-0692-4466-8eb9-293e668f1ae8
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [317]
-  type: vless
-  server: 95.85.226.117
-  port: 8443
-  uuid: 26e4d8b5-ee98-4a8d-88c9-7f81b7be3379
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4
-    short-id: b3a1cc510a2001c6
-  servername: eh.vk.com
-- name: BLACK LTE [326]
-  type: vless
-  server: 185.130.115.199
-  port: 8443
-  uuid: 025b5550-cb81-4a51-8e46-45cc1b54a46f
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: n7SozQLXoCxDya7vBJwS5ebj39r4KCUZrfsnBfcCLGs
-    short-id: dd01020304
-  servername: max.ru
-- name: BLACK LTE [330]
-  type: vless
-  server: 70.34.194.57
-  port: 443
-  uuid: 1b9e301d-cecd-4eb1-8b36-eef811c2696d
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: F7NZa0wqjlz9zHlFUUW8rnh9j9GwX7e2rq3CynO3s1o
-    short-id: 5e841fab
-  servername: yastatic.net
-- name: BLACK LTE [332]
-  type: vless
-  server: 138.124.123.198
-  port: 443
-  uuid: 05b232dc-185b-48ed-8813-8c96d9d5d7f0
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: a28gKquRbugXlI13fv5HeiiZ2yTPrqtQfNFqcAiHE1I
-    short-id: 76f547961a8ca082
-  servername: api.max.ru
-- name: BLACK LTE [333]
-  type: vless
-  server: 95.163.181.215
-  port: 48106
-  uuid: 2209da6c-f30a-e095-3c91-7c602bd5ca0c
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
-    short-id: 35a84908e9cfa95c
-  servername: max.ru
-- name: BLACK LTE [334]
-  type: vless
-  server: 92.38.139.69
-  port: 58888
-  uuid: 0c9c3b1b-a40d-453b-bed5-67f2c1d09aee
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA
-    short-id: 6ba85179e30d4fc2
-  servername: max.ru
-- name: BLACK LTE [337]
-  type: vless
-  server: 155.212.132.9
-  port: 4449
-  uuid: 025b5550-cb81-4a51-8e46-45cc1b54a46f
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: n7SozQLXoCxDya7vBJwS5ebj39r4KCUZrfsnBfcCLGs
-    short-id: 5803806787f2e298
-  servername: max.ru
-- name: BLACK LTE [340]
-  type: vless
-  server: one.speedload.online
-  port: 443
-  uuid: e05cb81b-5288-41d6-ad4a-fb4016cccb27
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo
-    short-id: a20d3ed244c76426
-  servername: sun6-22.userapi.com
-- name: BLACK LTE [349]
-  type: vless
-  server: 152.233.66.68
-  port: 443
-  uuid: 5805aed6-5e06-4266-9c3c-8b6a3b968d1a
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: TXwYCrwkhTEeqtxTf3ZYmXNwYcmVtR9eVXJRo7Kvxmk
-    short-id: 8c5041b3
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [351]
-  type: vless
-  server: 78.159.250.109
-  port: 443
-  uuid: 114f03a8-4940-483e-87af-357426d1bd54
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: YiKCLWIewCaWtYdpwAUd7fre63xVrkSiQUTalhFdA3w
-    short-id: 846229eb47b3a5c9
-  servername: api.cs7777.vk.ru
-- name: BLACK LTE [353]
-  type: vless
-  server: 194.87.131.105
-  port: 443
-  uuid: 08379cf5-8256-404f-a6c5-2b933bb6c73f
-  encryption: none
-  tls: true
-  client-fingerprint: qq
-  servername: max.ru
-- name: BLACK LTE [362]
-  type: vless
-  server: quarenty.site
-  port: 8443
-  uuid: ef3e2141-14d9-4764-8960-e7fe539c9bc6
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04
-    short-id: 205748bc0f24a747
-  servername: rbc.ru
-- name: BLACK LTE [363]
-  type: vless
-  server: fr33dom.fun
-  port: 443
-  uuid: 4b954482-3d47-51f8-9d32-cc3133fce9a3
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: Uu7G002VVldsnwvg4W23br8vSaZptGrio38i6N41xRA
-    short-id: a33f39e10a
-  servername: cloud.mail.ru
-- name: BLACK LTE [364]
-  type: vless
-  server: it.x8lab.org
-  port: 443
-  uuid: c6af0348-6835-4bf0-88a5-7e77bc56458f
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ
-    short-id: 669d7ae5e1611511
-  servername: eh.vk.com
-- name: BLACK LTE [368]
-  type: vless
-  server: 46.243.232.61
-  port: 4449
-  uuid: 01fdc495-832c-4f58-9141-9dfb95d8ae9d
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: n7SozQLXoCxDya7vBJwS5ebj39r4KCUZrfsnBfcCLGs
-    short-id: 3689d0c3
-  servername: max.ru
-- name: BLACK LTE [370]
-  type: vless
-  server: 45.149.147.180
-  port: 443
-  uuid: d7b4d5b3-2c2d-493c-9b83-f25e3f6771b2
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho
-    short-id: b76dcf9e1183fe1b
-  servername: avatars.mds.yandex.net
-- name: BLACK LTE [377]
-  type: vless
-  server: b3aa11az-k15gg1.ru.y-tun.com
-  port: 8443
-  uuid: 0ee7eb22-e4e3-414b-bb01-3006ef852861
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM
-    short-id: a1b2c3d4e5f6789a
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [385]
-  type: vless
-  server: 194.55.239.222
-  port: 443
-  uuid: 60d1d3a9-165f-417a-b7ca-cf6db5381fd9
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE
-    short-id: abbcd128
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [386]
-  type: vless
-  server: 158.160.50.102
-  port: 443
-  uuid: 855372a7-6897-4411-8e9f-dd8a67b5b4ee
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: web.max.ru
-- name: BLACK LTE [392]
-  type: vless
-  server: nl1.vpnreal.ru
-  port: 443
-  uuid: d08ff8b7-d4a3-4628-9c39-c9c3d256cbf7
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: xUBjC2vNXBrDnJ3rVvQl2CYPvugp3VeVC5NN9ukRojU
-    short-id: e3ebde1f3c9c2b7c
-  servername: eh.vk.com
-- name: BLACK LTE [393]
+- name: BLACK LTE [178]
   type: vless
   server: 185.77.231.80
-  port: 443
-  uuid: b02262ee-d4e8-44c5-b08b-2dba07d1eec7
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ
-    short-id: 1a
-  servername: www.ozon.ru
-- name: BLACK LTE [396]
-  type: vless
-  server: 95.183.11.191
-  port: 443
-  uuid: 1eb4cebf-9b4f-4068-b066-425d4de29c6e
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: psPc6zXUaNtPfs7UyLlFAwetXhthMMmKvPmmZaUSlzs
-  servername: yandex.ru
-- name: BLACK LTE [402]
-  type: vless
-  server: 185.141.227.218
-  port: 2072
-  uuid: 12404851-71d3-4874-94f4-4061bf93816d
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: Ii9Wmi9ozX7Z9Vf3n1xp2lqUw0pmfXVdOXjdLGLMSHs
-    short-id: 7016808acbb46323
-  servername: max.ru
-- name: BLACK LTE [404]
-  type: vless
-  server: 2.27.23.44
-  port: 8443
-  uuid: 22f97634-cb4f-4661-b9e0-9d3865544e1e
-  encryption: none
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: TdT90qbeyM7WO0QCztOhKDGKOi2qaFFif0hO0cfK1E4
-    short-id: ea1058117be12087
-  servername: max.ru
-- name: BLACK LTE [405]
-  type: vless
-  server: 78.17.134.254
-  port: 47200
-  uuid: 38f8b792-9e44-40d2-ab8d-c3bfc0b71bdc
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE
-    short-id: b2a9bd658fc81dc6
-  servername: stats.vk-portal.net
-- name: BLACK LTE [406]
-  type: vless
-  server: 109.172.54.70
-  port: 2040
-  uuid: aef7716a-d0a5-4a85-9cb0-fda41d9f34b0
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: b6DZwkKAeXf3wjXrL6iV6dTt1Crpv2o88LRDJRgFglE
-    short-id: b589db8f02882bae
-  servername: eh.vk.com
-- name: BLACK LTE [408]
-  type: vless
-  server: 151.236.114.245
-  port: 6443
-  uuid: 423c1478-51ef-4762-8908-eb8b23ee8ff4
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: wfQg9xng5NedWJBv6hwvCkRqsafJnRuhCZWHgko6yUs
-    short-id: 3142c760d3c88811
-  servername: max.ru
-- name: BLACK LTE [415]
-  type: vless
-  server: 5.188.141.139
-  port: 443
-  uuid: 4262ba73-f5ba-07d0-9714-a2a8a19ae6d8
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
-    short-id: d8c6b58bcbb0c323
-  servername: max.ru
-- name: BLACK LTE [417]
-  type: vless
-  server: gdg.herumhas.shop
-  port: 5443
-  uuid: 35a14133-45f6-40bc-a9cd-918fd0ecb345
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ
-  servername: max.ru
-- name: BLACK LTE [439]
-  type: vless
-  server: 194.55.239.113
-  port: 443
-  uuid: 28541e1e-d170-4ae0-8388-469bd422e4fe
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: web.max.ru
-- name: BLACK LTE [440]
-  type: vless
-  server: 194.55.239.114
-  port: 443
-  uuid: 28541e1e-d170-4ae0-8388-469bd422e4fe
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [441]
-  type: vless
-  server: 158.160.47.253
-  port: 443
-  uuid: 28541e1e-d170-4ae0-8388-469bd422e4fe
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [442]
-  type: vless
-  server: 51.250.91.220
-  port: 443
-  uuid: e61b6bf3-f0aa-4613-802c-a9e7f8aa6cd0
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI
-    short-id: 27e53bbcab7593d7
-  servername: yandex.ru
-- name: BLACK LTE [445]
-  type: vless
-  server: 158.160.35.135
-  port: 443
-  uuid: 28541e1e-d170-4ae0-8388-469bd422e4fe
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: web.max.ru
-- name: BLACK LTE [455]
-  type: vless
-  server: 89.208.230.241
-  port: 5443
-  uuid: 35a14133-45f6-40bc-a9cd-918fd0ecb345
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ
-  servername: max.ru
-- name: BLACK LTE [468]
-  type: vless
-  server: 38.107.234.135
-  port: 443
-  uuid: f42f97eb-9e1e-4d23-a2ef-d0a29ffadd86
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: QLr2nQ3jUikwguB51cYhuXpPZTgHG4Z8xrTOJTH4aDo
-    short-id: '42'
-  servername: static.rutube.ru
-- name: BLACK LTE [477]
-  type: vless
-  server: 64.227.47.224
-  port: 443
-  uuid: b9cade73-6c60-437f-8e99-631cc3560ca7
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  servername: ozon.ru
-  network: ws
-  ws-opts:
-    path: /evvixzws
-    headers:
-      Host: ozon.ru
-- name: BLACK LTE [480]
-  type: vless
-  server: 46.33.10.106
-  port: 8443
-  uuid: ad7a9316-1953-439a-854f-66355100a004
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: DaQZOn4aunFuaOY7Em0FexFFOWVyYKrrkZKvv3X0VRE
-    short-id: de1da725
-  servername: web.max.ru
-- name: BLACK LTE [483]
-  type: vless
-  server: 185.77.231.80
-  port: 54969
-  uuid: 2a428848-ede7-4fb2-9e8d-92bb5158814e
+  port: 20814
+  uuid: 52b32247-4747-41de-b816-ba750a5e8bd1
   encryption: none
   flow: xtls-rprx-vision
   tls: true
@@ -1472,57 +570,33 @@ proxies:
   reality-opts:
     public-key: J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ
     short-id: 00e7
-  servername: alfabank.ru
-- name: BLACK LTE [490]
+  servername: download.max.ru
+- name: BLACK LTE [181]
   type: vless
-  server: uk.nebesniy.com
-  port: 8443
-  uuid: ad7a9316-1953-439a-854f-66355100a004
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: DaQZOn4aunFuaOY7Em0FexFFOWVyYKrrkZKvv3X0VRE
-    short-id: de1da725
-  servername: web.max.ru
-- name: BLACK LTE [494]
-  type: vless
-  server: 109.122.197.72
+  server: 165.231.193.21
   port: 443
-  uuid: 02bbbec4-8e6e-4ea8-982f-cdcac3541f09
+  uuid: c43c1a42-27a8-47e3-a3c3-3abb72475e53
   encryption: none
-  flow: xtls-rprx-vision
   tls: true
   client-fingerprint: firefox
   reality-opts:
-    public-key: UpO0lV2YR0otf1jQKLHDp2bD623tyUIefqCLGm04a2Q
-    short-id: a8237269c785d443
-  servername: ya.ru
-- name: BLACK LTE [518]
+    public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
+    short-id: 992f3294e2336744
+  servername: stats.vk-portal.net
+- name: BLACK LTE [189]
   type: vless
-  server: 83.168.91.240
-  port: 8443
-  uuid: c6ddf2a7-5c95-46ce-afcf-f7f5ff05f464
+  server: 95.173.205.82
+  port: 443
+  uuid: 92e41c23-4b39-464a-bbff-63ef84f317da
   encryption: none
+  flow: xtls-rprx-vision
   tls: true
   client-fingerprint: qq
-  servername: avatars.mds.yandex.net
-  network: grpc
-  grpc-opts:
-    grpc-service-name: grpc-yandex
-- name: BLACK LTE [519]
-  type: vless
-  server: 83.168.91.240
-  port: 8443
-  uuid: c6ddf2a7-5c95-46ce-afcf-f7f5ff05f464
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  servername: avatars.mds.yandex.net
-  network: grpc
-  grpc-opts: {}
-- name: BLACK LTE [522]
+  reality-opts:
+    public-key: Zj7pfZMGav4r5mbPzpi5ohHue1r0El7QfnQt5nx2ljI
+    short-id: 56d5a8fb
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [190]
   type: vless
   server: 37.49.224.93
   port: 443
@@ -1535,32 +609,162 @@ proxies:
     public-key: QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4
     short-id: c338fe2b01cf271a
   servername: dev.max.ru
-- name: BLACK LTE [524]
+- name: BLACK LTE [192]
   type: vless
-  server: 165.231.193.21
+  server: 51.250.91.220
   port: 443
-  uuid: c43c1a42-27a8-47e3-a3c3-3abb72475e53
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
-    short-id: 992f3294e2336744
-  servername: stats.vk-portal.net
-- name: BLACK LTE [526]
-  type: vless
-  server: 138.124.4.18
-  port: 443
-  uuid: e1df1966-4d5e-43ec-b2da-bb935a258351
+  uuid: 5b140feb-1f41-457f-8500-0293af879592
   encryption: none
   flow: xtls-rprx-vision
   tls: true
   client-fingerprint: firefox
   reality-opts:
-    public-key: 8gPjqggKyk811tZ6X7EfF9KHXe7BXYRMxKXhXN6jbR4
-    short-id: 820571531cf2108a
+    public-key: Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI
+    short-id: 27e53bbcab7593d7
+  servername: yandex.ru
+- name: BLACK LTE [196]
+  type: vless
+  server: 51.250.86.102
+  port: 443
+  uuid: cf1a37bc-140b-4a3a-a18c-10c9f87eaad6
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
+    short-id: d17bd238f23fba92
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [203]
+  type: vless
+  server: 167.99.91.171
+  port: 443
+  uuid: 921290a9-6e24-4661-82fb-844d88164b74
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  servername: api.avito.ru
+  network: ws
+  ws-opts:
+    path: /sbqbfows
+    headers:
+      Host: api.avito.ru
+- name: BLACK LTE [206]
+  type: vless
+  server: 51.250.20.121
+  port: 443
+  uuid: bcf31ced-07e7-4bd3-ae6d-9280d9a47834
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo
+    short-id: a20d3ed244c76426
   servername: sun6-22.userapi.com
-- name: BLACK LTE [527]
+- name: BLACK LTE [209]
+  type: vless
+  server: 165.231.193.20
+  port: 443
+  uuid: c43c1a42-27a8-47e3-a3c3-3abb72475e53
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
+    short-id: 992f3294e2336744
+  servername: stats.vk-portal.net
+- name: BLACK LTE [220]
+  type: vless
+  server: 165.231.193.19
+  port: 443
+  uuid: c43c1a42-27a8-47e3-a3c3-3abb72475e53
+  encryption: none
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
+    short-id: 992f3294e2336744
+  servername: stats.vk-portal.net
+- name: BLACK LTE [233]
+  type: vless
+  server: fr33dom.fun
+  port: 443
+  uuid: 4b954482-3d47-51f8-9d32-cc3133fce9a3
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: Uu7G002VVldsnwvg4W23br8vSaZptGrio38i6N41xRA
+    short-id: a33f39e10a
+  servername: cloud.mail.ru
+- name: BLACK LTE [238]
+  type: vless
+  server: 185.77.231.80
+  port: 54969
+  uuid: 2a428848-ede7-4fb2-9e8d-92bb5158814e
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ
+    short-id: 00e7
+  servername: alfabank.ru
+- name: BLACK LTE [239]
+  type: vless
+  server: de.riotvpn.eu
+  port: 443
+  uuid: 41da9cd0-b02c-427a-b74e-7e402c610ae4
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: 8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho
+    short-id: b76dcf9e1183fe1b
+  servername: avatars.mds.yandex.net
+- name: BLACK LTE [243]
+  type: vless
+  server: m2e4f3b-m9r8vv.95.yndx-cdn.com
+  port: 40443
+  uuid: 24b33792-8c92-4a56-8585-528c9c50d844
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM
+    short-id: a1b2c3d4e5f6789a
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [245]
+  type: vless
+  server: b3aa11az-k15gg1.ru.y-tun.com
+  port: 8443
+  uuid: 0ee7eb22-e4e3-414b-bb01-3006ef852861
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM
+    short-id: a1b2c3d4e5f6789a
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [246]
+  type: vless
+  server: 152.233.54.69
+  port: 443
+  uuid: 5805aed6-5e06-4266-9c3c-8b6a3b968d1a
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: vLb66rBLZnMI1VPKxp90Dcuc0p2fyHdL3HwaxvNHzTA
+    short-id: f3a0090e
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [252]
   type: vless
   server: ukw-1.harknmav.fun
   port: 443
@@ -1573,11 +777,763 @@ proxies:
     public-key: cgXsLCAKHpA2hdGPl75HOquSlaxK9HJCn1p623U1Sz4
     short-id: 54fa5b651f84e695
   servername: eh.vk.com
-- name: BLACK LTE [528]
+- name: BLACK LTE [257]
+  type: vless
+  server: 92.38.139.69
+  port: 58888
+  uuid: 0c9c3b1b-a40d-453b-bed5-67f2c1d09aee
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA
+    short-id: 6ba85179e30d4fc2
+  servername: max.ru
+- name: BLACK LTE [264]
+  type: vless
+  server: 45.149.147.180
+  port: 443
+  uuid: d7b4d5b3-2c2d-493c-9b83-f25e3f6771b2
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: 8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho
+    short-id: b76dcf9e1183fe1b
+  servername: avatars.mds.yandex.net
+- name: BLACK LTE [271]
+  type: vless
+  server: 194.55.239.222
+  port: 443
+  uuid: 60d1d3a9-165f-417a-b7ca-cf6db5381fd9
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE
+    short-id: abbcd128
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [276]
+  type: vless
+  server: one.speedload.online
+  port: 443
+  uuid: e05cb81b-5288-41d6-ad4a-fb4016cccb27
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo
+    short-id: a20d3ed244c76426
+  servername: sun6-22.userapi.com
+- name: BLACK LTE [277]
+  type: vless
+  server: 78.17.134.254
+  port: 47200
+  uuid: 38f8b792-9e44-40d2-ab8d-c3bfc0b71bdc
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE
+    short-id: b2a9bd658fc81dc6
+  servername: stats.vk-portal.net
+- name: BLACK LTE [278]
+  type: vless
+  server: 151.115.98.117
+  port: 8443
+  uuid: 07ab8a15-a4a5-4a03-92b4-4e6a2e9aa5e7
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: RlAi5R84YF3U7llMLLoEui7R7nXhNWYWWy8Zukoo0m8
+    short-id: 019ae4dcc8f3aae7
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [280]
+  type: vless
+  server: 185.77.231.80
+  port: 16991
+  uuid: 4d164eae-b9fc-467f-91ca-f381610de096
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ
+    short-id: 9792f748
+  servername: goya.rutube.ru
+- name: BLACK LTE [281]
+  type: vless
+  server: 152.233.66.68
+  port: 443
+  uuid: 5805aed6-5e06-4266-9c3c-8b6a3b968d1a
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: TXwYCrwkhTEeqtxTf3ZYmXNwYcmVtR9eVXJRo7Kvxmk
+    short-id: 8c5041b3
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [282]
+  type: vless
+  server: 95.85.246.58
+  port: 8448
+  uuid: 329f5c49-c8a1-46e0-8e4d-79b0bebdc59e
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: h9UaYbYpywLQ3QkOw99nR6HTmyDUaKrdkt7gZJwayCQ
+    short-id: 1c4a8f6e
+  servername: hd.kinopoisk.ru
+- name: BLACK LTE [291]
+  type: vless
+  server: 80.93.63.202
+  port: 52847
+  uuid: fd1e4805-c7cb-49cb-8b23-6f78adc78544
+  encryption: none
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 7wMTJEfkUiBRKBfonkUQi2jjMkfUjtvvJ8mYMV0XBUI
+    short-id: 30f4301b
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [293]
+  type: vless
+  server: ub7y-fck-e7kxj9.se.yndx-cdn.com
+  port: 40443
+  uuid: 791d9841-cfee-4ddb-a5d9-5b0eade9d3b9
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM
+    short-id: a1b2c3d4e5f6789a
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [303]
+  type: vless
+  server: fi.riotvpn.eu
+  port: 443
+  uuid: c470171c-2951-4806-988d-61d4d811486d
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho
+    short-id: 2f49bccf11150ef2
+  servername: avatars.mds.yandex.net
+- name: BLACK LTE [310]
+  type: vless
+  server: de01.keyinvest.org
+  port: 443
+  uuid: e35dd2de-7a4c-4af4-b671-1592e286a040
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: c6RlqzTVSTJa22lCVX3u8jvZXXbWEsYGSX4kjo3ffkk
+  servername: web.max.ru
+- name: BLACK LTE [311]
+  type: vless
+  server: md.riotvpn.eu
+  port: 443
+  uuid: 84b504e4-a97f-40ab-93c3-a03a5f0ff36c
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho
+    short-id: 2f49bccf11150ef2
+  servername: avatars.mds.yandex.net
+- name: BLACK LTE [314]
+  type: vless
+  server: 2.27.23.44
+  port: 8443
+  uuid: 22f97634-cb4f-4661-b9e0-9d3865544e1e
+  encryption: none
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: TdT90qbeyM7WO0QCztOhKDGKOi2qaFFif0hO0cfK1E4
+    short-id: ea1058117be12087
+  servername: max.ru
+- name: BLACK LTE [315]
+  type: vless
+  server: 194.87.131.105
+  port: 443
+  uuid: 08379cf5-8256-404f-a6c5-2b933bb6c73f
+  encryption: none
+  tls: true
+  client-fingerprint: edge
+  servername: max.ru
+- name: BLACK LTE [316]
+  type: vless
+  server: 151.236.114.245
+  port: 6443
+  uuid: 423c1478-51ef-4762-8908-eb8b23ee8ff4
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: wfQg9xng5NedWJBv6hwvCkRqsafJnRuhCZWHgko6yUs
+    short-id: 3142c760d3c88811
+  servername: max.ru
+- name: BLACK LTE [318]
+  type: vless
+  server: 217.25.92.53
+  port: 443
+  uuid: 6f4b6e90-3e91-4ad2-8c3f-d0e4dd29264b
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: BAtrvTxguCHHOR0x9JdC0YSTNVfg3YCRZtH09gnuNkY
+  servername: yandex.ru
+- name: BLACK LTE [322]
+  type: vless
+  server: 217.168.244.203
+  port: 443
+  uuid: 7c599437-98bf-45aa-9750-2cec221c0f11
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: N3OlowiShoSDzgw48Zyln1gtZWjLJpk2DJRAE9PrhXQ
+    short-id: a99e2893d9c93d06
+  servername: m.ok.ru
+- name: BLACK LTE [330]
+  type: vless
+  server: 185.77.231.80
+  port: 443
+  uuid: b02262ee-d4e8-44c5-b08b-2dba07d1eec7
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ
+    short-id: 1a
+  servername: www.ozon.ru
+- name: BLACK LTE [333]
+  type: vless
+  server: 70.34.194.57
+  port: 443
+  uuid: 1b9e301d-cecd-4eb1-8b36-eef811c2696d
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: F7NZa0wqjlz9zHlFUUW8rnh9j9GwX7e2rq3CynO3s1o
+    short-id: 5e841fab
+  servername: yastatic.net
+- name: BLACK LTE [334]
+  type: vless
+  server: 95.173.199.110
+  port: 443
+  uuid: 92e41c23-4b39-464a-bbff-63ef84f317da
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: DxMGwax3l0UxFYZE349Fs15huyc4Jwzj6MG7Qrj0HQ0
+    short-id: 735093d7
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [342]
+  type: vless
+  server: 109.172.54.70
+  port: 2040
+  uuid: aef7716a-d0a5-4a85-9cb0-fda41d9f34b0
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: b6DZwkKAeXf3wjXrL6iV6dTt1Crpv2o88LRDJRgFglE
+    short-id: b589db8f02882bae
+  servername: eh.vk.com
+- name: BLACK LTE [343]
+  type: vless
+  server: 194.55.239.234
+  port: 443
+  uuid: 43572132-58b6-4f74-9b9c-fec3c8171688
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE
+    short-id: abbcd128
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [344]
+  type: vless
+  server: uk.riotvpn.eu
+  port: 443
+  uuid: c470171c-2951-4806-988d-61d4d811486d
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho
+    short-id: 2f49bccf11150ef2
+  servername: avatars.mds.yandex.net
+- name: BLACK LTE [357]
+  type: vless
+  server: 217.198.6.220
+  port: 443
+  uuid: bbcde690-aca4-48dd-8da7-85fbad4b6d99
+  encryption: none
+  tls: true
+  client-fingerprint: edge
+  servername: 2gis.com
+  network: grpc
+  grpc-opts: {}
+- name: BLACK LTE [358]
+  type: vless
+  server: z0211mq18-z3rk.ru-a1.y-tun.com
+  port: 40443
+  uuid: 0ee7eb22-e4e3-414b-bb01-3006ef852861
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM
+    short-id: a1b2c3d4e5f6789a
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [367]
+  type: vless
+  server: 94.126.205.147
+  port: 2092
+  uuid: ea00b203-5d06-4686-996e-2b5826cf6045
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  servername: dzen.ru
+- name: BLACK LTE [371]
+  type: vless
+  server: 95.163.181.215
+  port: 48106
+  uuid: 2209da6c-f30a-e095-3c91-7c602bd5ca0c
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
+    short-id: 35a84908e9cfa95c
+  servername: max.ru
+- name: BLACK LTE [372]
+  type: vless
+  server: 155.212.225.150
+  port: 443
+  uuid: c8d1c6d3-388f-48fc-a8f0-ed90d955d096
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw
+    short-id: 6ba85179e30d4fc2
+  servername: max.ru
+- name: BLACK LTE [374]
+  type: vless
+  server: 31.76.50.109
+  port: 443
+  uuid: 28cee14e-a124-4c9f-88e2-fcb6c1304ea3
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: Ueqd3mFmtmBODNPEA2zOnS1L3FrcS0bLweBZQW5xmmw
+    short-id: 6069ba5ecbf75abb
+  servername: a.wb.ru
+- name: BLACK LTE [375]
+  type: vless
+  server: 95.85.226.117
+  port: 8443
+  uuid: 26e4d8b5-ee98-4a8d-88c9-7f81b7be3379
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4
+    short-id: b3a1cc510a2001c6
+  servername: eh.vk.com
+- name: BLACK LTE [380]
+  type: vless
+  server: 46.33.10.106
+  port: 8443
+  uuid: ad7a9316-1953-439a-854f-66355100a004
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: DaQZOn4aunFuaOY7Em0FexFFOWVyYKrrkZKvv3X0VRE
+    short-id: de1da725
+  servername: web.max.ru
+- name: BLACK LTE [385]
+  type: vless
+  server: pl.riotvpn.eu
+  port: 443
+  uuid: c470171c-2951-4806-988d-61d4d811486d
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho
+    short-id: b76dcf9e1183fe1b
+  servername: avatars.mds.yandex.net
+- name: BLACK LTE [394]
+  type: vless
+  server: 51.250.82.20
+  port: 443
+  uuid: 855372a7-6897-4411-8e9f-dd8a67b5b4ee
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [395]
+  type: vless
+  server: 138.16.169.188
+  port: 2087
+  uuid: ab51054f-de76-4a0f-9f3a-b44c8df86a6c
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY
+  servername: yastatic.net
+- name: BLACK LTE [402]
+  type: vless
+  server: 5.188.141.139
+  port: 443
+  uuid: 4262ba73-f5ba-07d0-9714-a2a8a19ae6d8
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
+    short-id: d8c6b58bcbb0c323
+  servername: max.ru
+- name: BLACK LTE [404]
+  type: vless
+  server: gdg.herumhas.shop
+  port: 5443
+  uuid: 35a14133-45f6-40bc-a9cd-918fd0ecb345
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ
+  servername: max.ru
+- name: BLACK LTE [405]
+  type: vless
+  server: 85.198.101.160
+  port: 443
+  uuid: 4f35284c-311a-4c2c-b196-fda3ac8a0b66
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: MSHKV2n0D01xQkXUY64I1gSraEVZb1GH8YPF9tF55kQ
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [419]
+  type: vless
+  server: 85.198.101.160
+  port: 443
+  uuid: 4f35284c-311a-4c2c-b196-fda3ac8a0b66
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: MSHKV2n0D01xQkXUY64I1gSraEVZb1GH8YPF9tF55kQ
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [438]
+  type: vless
+  server: 138.16.169.188
+  port: 2087
+  uuid: ab51054f-de76-4a0f-9f3a-b44c8df86a6c
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY
+  servername: yastatic.net
+- name: BLACK LTE [440]
+  type: vless
+  server: 138.16.169.188
+  port: 2087
+  uuid: ab51054f-de76-4a0f-9f3a-b44c8df86a6c
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY
+  servername: yastatic.net
+- name: BLACK LTE [442]
+  type: vless
+  server: 138.16.169.188
+  port: 2087
+  uuid: ab51054f-de76-4a0f-9f3a-b44c8df86a6c
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY
+  servername: yastatic.net
+- name: BLACK LTE [449]
+  type: vless
+  server: 194.55.239.114
+  port: 443
+  uuid: 28434418-b438-4974-add8-be95bb9c5f1d
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [450]
+  type: vless
+  server: 194.55.239.115
+  port: 443
+  uuid: 28434418-b438-4974-add8-be95bb9c5f1d
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: web.max.ru
+- name: BLACK LTE [454]
+  type: vless
+  server: 51.250.40.74
+  port: 443
+  uuid: aac28bdc-13c8-4b62-bde6-6f90f952ff37
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8
+    short-id: 22730c666bd10642
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [455]
+  type: vless
+  server: 138.16.169.188
+  port: 2087
+  uuid: ab51054f-de76-4a0f-9f3a-b44c8df86a6c
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY
+  servername: yastatic.net
+- name: BLACK LTE [456]
+  type: vless
+  server: 138.16.169.188
+  port: 2087
+  uuid: ab51054f-de76-4a0f-9f3a-b44c8df86a6c
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY
+  servername: yastatic.net
+- name: BLACK LTE [457]
+  type: vless
+  server: 138.16.169.188
+  port: 2087
+  uuid: ab51054f-de76-4a0f-9f3a-b44c8df86a6c
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY
+  servername: yastatic.net
+- name: BLACK LTE [458]
+  type: vless
+  server: 138.16.169.188
+  port: 2087
+  uuid: ab51054f-de76-4a0f-9f3a-b44c8df86a6c
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY
+  servername: yastatic.net
+- name: BLACK LTE [461]
+  type: vless
+  server: 51.250.40.74
+  port: 443
+  uuid: fd0b8baa-572c-49f5-b952-35e435a1db20
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8
+    short-id: 22730c666bd10642
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [468]
+  type: vless
+  server: 138.16.169.188
+  port: 2083
+  uuid: ab51054f-de76-4a0f-9f3a-b44c8df86a6c
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY
+  servername: dzen.ru
+- name: BLACK LTE [482]
+  type: vless
+  server: 38.107.234.135
+  port: 443
+  uuid: f42f97eb-9e1e-4d23-a2ef-d0a29ffadd86
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: QLr2nQ3jUikwguB51cYhuXpPZTgHG4Z8xrTOJTH4aDo
+    short-id: '42'
+  servername: static.rutube.ru
+- name: BLACK LTE [492]
+  type: vless
+  server: 64.227.47.224
+  port: 443
+  uuid: b9cade73-6c60-437f-8e99-631cc3560ca7
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
+  servername: ozon.ru
+  network: ws
+  ws-opts:
+    path: /evvixzws
+    headers:
+      Host: ozon.ru
+- name: BLACK LTE [495]
+  type: vless
+  server: 46.33.10.106
+  port: 8443
+  uuid: ad7a9316-1953-439a-854f-66355100a004
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: DaQZOn4aunFuaOY7Em0FexFFOWVyYKrrkZKvv3X0VRE
+    short-id: de1da725
+  servername: web.max.ru
+- name: BLACK LTE [499]
+  type: vless
+  server: 185.77.231.80
+  port: 54969
+  uuid: 2a428848-ede7-4fb2-9e8d-92bb5158814e
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ
+    short-id: 00e7
+  servername: alfabank.ru
+- name: BLACK LTE [505]
+  type: vless
+  server: uk.nebesniy.com
+  port: 8443
+  uuid: ad7a9316-1953-439a-854f-66355100a004
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: DaQZOn4aunFuaOY7Em0FexFFOWVyYKrrkZKvv3X0VRE
+    short-id: de1da725
+  servername: web.max.ru
+- name: BLACK LTE [508]
+  type: vless
+  server: 109.122.197.72
+  port: 443
+  uuid: 02bbbec4-8e6e-4ea8-982f-cdcac3541f09
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: UpO0lV2YR0otf1jQKLHDp2bD623tyUIefqCLGm04a2Q
+    short-id: a8237269c785d443
+  servername: ya.ru
+- name: BLACK LTE [514]
   type: vless
   server: 37.49.224.93
   port: 443
   uuid: a5f3e5f5-ffa4-43dd-84b6-20aedd1a843e
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4
+    short-id: c338fe2b01cf271a
+  servername: dev.max.ru
+- name: BLACK LTE [528]
+  type: vless
+  server: 83.168.91.240
+  port: 8443
+  uuid: c6ddf2a7-5c95-46ce-afcf-f7f5ff05f464
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
+  servername: avatars.mds.yandex.net
+  network: grpc
+  grpc-opts: {}
+- name: BLACK LTE [530]
+  type: vless
+  server: 37.49.224.93
+  port: 443
+  uuid: 4760f592-045d-4f13-a49f-7984eae1a9a8
   encryption: none
   flow: xtls-rprx-vision
   tls: true
@@ -1586,31 +1542,29 @@ proxies:
     public-key: QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4
     short-id: c338fe2b01cf271a
   servername: dev.max.ru
-- name: BLACK LTE [529]
+- name: BLACK LTE [540]
   type: vless
-  server: 165.231.193.19
+  server: 65.108.231.185
   port: 443
-  uuid: c43c1a42-27a8-47e3-a3c3-3abb72475e53
+  uuid: 440766d1-858f-4719-84f5-c2de6f6227b2
   encryption: none
   tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
-    short-id: 992f3294e2336744
-  servername: stats.vk-portal.net
-- name: BLACK LTE [530]
+  client-fingerprint: edge
+  servername: api.avito.ru
+- name: BLACK LTE [541]
   type: vless
-  server: 165.231.193.19
+  server: de.riotvpn.eu
   port: 443
-  uuid: c43c1a42-27a8-47e3-a3c3-3abb72475e53
+  uuid: 41da9cd0-b02c-427a-b74e-7e402c610ae4
   encryption: none
+  flow: xtls-rprx-vision
   tls: true
   client-fingerprint: firefox
   reality-opts:
-    public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
-    short-id: 992f3294e2336744
-  servername: stats.vk-portal.net
-- name: BLACK LTE [533]
+    public-key: 8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho
+    short-id: b76dcf9e1183fe1b
+  servername: avatars.mds.yandex.net
+- name: BLACK LTE [544]
   type: vless
   server: 165.231.193.22
   port: 443
@@ -1622,7 +1576,32 @@ proxies:
     public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
     short-id: 992f3294e2336744
   servername: stats.vk-portal.net
-- name: BLACK LTE [534]
+- name: BLACK LTE [545]
+  type: vless
+  server: 165.231.193.21
+  port: 443
+  uuid: c43c1a42-27a8-47e3-a3c3-3abb72475e53
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
+    short-id: 992f3294e2336744
+  servername: stats.vk-portal.net
+- name: BLACK LTE [546]
+  type: vless
+  server: 138.124.4.18
+  port: 443
+  uuid: e1df1966-4d5e-43ec-b2da-bb935a258351
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 8gPjqggKyk811tZ6X7EfF9KHXe7BXYRMxKXhXN6jbR4
+    short-id: 820571531cf2108a
+  servername: sun6-22.userapi.com
+- name: BLACK LTE [565]
   type: vless
   server: 165.231.193.18
   port: 443
@@ -1634,131 +1613,43 @@ proxies:
     public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
     short-id: 992f3294e2336744
   servername: stats.vk-portal.net
-- name: BLACK LTE [535]
-  type: vless
-  server: 165.231.193.18
-  port: 443
-  uuid: c43c1a42-27a8-47e3-a3c3-3abb72475e53
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
-    short-id: 992f3294e2336744
-  servername: stats.vk-portal.net
-- name: BLACK LTE [543]
-  type: vless
-  server: 185.fixpr.top
-  port: 8443
-  uuid: 00bc53ff-c447-42fd-8b85-1843985e729a
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 4rOkMPLt9aMOXiDmXkPX6RQP6jd6qBLBvGJx45JFWFk
-    short-id: ee82aca370f4428b
-  servername: rutube.ru
-- name: BLACK LTE [544]
+- name: BLACK LTE [568]
   type: vless
   server: 165.231.193.20
   port: 443
   uuid: c43c1a42-27a8-47e3-a3c3-3abb72475e53
   encryption: none
   tls: true
-  client-fingerprint: qq
+  client-fingerprint: edge
   reality-opts:
     public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
     short-id: 992f3294e2336744
   servername: stats.vk-portal.net
-- name: BLACK LTE [553]
+- name: BLACK LTE [570]
   type: vless
-  server: 65.108.231.185
+  server: 165.231.193.19
   port: 443
-  uuid: 440766d1-858f-4719-84f5-c2de6f6227b2
+  uuid: c43c1a42-27a8-47e3-a3c3-3abb72475e53
   encryption: none
   tls: true
-  client-fingerprint: qq
-  servername: api.avito.ru
-- name: BLACK LTE [564]
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
+    short-id: 992f3294e2336744
+  servername: stats.vk-portal.net
+- name: BLACK LTE [573]
   type: vless
-  server: 51.250.86.102
+  server: 165.231.193.19
   port: 443
-  uuid: b4f272ea-cd4f-4df9-9929-1c6b49c0b6ac
+  uuid: c43c1a42-27a8-47e3-a3c3-3abb72475e53
   encryption: none
-  flow: xtls-rprx-vision
   tls: true
   client-fingerprint: edge
   reality-opts:
-    public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
-    short-id: 2476f063981ffd92
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [569]
-  type: vless
-  server: 146.185.240.88
-  port: 443
-  uuid: dbebcaef-4cc8-01f4-888b-2962aae2e5d3
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
-    short-id: d8c6b58bcbb0c323
-  servername: max.ru
-- name: BLACK LTE [571]
-  type: vless
-  server: 51.250.86.102
-  port: 443
-  uuid: f22c9b63-f93b-4650-80d7-937c5422c471
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
-    short-id: e55fd8f9c9a9a0ca
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [575]
-  type: vless
-  server: 51.250.86.102
-  port: 443
-  uuid: 53b2c46d-bc0a-4696-9d87-6bfa77a60d1f
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
-    short-id: 33554379411b3219
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [577]
-  type: vless
-  server: 51.250.86.102
-  port: 443
-  uuid: 76f385df-bb5c-4e92-b60b-fce540b0a6a0
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
-    short-id: 17f0f0e38f01af5a
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [583]
-  type: vless
-  server: 81.94.159.115
-  port: 443
-  uuid: 96ef0cf9-7d29-4b2f-b170-efd555481735
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: NhHXYBmjIoSy6Kvj2k06550KGJY3GUFSzcssjFakh3U
-    short-id: 05b0fdcfc72e33e5
-  servername: yandex.ru
-- name: BLACK LTE [584]
+    public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
+    short-id: 992f3294e2336744
+  servername: stats.vk-portal.net
+- name: BLACK LTE [576]
   type: vless
   server: 51.250.94.185
   port: 443
@@ -1771,37 +1662,23 @@ proxies:
     public-key: AXpnAjV0JFXwH8bYFYGeO9MJs4qgEdP9jP2wJ1RE03g
     short-id: cb0da33071d7fe
   servername: api-maps.yandex.ru
-- name: BLACK LTE [605]
+- name: BLACK LTE [581]
   type: vless
-  server: 51.250.20.121
+  server: 165.231.193.22
   port: 443
-  uuid: 87d58e85-a4b3-4187-9fb7-6f0a73b21a6b
+  uuid: c43c1a42-27a8-47e3-a3c3-3abb72475e53
   encryption: none
-  flow: xtls-rprx-vision
   tls: true
   client-fingerprint: qq
   reality-opts:
-    public-key: bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo
-    short-id: a20d3ed244c76426
-  servername: sun6-22.userapi.com
-- name: BLACK LTE [606]
-  type: vless
-  server: 51.250.20.121
-  port: 443
-  uuid: dd618f98-8af3-413b-b4d7-f77afa40365d
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo
-    short-id: a20d3ed244c76426
-  servername: eh.vk.com
-- name: BLACK LTE [611]
+    public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
+    short-id: 992f3294e2336744
+  servername: stats.vk-portal.net
+- name: BLACK LTE [583]
   type: vless
   server: 146.185.240.88
   port: 443
-  uuid: a22f6494-f371-01f4-bad0-8df9594b8e45
+  uuid: dbebcaef-4cc8-01f4-888b-2962aae2e5d3
   encryption: none
   flow: xtls-rprx-vision
   tls: true
@@ -1810,44 +1687,110 @@ proxies:
     public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
     short-id: d8c6b58bcbb0c323
   servername: max.ru
-- name: BLACK LTE [614]
+- name: BLACK LTE [587]
   type: vless
-  server: 51.250.20.121
+  server: 51.250.86.102
   port: 443
-  uuid: e05cb81b-5288-41d6-ad4a-fb4016cccb27
+  uuid: f22c9b63-f93b-4650-80d7-937c5422c471
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: firefox
+  client-fingerprint: edge
   reality-opts:
-    public-key: bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo
-    short-id: a20d3ed244c76426
-  servername: sun6-22.userapi.com
-- name: BLACK LTE [615]
+    public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
+    short-id: e55fd8f9c9a9a0ca
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [592]
   type: vless
-  server: 85.198.101.160
+  server: 51.250.86.102
   port: 443
-  uuid: 4f35284c-311a-4c2c-b196-fda3ac8a0b66
+  uuid: b4f272ea-cd4f-4df9-9929-1c6b49c0b6ac
   encryption: none
   flow: xtls-rprx-vision
   tls: true
   client-fingerprint: qq
   reality-opts:
-    public-key: MSHKV2n0D01xQkXUY64I1gSraEVZb1GH8YPF9tF55kQ
+    public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
+    short-id: 2476f063981ffd92
   servername: api-maps.yandex.ru
-- name: BLACK LTE [616]
+- name: BLACK LTE [595]
   type: vless
-  server: 51.250.20.121
+  server: 144.31.2.122
   port: 443
-  uuid: dd618f98-8af3-413b-b4d7-f77afa40365d
+  uuid: 7993192f-2875-4aed-ac8f-26f1596cf8e7
   encryption: none
   flow: xtls-rprx-vision
   tls: true
   client-fingerprint: firefox
   reality-opts:
-    public-key: bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo
-    short-id: a20d3ed244c76426
+    public-key: 8CLRwG6JsXb1MrOpnmMlnAFLQ4bQqwaE57iEACmiF1o
+    short-id: 8be9fb528a
+  servername: sun6-21.userapi.com
+- name: BLACK LTE [598]
+  type: vless
+  server: 51.250.86.102
+  port: 443
+  uuid: 53b2c46d-bc0a-4696-9d87-6bfa77a60d1f
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
+    short-id: 33554379411b3219
   servername: api-maps.yandex.ru
+- name: BLACK LTE [600]
+  type: vless
+  server: 81.94.159.115
+  port: 443
+  uuid: 96ef0cf9-7d29-4b2f-b170-efd555481735
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: NhHXYBmjIoSy6Kvj2k06550KGJY3GUFSzcssjFakh3U
+    short-id: 05b0fdcfc72e33e5
+  servername: yandex.ru
+- name: BLACK LTE [601]
+  type: vless
+  server: 51.250.94.185
+  port: 443
+  uuid: f4bb0d9a-5c89-42d2-bb44-f98eee243a3e
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: AXpnAjV0JFXwH8bYFYGeO9MJs4qgEdP9jP2wJ1RE03g
+    short-id: cb0da33071d7fe
+  servername: eh.vk.com
+- name: BLACK LTE [604]
+  type: vless
+  server: 146.185.240.88
+  port: 443
+  uuid: 66b78cb9-c0a7-03e8-8b3c-d10d03fa0cb4
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
+    short-id: d8c6b58bcbb0c323
+  servername: max.ru
+- name: BLACK LTE [618]
+  type: vless
+  server: 146.185.240.88
+  port: 443
+  uuid: 66b78cb9-c0a7-01f4-8b3c-d10d03fa0cb4
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
+    short-id: d8c6b58bcbb0c323
+  servername: max.ru
 - name: BLACK LTE [620]
   type: vless
   server: 51.250.20.121
@@ -1861,20 +1804,33 @@ proxies:
     public-key: bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo
     short-id: a20d3ed244c76426
   servername: api-maps.yandex.ru
-- name: BLACK LTE [622]
+- name: BLACK LTE [623]
   type: vless
-  server: 146.185.240.88
+  server: 144.31.87.16
   port: 443
-  uuid: 66b78cb9-c0a7-01f4-8b3c-d10d03fa0cb4
+  uuid: c40f773e-3b96-417e-b22c-e48cb63ca7d9
   encryption: none
   flow: xtls-rprx-vision
   tls: true
   client-fingerprint: firefox
   reality-opts:
-    public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
-    short-id: d8c6b58bcbb0c323
-  servername: max.ru
-- name: BLACK LTE [623]
+    public-key: l5eAOSPQMEyzEPvWGAKvCkcPpsJvR3DJfYo6elw1UTE
+    short-id: 3b802dad547b0847
+  servername: yandex.ru
+- name: BLACK LTE [626]
+  type: vless
+  server: 51.250.20.121
+  port: 443
+  uuid: dd618f98-8af3-413b-b4d7-f77afa40365d
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo
+    short-id: a20d3ed244c76426
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [630]
   type: vless
   server: 51.250.20.121
   port: 443
@@ -1886,12 +1842,12 @@ proxies:
   reality-opts:
     public-key: bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo
     short-id: a20d3ed244c76426
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [624]
+  servername: sun6-22.userapi.com
+- name: BLACK LTE [632]
   type: vless
   server: 51.250.20.121
   port: 443
-  uuid: bcf31ced-07e7-4bd3-ae6d-9280d9a47834
+  uuid: dd618f98-8af3-413b-b4d7-f77afa40365d
   encryption: none
   flow: xtls-rprx-vision
   tls: true
@@ -1899,12 +1855,12 @@ proxies:
   reality-opts:
     public-key: bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo
     short-id: a20d3ed244c76426
-  servername: sun6-22.userapi.com
-- name: BLACK LTE [627]
+  servername: eh.vk.com
+- name: BLACK LTE [637]
   type: vless
   server: 146.185.240.88
   port: 443
-  uuid: 66b78cb9-c0a7-03e8-8b3c-d10d03fa0cb4
+  uuid: a22f6494-f371-01f4-bad0-8df9594b8e45
   encryption: none
   flow: xtls-rprx-vision
   tls: true
@@ -1913,82 +1869,33 @@ proxies:
     public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
     short-id: d8c6b58bcbb0c323
   servername: max.ru
-- name: BLACK LTE [630]
+- name: BLACK LTE [640]
   type: vless
-  server: 85.198.101.160
+  server: 51.250.20.121
   port: 443
-  uuid: 4f35284c-311a-4c2c-b196-fda3ac8a0b66
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: MSHKV2n0D01xQkXUY64I1gSraEVZb1GH8YPF9tF55kQ
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [633]
-  type: vless
-  server: 144.31.2.122
-  port: 443
-  uuid: 7993192f-2875-4aed-ac8f-26f1596cf8e7
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 8CLRwG6JsXb1MrOpnmMlnAFLQ4bQqwaE57iEACmiF1o
-    short-id: 8be9fb528a
-  servername: sun6-21.userapi.com
-- name: BLACK LTE [685]
-  type: vless
-  server: 80.93.63.202
-  port: 52847
-  uuid: fd1e4805-c7cb-49cb-8b23-6f78adc78544
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 7wMTJEfkUiBRKBfonkUQi2jjMkfUjtvvJ8mYMV0XBUI
-    short-id: 30f4301b
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [687]
-  type: vless
-  server: sec.buzzserver.online
-  port: 443
-  uuid: 94968d24-ed1a-4dfa-9536-da03ef303ade
+  uuid: 87d58e85-a4b3-4187-9fb7-6f0a73b21a6b
   encryption: none
   flow: xtls-rprx-vision
   tls: true
   client-fingerprint: edge
   reality-opts:
-    public-key: YcCmNyecLPULNrt9DgQAl7Xt2ds4XTkzw24tMGp0mFc
-    short-id: '298024'
-  servername: max.ru
-- name: BLACK LTE [689]
+    public-key: bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo
+    short-id: a20d3ed244c76426
+  servername: sun6-22.userapi.com
+- name: BLACK LTE [659]
   type: vless
-  server: 80.93.63.202
-  port: 52847
-  uuid: fd1e4805-c7cb-49cb-8b23-6f78adc78544
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 7wMTJEfkUiBRKBfonkUQi2jjMkfUjtvvJ8mYMV0XBUI
-    short-id: 30f4301b
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [701]
-  type: vless
-  server: 185.42.14.46
+  server: 51.250.86.102
   port: 443
-  uuid: f6aaa6db-d249-4dab-bc44-8ce670060de3
+  uuid: 76f385df-bb5c-4e92-b60b-fce540b0a6a0
   encryption: none
   flow: xtls-rprx-vision
   tls: true
-  client-fingerprint: edge
+  client-fingerprint: qq
   reality-opts:
-    public-key: G9uQu7GdqkkvE6WH0gZ1kfzt2J50s6VgddYnqck5tjw
-    short-id: a29991b068641259
+    public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
+    short-id: 17f0f0e38f01af5a
   servername: api-maps.yandex.ru
-- name: BLACK LTE [702]
+- name: BLACK LTE [666]
   type: vless
   server: 51.250.20.121
   port: 443
@@ -2001,350 +1908,33 @@ proxies:
     public-key: bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo
     short-id: a20d3ed244c76426
   servername: eh.vk.com
-- name: BLACK LTE [710]
+- name: BLACK LTE [682]
   type: vless
-  server: 178.215.238.148
-  port: 8443
-  uuid: 21c1132b-068c-46fb-880e-3268f6a30e7f
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  servername: eh.vk.com
-- name: BLACK LTE [716]
-  type: vless
-  server: 185.42.14.46
+  server: 144.31.87.16
   port: 443
-  uuid: f6aaa6db-d249-4dab-bc44-8ce670060de3
+  uuid: c40f773e-3b96-417e-b22c-e48cb63ca7d9
   encryption: none
   flow: xtls-rprx-vision
   tls: true
   client-fingerprint: edge
   reality-opts:
-    public-key: G9uQu7GdqkkvE6WH0gZ1kfzt2J50s6VgddYnqck5tjw
-    short-id: a29991b068641259
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [723]
+    public-key: l5eAOSPQMEyzEPvWGAKvCkcPpsJvR3DJfYo6elw1UTE
+    short-id: 3b802dad547b0847
+  servername: yandex.ru
+- name: BLACK LTE [686]
   type: vless
-  server: app.pushbyte.cc
-  port: 3002
-  uuid: 26dc9926-efd0-47c3-bd6c-44f9eec194b8
-  encryption: none
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI
-    short-id: 83ae6b6bb4899039
-  servername: cloud.mail.ru
-- name: BLACK LTE [726]
-  type: vless
-  server: 185.42.14.46
+  server: 144.31.87.16
   port: 443
-  uuid: f6aaa6db-d249-4dab-bc44-8ce670060de3
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: G9uQu7GdqkkvE6WH0gZ1kfzt2J50s6VgddYnqck5tjw
-    short-id: a29991b068641259
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [741]
-  type: vless
-  server: 138.16.169.188
-  port: 8443
-  uuid: ab51054f-de76-4a0f-9f3a-b44c8df86a6c
+  uuid: c40f773e-3b96-417e-b22c-e48cb63ca7d9
   encryption: none
   flow: xtls-rprx-vision
   tls: true
   client-fingerprint: firefox
   reality-opts:
-    public-key: Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [746]
-  type: vless
-  server: 194.55.239.115
-  port: 443
-  uuid: 85b0a5ce-c3b5-4ac4-952b-16ecd412135b
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [749]
-  type: vless
-  server: 194.55.239.177
-  port: 443
-  uuid: c57b7be8-3258-40ce-88ff-cd3b3965578d
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [752]
-  type: vless
-  server: 158.160.47.253
-  port: 443
-  uuid: 85b0a5ce-c3b5-4ac4-952b-16ecd412135b
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [757]
-  type: vless
-  server: 51.250.82.20
-  port: 443
-  uuid: 855372a7-6897-4411-8e9f-dd8a67b5b4ee
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [758]
-  type: vless
-  server: 158.160.50.102
-  port: 443
-  uuid: 3bf4ed21-bb53-413d-8335-81663cdd036f
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: web.max.ru
-- name: BLACK LTE [759]
-  type: vless
-  server: 95.182.110.127
-  port: 40443
-  uuid: 8ccf89d2-1168-45f6-82d5-5927738e8ebe
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM
-    short-id: a1b2c3d4e5f6789a
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [760]
-  type: vless
-  server: 51.250.82.20
-  port: 443
-  uuid: 85b0a5ce-c3b5-4ac4-952b-16ecd412135b
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [765]
-  type: vless
-  server: 158.160.47.144
-  port: 443
-  uuid: abc9b974-a258-442d-b31e-d23d3f1152bb
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [766]
-  type: vless
-  server: 194.55.239.113
-  port: 443
-  uuid: c57b7be8-3258-40ce-88ff-cd3b3965578d
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: web.max.ru
-- name: BLACK LTE [768]
-  type: vless
-  server: 194.55.239.113
-  port: 443
-  uuid: 85b0a5ce-c3b5-4ac4-952b-16ecd412135b
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: web.max.ru
-- name: BLACK LTE [769]
-  type: vless
-  server: 158.160.50.102
-  port: 443
-  uuid: c57b7be8-3258-40ce-88ff-cd3b3965578d
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: web.max.ru
-- name: BLACK LTE [770]
-  type: vless
-  server: 158.160.47.253
-  port: 443
-  uuid: 85b0a5ce-c3b5-4ac4-952b-16ecd412135b
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: web.max.ru
-- name: BLACK LTE [771]
-  type: vless
-  server: 158.160.47.144
-  port: 443
-  uuid: 8fb97621-87d4-4f99-b839-6d45c0873484
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [774]
-  type: vless
-  server: 194.55.239.113
-  port: 443
-  uuid: 855372a7-6897-4411-8e9f-dd8a67b5b4ee
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [775]
-  type: vless
-  server: 194.55.239.177
-  port: 443
-  uuid: 3bf4ed21-bb53-413d-8335-81663cdd036f
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: api-maps.yandex.ru
-- name: BLACK LTE [777]
-  type: vless
-  server: 194.55.239.113
-  port: 443
-  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: web.max.ru
-- name: BLACK LTE [790]
-  type: vless
-  server: ger.ilovemax.ru
-  port: 443
-  uuid: 66b78cb9-c0a7-03e8-8b3c-d10d03fa0cb4
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
-    short-id: d8c6b58bcbb0c323
-  servername: max.ru
-- name: BLACK LTE [792]
-  type: vless
-  server: 194.55.239.113
-  port: 443
-  uuid: 3bf4ed21-bb53-413d-8335-81663cdd036f
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-  servername: web.max.ru
-- name: BLACK LTE [795]
-  type: vless
-  server: kzw-1.harknmav.fun
-  port: 443
-  uuid: 41618f24-d61d-4a8a-9f9c-6967ccb55d72
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: OqFwv71xwolFHot7R1bl5wDxUVm68xJSZqgc1DCLVkM
-    short-id: 946655b57cc78a17
-  servername: eh.vk.com
-- name: BLACK LTE [805]
-  type: vless
-  server: ru.x8lab.org
-  port: 443
-  uuid: c6af0348-6835-0007-88a5-7e77bc56458f
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ
-    short-id: c44bcdb731f12c41
-  servername: rutube.ru
-- name: BLACK LTE [817]
-  type: vless
-  server: 138.16.169.188
-  port: 2083
-  uuid: ab51054f-de76-4a0f-9f3a-b44c8df86a6c
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY
-  servername: dzen.ru
-- name: BLACK LTE [851]
-  type: vless
-  server: api.rodina-platform.online
-  port: 2072
-  uuid: 080e0b5f-c956-452b-aaa0-2dfd791e8aa3
-  encryption: none
-  tls: true
-  client-fingerprint: qq
-  reality-opts:
-    public-key: Ii9Wmi9ozX7Z9Vf3n1xp2lqUw0pmfXVdOXjdLGLMSHs
-    short-id: 7016808acbb46323
-  servername: max.ru
-- name: BLACK LTE [890]
+    public-key: l5eAOSPQMEyzEPvWGAKvCkcPpsJvR3DJfYo6elw1UTE
+    short-id: 3b802dad547b0847
+  servername: yandex.ru
+- name: BLACK LTE [687]
   type: vless
   server: 144.31.87.16
   port: 443
@@ -2357,11 +1947,177 @@ proxies:
     public-key: l5eAOSPQMEyzEPvWGAKvCkcPpsJvR3DJfYo6elw1UTE
     short-id: 3b802dad547b0847
   servername: yandex.ru
-- name: BLACK LTE [891]
+- name: BLACK LTE [692]
   type: vless
-  server: 158.160.35.135
+  server: sec.buzzserver.online
   port: 443
-  uuid: be2ce604-16c3-488c-8c05-c76edd95bffe
+  uuid: 94968d24-ed1a-4dfa-9536-da03ef303ade
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: YcCmNyecLPULNrt9DgQAl7Xt2ds4XTkzw24tMGp0mFc
+    short-id: '298024'
+  servername: max.ru
+- name: BLACK LTE [703]
+  type: vless
+  server: 45.67.138.69
+  port: 443
+  uuid: 3f3db75c-e362-4047-9452-1c307351ab02
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: ThlIJki5wLsF5x9BYDt9RSDmwFPhwIhCoZpEqHk5fTA
+    short-id: ba4f72709ab151b6
+  servername: rbc.ru
+- name: BLACK LTE [709]
+  type: vless
+  server: 80.93.63.202
+  port: 52847
+  uuid: fd1e4805-c7cb-49cb-8b23-6f78adc78544
+  encryption: none
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 7wMTJEfkUiBRKBfonkUQi2jjMkfUjtvvJ8mYMV0XBUI
+    short-id: 30f4301b
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [713]
+  type: vless
+  server: app.pushbyte.cc
+  port: 3002
+  uuid: 26dc9926-efd0-47c3-bd6c-44f9eec194b8
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI
+    short-id: 83ae6b6bb4899039
+  servername: cloud.mail.ru
+- name: BLACK LTE [718]
+  type: vless
+  server: 51.250.20.121
+  port: 443
+  uuid: e05cb81b-5288-41d6-ad4a-fb4016cccb27
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo
+    short-id: a20d3ed244c76426
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [719]
+  type: vless
+  server: 51.250.20.121
+  port: 443
+  uuid: dd618f98-8af3-413b-b4d7-f77afa40365d
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo
+    short-id: a20d3ed244c76426
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [720]
+  type: vless
+  server: 185.42.14.46
+  port: 443
+  uuid: f6aaa6db-d249-4dab-bc44-8ce670060de3
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: G9uQu7GdqkkvE6WH0gZ1kfzt2J50s6VgddYnqck5tjw
+    short-id: a29991b068641259
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [735]
+  type: vless
+  server: 80.93.63.202
+  port: 52847
+  uuid: fd1e4805-c7cb-49cb-8b23-6f78adc78544
+  encryption: none
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 7wMTJEfkUiBRKBfonkUQi2jjMkfUjtvvJ8mYMV0XBUI
+    short-id: 30f4301b
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [738]
+  type: vless
+  server: 144.31.87.16
+  port: 443
+  uuid: c40f773e-3b96-417e-b22c-e48cb63ca7d9
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: l5eAOSPQMEyzEPvWGAKvCkcPpsJvR3DJfYo6elw1UTE
+    short-id: 3b802dad547b0847
+  servername: yandex.ru
+- name: BLACK LTE [739]
+  type: vless
+  server: 185.42.14.46
+  port: 443
+  uuid: f6aaa6db-d249-4dab-bc44-8ce670060de3
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: G9uQu7GdqkkvE6WH0gZ1kfzt2J50s6VgddYnqck5tjw
+    short-id: a29991b068641259
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [746]
+  type: vless
+  server: nl1.vpnreal.ru
+  port: 443
+  uuid: d08ff8b7-d4a3-4628-9c39-c9c3d256cbf7
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: xUBjC2vNXBrDnJ3rVvQl2CYPvugp3VeVC5NN9ukRojU
+    short-id: e3ebde1f3c9c2b7c
+  servername: eh.vk.com
+- name: BLACK LTE [749]
+  type: vless
+  server: 51.250.82.20
+  port: 443
+  uuid: 99ecc0ad-32d3-4d8b-a2f8-434f4ecc626d
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [750]
+  type: vless
+  server: 185.42.14.46
+  port: 443
+  uuid: f6aaa6db-d249-4dab-bc44-8ce670060de3
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: G9uQu7GdqkkvE6WH0gZ1kfzt2J50s6VgddYnqck5tjw
+    short-id: a29991b068641259
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [758]
+  type: vless
+  server: 51.250.82.20
+  port: 443
+  uuid: 5fddcfcc-0692-4466-8eb9-293e668f1ae8
   encryption: none
   flow: xtls-rprx-vision
   tls: true
@@ -2370,32 +2126,7 @@ proxies:
     public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
     short-id: 428ef87fd47a3a32
   servername: api-maps.yandex.ru
-- name: BLACK LTE [892]
-  type: vless
-  server: 185.77.231.80
-  port: 54969
-  uuid: 2a428848-ede7-4fb2-9e8d-92bb5158814e
-  encryption: none
-  flow: xtls-rprx-vision
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ
-    short-id: 00e7
-  servername: alfabank.ru
-- name: BLACK LTE [893]
-  type: vless
-  server: 185.141.227.190
-  port: 2072
-  uuid: 3a7f3a37-e93c-4787-bcac-903667e6cccc
-  encryption: none
-  tls: true
-  client-fingerprint: edge
-  reality-opts:
-    public-key: Ii9Wmi9ozX7Z9Vf3n1xp2lqUw0pmfXVdOXjdLGLMSHs
-    short-id: 7016808acbb46323
-  servername: max.ru
-- name: BLACK LTE [896]
+- name: BLACK LTE [759]
   type: vless
   server: 194.55.239.115
   port: 443
@@ -2408,9 +2139,152 @@ proxies:
     public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
     short-id: 428ef87fd47a3a32
   servername: api-maps.yandex.ru
-- name: BLACK LTE [897]
+- name: BLACK LTE [760]
+  type: vless
+  server: 194.55.239.115
+  port: 443
+  uuid: 5fddcfcc-0692-4466-8eb9-293e668f1ae8
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: web.max.ru
+- name: BLACK LTE [762]
+  type: vless
+  server: 194.55.239.114
+  port: 443
+  uuid: 28541e1e-d170-4ae0-8388-469bd422e4fe
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [764]
   type: vless
   server: 158.160.35.135
+  port: 443
+  uuid: be2ce604-16c3-488c-8c05-c76edd95bffe
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [767]
+  type: vless
+  server: 194.55.239.113
+  port: 443
+  uuid: 3bf4ed21-bb53-413d-8335-81663cdd036f
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: web.max.ru
+- name: BLACK LTE [771]
+  type: vless
+  server: 158.160.47.253
+  port: 443
+  uuid: 28541e1e-d170-4ae0-8388-469bd422e4fe
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [775]
+  type: vless
+  server: 194.55.239.113
+  port: 443
+  uuid: 5fddcfcc-0692-4466-8eb9-293e668f1ae8
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [776]
+  type: vless
+  server: 194.55.239.113
+  port: 443
+  uuid: 28541e1e-d170-4ae0-8388-469bd422e4fe
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: web.max.ru
+- name: BLACK LTE [777]
+  type: vless
+  server: 194.55.239.115
+  port: 443
+  uuid: 99ecc0ad-32d3-4d8b-a2f8-434f4ecc626d
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [779]
+  type: vless
+  server: 158.160.47.144
+  port: 443
+  uuid: abc9b974-a258-442d-b31e-d23d3f1152bb
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: web.max.ru
+- name: BLACK LTE [781]
+  type: vless
+  server: 158.160.50.102
+  port: 443
+  uuid: 855372a7-6897-4411-8e9f-dd8a67b5b4ee
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: web.max.ru
+- name: BLACK LTE [783]
+  type: vless
+  server: 158.160.47.253
+  port: 443
+  uuid: 3bf4ed21-bb53-413d-8335-81663cdd036f
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [784]
+  type: vless
+  server: 194.55.239.113
   port: 443
   uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
   encryption: none
@@ -2420,397 +2294,653 @@ proxies:
   reality-opts:
     public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
     short-id: 428ef87fd47a3a32
+  servername: web.max.ru
+- name: BLACK LTE [785]
+  type: vless
+  server: 194.55.239.113
+  port: 443
+  uuid: 855372a7-6897-4411-8e9f-dd8a67b5b4ee
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
   servername: api-maps.yandex.ru
+- name: BLACK LTE [787]
+  type: vless
+  server: 158.160.47.144
+  port: 443
+  uuid: abc9b974-a258-442d-b31e-d23d3f1152bb
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [789]
+  type: vless
+  server: 144.31.87.16
+  port: 443
+  uuid: c40f773e-3b96-417e-b22c-e48cb63ca7d9
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: l5eAOSPQMEyzEPvWGAKvCkcPpsJvR3DJfYo6elw1UTE
+    short-id: 3b802dad547b0847
+  servername: yandex.ru
+- name: BLACK LTE [791]
+  type: vless
+  server: ru.x8lab.org
+  port: 443
+  uuid: c6af0348-6835-0007-88a5-7e77bc56458f
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ
+    short-id: c44bcdb731f12c41
+  servername: rutube.ru
+- name: BLACK LTE [807]
+  type: vless
+  server: 178.215.238.148
+  port: 8443
+  uuid: 21c1132b-068c-46fb-880e-3268f6a30e7f
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  servername: eh.vk.com
+- name: BLACK LTE [809]
+  type: vless
+  server: kzw-1.harknmav.fun
+  port: 443
+  uuid: 41618f24-d61d-4a8a-9f9c-6967ccb55d72
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: OqFwv71xwolFHot7R1bl5wDxUVm68xJSZqgc1DCLVkM
+    short-id: 946655b57cc78a17
+  servername: eh.vk.com
+- name: BLACK LTE [831]
+  type: vless
+  server: ger.ilovemax.ru
+  port: 443
+  uuid: dbebcaef-4cc8-01f4-888b-2962aae2e5d3
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik
+    short-id: d8c6b58bcbb0c323
+  servername: max.ru
+- name: BLACK LTE [835]
+  type: vless
+  server: api.rodina-platform.online
+  port: 2072
+  uuid: 080e0b5f-c956-452b-aaa0-2dfd791e8aa3
+  encryption: none
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: Ii9Wmi9ozX7Z9Vf3n1xp2lqUw0pmfXVdOXjdLGLMSHs
+    short-id: 7016808acbb46323
+  servername: max.ru
+- name: BLACK LTE [859]
+  type: vless
+  server: 185.77.231.80
+  port: 54969
+  uuid: 2a428848-ede7-4fb2-9e8d-92bb5158814e
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ
+    short-id: 00e7
+  servername: alfabank.ru
+- name: BLACK LTE [904]
+  type: vless
+  server: 89.208.230.241
+  port: 5443
+  uuid: 35a14133-45f6-40bc-a9cd-918fd0ecb345
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ
+  servername: max.ru
+- name: BLACK LTE [911]
+  type: vless
+  server: 138.16.169.188
+  port: 2083
+  uuid: ab51054f-de76-4a0f-9f3a-b44c8df86a6c
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY
+  servername: dzen.ru
+- name: BLACK LTE [924]
+  type: vless
+  server: 158.160.35.135
+  port: 443
+  uuid: aef8301c-f9de-49cc-bd08-b897d7a93e5c
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [925]
+  type: vless
+  server: 158.160.47.253
+  port: 443
+  uuid: 5fddcfcc-0692-4466-8eb9-293e668f1ae8
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: web.max.ru
+- name: BLACK LTE [926]
+  type: vless
+  server: 158.160.35.135
+  port: 443
+  uuid: 28541e1e-d170-4ae0-8388-469bd422e4fe
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: web.max.ru
+- name: BLACK LTE [931]
+  type: vless
+  server: 158.160.35.135
+  port: 443
+  uuid: 5fddcfcc-0692-4466-8eb9-293e668f1ae8
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [932]
+  type: vless
+  server: 51.250.82.20
+  port: 443
+  uuid: 28541e1e-d170-4ae0-8388-469bd422e4fe
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [933]
+  type: vless
+  server: 51.250.82.20
+  port: 443
+  uuid: 855372a7-6897-4411-8e9f-dd8a67b5b4ee
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: edge
+  reality-opts:
+    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
+    short-id: 428ef87fd47a3a32
+  servername: api-maps.yandex.ru
+- name: BLACK LTE [934]
+  type: vless
+  server: 138.16.169.188
+  port: 2083
+  uuid: ab51054f-de76-4a0f-9f3a-b44c8df86a6c
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY
+  servername: dzen.ru
+- name: BLACK LTE [935]
+  type: vless
+  server: 138.16.169.188
+  port: 2083
+  uuid: ab51054f-de76-4a0f-9f3a-b44c8df86a6c
+  encryption: none
+  flow: xtls-rprx-vision
+  tls: true
+  client-fingerprint: qq
+  reality-opts:
+    public-key: Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY
+  servername: dzen.ru
 proxy-groups:
 - name: Selector
   type: select
   proxies:
-  - BLACK LTE [4]
-  - BLACK LTE [7]
-  - BLACK LTE [8]
-  - BLACK LTE [22]
-  - BLACK LTE [23]
-  - BLACK LTE [24]
+  - BLACK LTE [2]
+  - BLACK LTE [9]
+  - BLACK LTE [25]
+  - BLACK LTE [26]
   - BLACK LTE [27]
-  - BLACK LTE [31]
-  - BLACK LTE [34]
-  - BLACK LTE [46]
-  - BLACK LTE [47]
-  - BLACK LTE [53]
-  - BLACK LTE [54]
+  - BLACK LTE [28]
+  - BLACK LTE [36]
+  - BLACK LTE [48]
+  - BLACK LTE [49]
+  - BLACK LTE [50]
+  - BLACK LTE [51]
+  - BLACK LTE [55]
+  - BLACK LTE [76]
   - BLACK LTE [77]
-  - BLACK LTE [78]
-  - BLACK LTE [84]
-  - BLACK LTE [88]
-  - BLACK LTE [90]
-  - BLACK LTE [91]
-  - BLACK LTE [97]
-  - BLACK LTE [112]
+  - BLACK LTE [83]
+  - BLACK LTE [85]
+  - BLACK LTE [86]
+  - BLACK LTE [92]
+  - BLACK LTE [108]
   - BLACK LTE [115]
+  - BLACK LTE [117]
+  - BLACK LTE [118]
+  - BLACK LTE [120]
   - BLACK LTE [121]
-  - BLACK LTE [126]
   - BLACK LTE [127]
   - BLACK LTE [129]
-  - BLACK LTE [130]
   - BLACK LTE [131]
-  - BLACK LTE [138]
+  - BLACK LTE [132]
+  - BLACK LTE [134]
   - BLACK LTE [139]
-  - BLACK LTE [141]
-  - BLACK LTE [144]
-  - BLACK LTE [149]
-  - BLACK LTE [153]
+  - BLACK LTE [145]
+  - BLACK LTE [148]
+  - BLACK LTE [150]
+  - BLACK LTE [152]
   - BLACK LTE [155]
-  - BLACK LTE [157]
-  - BLACK LTE [159]
-  - BLACK LTE [168]
-  - BLACK LTE [175]
-  - BLACK LTE [180]
-  - BLACK LTE [182]
-  - BLACK LTE [184]
-  - BLACK LTE [185]
-  - BLACK LTE [188]
-  - BLACK LTE [191]
-  - BLACK LTE [195]
-  - BLACK LTE [197]
-  - BLACK LTE [198]
-  - BLACK LTE [201]
+  - BLACK LTE [158]
+  - BLACK LTE [161]
+  - BLACK LTE [162]
+  - BLACK LTE [163]
+  - BLACK LTE [166]
+  - BLACK LTE [167]
+  - BLACK LTE [172]
+  - BLACK LTE [174]
+  - BLACK LTE [176]
+  - BLACK LTE [178]
+  - BLACK LTE [181]
+  - BLACK LTE [189]
+  - BLACK LTE [190]
+  - BLACK LTE [192]
+  - BLACK LTE [196]
   - BLACK LTE [203]
-  - BLACK LTE [207]
-  - BLACK LTE [210]
-  - BLACK LTE [211]
-  - BLACK LTE [215]
-  - BLACK LTE [216]
-  - BLACK LTE [222]
-  - BLACK LTE [226]
-  - BLACK LTE [231]
-  - BLACK LTE [237]
+  - BLACK LTE [206]
+  - BLACK LTE [209]
+  - BLACK LTE [220]
+  - BLACK LTE [233]
+  - BLACK LTE [238]
+  - BLACK LTE [239]
+  - BLACK LTE [243]
   - BLACK LTE [245]
-  - BLACK LTE [247]
-  - BLACK LTE [249]
-  - BLACK LTE [251]
-  - BLACK LTE [253]
-  - BLACK LTE [261]
-  - BLACK LTE [262]
-  - BLACK LTE [274]
-  - BLACK LTE [275]
+  - BLACK LTE [246]
+  - BLACK LTE [252]
+  - BLACK LTE [257]
+  - BLACK LTE [264]
+  - BLACK LTE [271]
   - BLACK LTE [276]
-  - BLACK LTE [286]
-  - BLACK LTE [295]
-  - BLACK LTE [297]
+  - BLACK LTE [277]
+  - BLACK LTE [278]
+  - BLACK LTE [280]
+  - BLACK LTE [281]
+  - BLACK LTE [282]
+  - BLACK LTE [291]
+  - BLACK LTE [293]
   - BLACK LTE [303]
-  - BLACK LTE [305]
-  - BLACK LTE [309]
   - BLACK LTE [310]
+  - BLACK LTE [311]
+  - BLACK LTE [314]
+  - BLACK LTE [315]
   - BLACK LTE [316]
-  - BLACK LTE [317]
-  - BLACK LTE [326]
+  - BLACK LTE [318]
+  - BLACK LTE [322]
   - BLACK LTE [330]
-  - BLACK LTE [332]
   - BLACK LTE [333]
   - BLACK LTE [334]
-  - BLACK LTE [337]
-  - BLACK LTE [340]
-  - BLACK LTE [349]
-  - BLACK LTE [351]
-  - BLACK LTE [353]
-  - BLACK LTE [362]
-  - BLACK LTE [363]
-  - BLACK LTE [364]
-  - BLACK LTE [368]
-  - BLACK LTE [370]
-  - BLACK LTE [377]
+  - BLACK LTE [342]
+  - BLACK LTE [343]
+  - BLACK LTE [344]
+  - BLACK LTE [357]
+  - BLACK LTE [358]
+  - BLACK LTE [367]
+  - BLACK LTE [371]
+  - BLACK LTE [372]
+  - BLACK LTE [374]
+  - BLACK LTE [375]
+  - BLACK LTE [380]
   - BLACK LTE [385]
-  - BLACK LTE [386]
-  - BLACK LTE [392]
-  - BLACK LTE [393]
-  - BLACK LTE [396]
+  - BLACK LTE [394]
+  - BLACK LTE [395]
   - BLACK LTE [402]
   - BLACK LTE [404]
   - BLACK LTE [405]
-  - BLACK LTE [406]
-  - BLACK LTE [408]
-  - BLACK LTE [415]
-  - BLACK LTE [417]
-  - BLACK LTE [439]
+  - BLACK LTE [419]
+  - BLACK LTE [438]
   - BLACK LTE [440]
-  - BLACK LTE [441]
   - BLACK LTE [442]
-  - BLACK LTE [445]
+  - BLACK LTE [449]
+  - BLACK LTE [450]
+  - BLACK LTE [454]
   - BLACK LTE [455]
+  - BLACK LTE [456]
+  - BLACK LTE [457]
+  - BLACK LTE [458]
+  - BLACK LTE [461]
   - BLACK LTE [468]
-  - BLACK LTE [477]
-  - BLACK LTE [480]
-  - BLACK LTE [483]
-  - BLACK LTE [490]
-  - BLACK LTE [494]
-  - BLACK LTE [518]
-  - BLACK LTE [519]
-  - BLACK LTE [522]
-  - BLACK LTE [524]
-  - BLACK LTE [526]
-  - BLACK LTE [527]
+  - BLACK LTE [482]
+  - BLACK LTE [492]
+  - BLACK LTE [495]
+  - BLACK LTE [499]
+  - BLACK LTE [505]
+  - BLACK LTE [508]
+  - BLACK LTE [514]
   - BLACK LTE [528]
-  - BLACK LTE [529]
   - BLACK LTE [530]
-  - BLACK LTE [533]
-  - BLACK LTE [534]
-  - BLACK LTE [535]
-  - BLACK LTE [543]
+  - BLACK LTE [540]
+  - BLACK LTE [541]
   - BLACK LTE [544]
-  - BLACK LTE [553]
-  - BLACK LTE [564]
-  - BLACK LTE [569]
-  - BLACK LTE [571]
-  - BLACK LTE [575]
-  - BLACK LTE [577]
+  - BLACK LTE [545]
+  - BLACK LTE [546]
+  - BLACK LTE [565]
+  - BLACK LTE [568]
+  - BLACK LTE [570]
+  - BLACK LTE [573]
+  - BLACK LTE [576]
+  - BLACK LTE [581]
   - BLACK LTE [583]
-  - BLACK LTE [584]
-  - BLACK LTE [605]
-  - BLACK LTE [606]
-  - BLACK LTE [611]
-  - BLACK LTE [614]
-  - BLACK LTE [615]
-  - BLACK LTE [616]
+  - BLACK LTE [587]
+  - BLACK LTE [592]
+  - BLACK LTE [595]
+  - BLACK LTE [598]
+  - BLACK LTE [600]
+  - BLACK LTE [601]
+  - BLACK LTE [604]
+  - BLACK LTE [618]
   - BLACK LTE [620]
-  - BLACK LTE [622]
   - BLACK LTE [623]
-  - BLACK LTE [624]
-  - BLACK LTE [627]
+  - BLACK LTE [626]
   - BLACK LTE [630]
-  - BLACK LTE [633]
-  - BLACK LTE [685]
+  - BLACK LTE [632]
+  - BLACK LTE [637]
+  - BLACK LTE [640]
+  - BLACK LTE [659]
+  - BLACK LTE [666]
+  - BLACK LTE [682]
+  - BLACK LTE [686]
   - BLACK LTE [687]
-  - BLACK LTE [689]
-  - BLACK LTE [701]
-  - BLACK LTE [702]
-  - BLACK LTE [710]
-  - BLACK LTE [716]
-  - BLACK LTE [723]
-  - BLACK LTE [726]
-  - BLACK LTE [741]
+  - BLACK LTE [692]
+  - BLACK LTE [703]
+  - BLACK LTE [709]
+  - BLACK LTE [713]
+  - BLACK LTE [718]
+  - BLACK LTE [719]
+  - BLACK LTE [720]
+  - BLACK LTE [735]
+  - BLACK LTE [738]
+  - BLACK LTE [739]
   - BLACK LTE [746]
   - BLACK LTE [749]
-  - BLACK LTE [752]
-  - BLACK LTE [757]
+  - BLACK LTE [750]
   - BLACK LTE [758]
   - BLACK LTE [759]
   - BLACK LTE [760]
-  - BLACK LTE [765]
-  - BLACK LTE [766]
-  - BLACK LTE [768]
-  - BLACK LTE [769]
-  - BLACK LTE [770]
+  - BLACK LTE [762]
+  - BLACK LTE [764]
+  - BLACK LTE [767]
   - BLACK LTE [771]
-  - BLACK LTE [774]
   - BLACK LTE [775]
+  - BLACK LTE [776]
   - BLACK LTE [777]
-  - BLACK LTE [790]
-  - BLACK LTE [792]
-  - BLACK LTE [795]
-  - BLACK LTE [805]
-  - BLACK LTE [817]
-  - BLACK LTE [851]
-  - BLACK LTE [890]
-  - BLACK LTE [891]
-  - BLACK LTE [892]
-  - BLACK LTE [893]
-  - BLACK LTE [896]
-  - BLACK LTE [897]
+  - BLACK LTE [779]
+  - BLACK LTE [781]
+  - BLACK LTE [783]
+  - BLACK LTE [784]
+  - BLACK LTE [785]
+  - BLACK LTE [787]
+  - BLACK LTE [789]
+  - BLACK LTE [791]
+  - BLACK LTE [807]
+  - BLACK LTE [809]
+  - BLACK LTE [831]
+  - BLACK LTE [835]
+  - BLACK LTE [859]
+  - BLACK LTE [904]
+  - BLACK LTE [911]
+  - BLACK LTE [924]
+  - BLACK LTE [925]
+  - BLACK LTE [926]
+  - BLACK LTE [931]
+  - BLACK LTE [932]
+  - BLACK LTE [933]
+  - BLACK LTE [934]
+  - BLACK LTE [935]
 - name: Auto Fallback
   type: fallback
   url: http://www.gstatic.com/generate_204
   interval: 300
   proxies:
-  - BLACK LTE [4]
-  - BLACK LTE [7]
-  - BLACK LTE [8]
-  - BLACK LTE [22]
-  - BLACK LTE [23]
-  - BLACK LTE [24]
+  - BLACK LTE [2]
+  - BLACK LTE [9]
+  - BLACK LTE [25]
+  - BLACK LTE [26]
   - BLACK LTE [27]
-  - BLACK LTE [31]
-  - BLACK LTE [34]
-  - BLACK LTE [46]
-  - BLACK LTE [47]
-  - BLACK LTE [53]
-  - BLACK LTE [54]
+  - BLACK LTE [28]
+  - BLACK LTE [36]
+  - BLACK LTE [48]
+  - BLACK LTE [49]
+  - BLACK LTE [50]
+  - BLACK LTE [51]
+  - BLACK LTE [55]
+  - BLACK LTE [76]
   - BLACK LTE [77]
-  - BLACK LTE [78]
-  - BLACK LTE [84]
-  - BLACK LTE [88]
-  - BLACK LTE [90]
-  - BLACK LTE [91]
-  - BLACK LTE [97]
-  - BLACK LTE [112]
+  - BLACK LTE [83]
+  - BLACK LTE [85]
+  - BLACK LTE [86]
+  - BLACK LTE [92]
+  - BLACK LTE [108]
   - BLACK LTE [115]
+  - BLACK LTE [117]
+  - BLACK LTE [118]
+  - BLACK LTE [120]
   - BLACK LTE [121]
-  - BLACK LTE [126]
   - BLACK LTE [127]
   - BLACK LTE [129]
-  - BLACK LTE [130]
   - BLACK LTE [131]
-  - BLACK LTE [138]
+  - BLACK LTE [132]
+  - BLACK LTE [134]
   - BLACK LTE [139]
-  - BLACK LTE [141]
-  - BLACK LTE [144]
-  - BLACK LTE [149]
-  - BLACK LTE [153]
+  - BLACK LTE [145]
+  - BLACK LTE [148]
+  - BLACK LTE [150]
+  - BLACK LTE [152]
   - BLACK LTE [155]
-  - BLACK LTE [157]
-  - BLACK LTE [159]
-  - BLACK LTE [168]
-  - BLACK LTE [175]
-  - BLACK LTE [180]
-  - BLACK LTE [182]
-  - BLACK LTE [184]
-  - BLACK LTE [185]
-  - BLACK LTE [188]
-  - BLACK LTE [191]
-  - BLACK LTE [195]
-  - BLACK LTE [197]
-  - BLACK LTE [198]
-  - BLACK LTE [201]
+  - BLACK LTE [158]
+  - BLACK LTE [161]
+  - BLACK LTE [162]
+  - BLACK LTE [163]
+  - BLACK LTE [166]
+  - BLACK LTE [167]
+  - BLACK LTE [172]
+  - BLACK LTE [174]
+  - BLACK LTE [176]
+  - BLACK LTE [178]
+  - BLACK LTE [181]
+  - BLACK LTE [189]
+  - BLACK LTE [190]
+  - BLACK LTE [192]
+  - BLACK LTE [196]
   - BLACK LTE [203]
-  - BLACK LTE [207]
-  - BLACK LTE [210]
-  - BLACK LTE [211]
-  - BLACK LTE [215]
-  - BLACK LTE [216]
-  - BLACK LTE [222]
-  - BLACK LTE [226]
-  - BLACK LTE [231]
-  - BLACK LTE [237]
+  - BLACK LTE [206]
+  - BLACK LTE [209]
+  - BLACK LTE [220]
+  - BLACK LTE [233]
+  - BLACK LTE [238]
+  - BLACK LTE [239]
+  - BLACK LTE [243]
   - BLACK LTE [245]
-  - BLACK LTE [247]
-  - BLACK LTE [249]
-  - BLACK LTE [251]
-  - BLACK LTE [253]
-  - BLACK LTE [261]
-  - BLACK LTE [262]
-  - BLACK LTE [274]
-  - BLACK LTE [275]
+  - BLACK LTE [246]
+  - BLACK LTE [252]
+  - BLACK LTE [257]
+  - BLACK LTE [264]
+  - BLACK LTE [271]
   - BLACK LTE [276]
-  - BLACK LTE [286]
-  - BLACK LTE [295]
-  - BLACK LTE [297]
+  - BLACK LTE [277]
+  - BLACK LTE [278]
+  - BLACK LTE [280]
+  - BLACK LTE [281]
+  - BLACK LTE [282]
+  - BLACK LTE [291]
+  - BLACK LTE [293]
   - BLACK LTE [303]
-  - BLACK LTE [305]
-  - BLACK LTE [309]
   - BLACK LTE [310]
+  - BLACK LTE [311]
+  - BLACK LTE [314]
+  - BLACK LTE [315]
   - BLACK LTE [316]
-  - BLACK LTE [317]
-  - BLACK LTE [326]
+  - BLACK LTE [318]
+  - BLACK LTE [322]
   - BLACK LTE [330]
-  - BLACK LTE [332]
   - BLACK LTE [333]
   - BLACK LTE [334]
-  - BLACK LTE [337]
-  - BLACK LTE [340]
-  - BLACK LTE [349]
-  - BLACK LTE [351]
-  - BLACK LTE [353]
-  - BLACK LTE [362]
-  - BLACK LTE [363]
-  - BLACK LTE [364]
-  - BLACK LTE [368]
-  - BLACK LTE [370]
-  - BLACK LTE [377]
+  - BLACK LTE [342]
+  - BLACK LTE [343]
+  - BLACK LTE [344]
+  - BLACK LTE [357]
+  - BLACK LTE [358]
+  - BLACK LTE [367]
+  - BLACK LTE [371]
+  - BLACK LTE [372]
+  - BLACK LTE [374]
+  - BLACK LTE [375]
+  - BLACK LTE [380]
   - BLACK LTE [385]
-  - BLACK LTE [386]
-  - BLACK LTE [392]
-  - BLACK LTE [393]
-  - BLACK LTE [396]
+  - BLACK LTE [394]
+  - BLACK LTE [395]
   - BLACK LTE [402]
   - BLACK LTE [404]
   - BLACK LTE [405]
-  - BLACK LTE [406]
-  - BLACK LTE [408]
-  - BLACK LTE [415]
-  - BLACK LTE [417]
-  - BLACK LTE [439]
+  - BLACK LTE [419]
+  - BLACK LTE [438]
   - BLACK LTE [440]
-  - BLACK LTE [441]
   - BLACK LTE [442]
-  - BLACK LTE [445]
+  - BLACK LTE [449]
+  - BLACK LTE [450]
+  - BLACK LTE [454]
   - BLACK LTE [455]
+  - BLACK LTE [456]
+  - BLACK LTE [457]
+  - BLACK LTE [458]
+  - BLACK LTE [461]
   - BLACK LTE [468]
-  - BLACK LTE [477]
-  - BLACK LTE [480]
-  - BLACK LTE [483]
-  - BLACK LTE [490]
-  - BLACK LTE [494]
-  - BLACK LTE [518]
-  - BLACK LTE [519]
-  - BLACK LTE [522]
-  - BLACK LTE [524]
-  - BLACK LTE [526]
-  - BLACK LTE [527]
+  - BLACK LTE [482]
+  - BLACK LTE [492]
+  - BLACK LTE [495]
+  - BLACK LTE [499]
+  - BLACK LTE [505]
+  - BLACK LTE [508]
+  - BLACK LTE [514]
   - BLACK LTE [528]
-  - BLACK LTE [529]
   - BLACK LTE [530]
-  - BLACK LTE [533]
-  - BLACK LTE [534]
-  - BLACK LTE [535]
-  - BLACK LTE [543]
+  - BLACK LTE [540]
+  - BLACK LTE [541]
   - BLACK LTE [544]
-  - BLACK LTE [553]
-  - BLACK LTE [564]
-  - BLACK LTE [569]
-  - BLACK LTE [571]
-  - BLACK LTE [575]
-  - BLACK LTE [577]
+  - BLACK LTE [545]
+  - BLACK LTE [546]
+  - BLACK LTE [565]
+  - BLACK LTE [568]
+  - BLACK LTE [570]
+  - BLACK LTE [573]
+  - BLACK LTE [576]
+  - BLACK LTE [581]
   - BLACK LTE [583]
-  - BLACK LTE [584]
-  - BLACK LTE [605]
-  - BLACK LTE [606]
-  - BLACK LTE [611]
-  - BLACK LTE [614]
-  - BLACK LTE [615]
-  - BLACK LTE [616]
+  - BLACK LTE [587]
+  - BLACK LTE [592]
+  - BLACK LTE [595]
+  - BLACK LTE [598]
+  - BLACK LTE [600]
+  - BLACK LTE [601]
+  - BLACK LTE [604]
+  - BLACK LTE [618]
   - BLACK LTE [620]
-  - BLACK LTE [622]
   - BLACK LTE [623]
-  - BLACK LTE [624]
-  - BLACK LTE [627]
+  - BLACK LTE [626]
   - BLACK LTE [630]
-  - BLACK LTE [633]
-  - BLACK LTE [685]
+  - BLACK LTE [632]
+  - BLACK LTE [637]
+  - BLACK LTE [640]
+  - BLACK LTE [659]
+  - BLACK LTE [666]
+  - BLACK LTE [682]
+  - BLACK LTE [686]
   - BLACK LTE [687]
-  - BLACK LTE [689]
-  - BLACK LTE [701]
-  - BLACK LTE [702]
-  - BLACK LTE [710]
-  - BLACK LTE [716]
-  - BLACK LTE [723]
-  - BLACK LTE [726]
-  - BLACK LTE [741]
+  - BLACK LTE [692]
+  - BLACK LTE [703]
+  - BLACK LTE [709]
+  - BLACK LTE [713]
+  - BLACK LTE [718]
+  - BLACK LTE [719]
+  - BLACK LTE [720]
+  - BLACK LTE [735]
+  - BLACK LTE [738]
+  - BLACK LTE [739]
   - BLACK LTE [746]
   - BLACK LTE [749]
-  - BLACK LTE [752]
-  - BLACK LTE [757]
+  - BLACK LTE [750]
   - BLACK LTE [758]
   - BLACK LTE [759]
   - BLACK LTE [760]
-  - BLACK LTE [765]
-  - BLACK LTE [766]
-  - BLACK LTE [768]
-  - BLACK LTE [769]
-  - BLACK LTE [770]
+  - BLACK LTE [762]
+  - BLACK LTE [764]
+  - BLACK LTE [767]
   - BLACK LTE [771]
-  - BLACK LTE [774]
   - BLACK LTE [775]
+  - BLACK LTE [776]
   - BLACK LTE [777]
-  - BLACK LTE [790]
-  - BLACK LTE [792]
-  - BLACK LTE [795]
-  - BLACK LTE [805]
-  - BLACK LTE [817]
-  - BLACK LTE [851]
-  - BLACK LTE [890]
-  - BLACK LTE [891]
-  - BLACK LTE [892]
-  - BLACK LTE [893]
-  - BLACK LTE [896]
-  - BLACK LTE [897]
+  - BLACK LTE [779]
+  - BLACK LTE [781]
+  - BLACK LTE [783]
+  - BLACK LTE [784]
+  - BLACK LTE [785]
+  - BLACK LTE [787]
+  - BLACK LTE [789]
+  - BLACK LTE [791]
+  - BLACK LTE [807]
+  - BLACK LTE [809]
+  - BLACK LTE [831]
+  - BLACK LTE [835]
+  - BLACK LTE [859]
+  - BLACK LTE [904]
+  - BLACK LTE [911]
+  - BLACK LTE [924]
+  - BLACK LTE [925]
+  - BLACK LTE [926]
+  - BLACK LTE [931]
+  - BLACK LTE [932]
+  - BLACK LTE [933]
+  - BLACK LTE [934]
+  - BLACK LTE [935]
 rules:
 - MATCH,Selector
